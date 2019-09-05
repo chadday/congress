@@ -1,14 +1,14 @@
 import requests
 import xmltodict
 import csv
+import os
+import sys
 
-
-def main():
+def main(path):
     '''
-    XML containing the members of the House of Representatives, 116th Congress
+    XML containing the members of the House of Representatives, 116th Congress and committee details
     '''
     url = 'http://clerk.house.gov/xml/lists/MemberData.xml'
-    path = '/Users/dayc/code/ghfb/cong'
     member_headers = ['state_district', 'bioguide_id', 'full_name', 'formal_name', 'title', 'first_name', 'middle_name', 'last_name', 'suffix', 'sortable_name', 'prior_congress', 'official_name', 'party', 'caucus', 'state_code', 'state', 'district', 'town', 'office_building', 'office_room', 'office_zip', 'office_zip_suffix',  'phone', 'last_elected_date', 'sworn_date']
     com_headers = ['comcode', 'comtype', 'comname', 'majority', 'minority', 'building', 'room', 'phone']
     sub_headers = ['subcode', 'subcomname', 'parent_com', 'parent_com_code', 'building', 'room', 'phone', 'majority',  'minority']
@@ -106,5 +106,12 @@ def writer(data,path,headers,name):
         print("CSV File Ready")
 
 
-if __name__=='__main__':
-    main()
+if __name__=="__main__":
+    try:
+        dir_path = os.path.abspath(sys.argv[1])
+        print("Using {}".format(dir_path))
+        main(dir_path)
+    except IndexError:
+        msg = "ERROR: You must invoke this script with a target directory" +\
+            "\n\tpython senate.py /path/to/files"
+        print(msg)
