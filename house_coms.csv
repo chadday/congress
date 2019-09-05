@@ -1,0 +1,28 @@
+comcode,comtype,comname,majority,minority,building,room,phone
+AG00,standing,Committee on Agriculture,26,21,LHOB,1301,225-2171
+AP00,standing,Committee on Appropriations,30,23,C,H307,225-2771
+AS00,standing,Committee on Armed Services,31,26,RHOB,2216,225-4151
+BA00,standing,Committee on Financial Services,34,26,RHOB,2129,225-4247
+BU00,standing,Committee on the Budget,22,14,CHOB,204E,226-7200
+ED00,standing,Committee on Education and Labor,28,22,RHOB,2176,225-3725
+FA00,standing,Committee on Foreign Affairs,26,21,RHOB,2170,225-5021
+GO00,standing,Committee on Oversight and Reform,24,18,RHOB,2157,225-5051
+HA00,standing,Committee on House Administration,6,3,LHOB,1309,225-2061
+HM00,standing,Committee on Homeland Security,18,13,FHOB,176,226-2616
+IF00,standing,Committee on Energy and Commerce,31,24,RHOB,2125,225-2927
+II00,standing,Committee on Natural Resources,26,19,LHOB,1324,225-6065
+JU00,standing,Committee on the Judiciary,24,17,RHOB,2138,225-3951
+PW00,standing,Committee on Transportation and Infrastructure,37,30,RHOB,2165,225-4472
+RU00,standing,Committee on Rules,9,4,C,H312,225-9091
+SM00,standing,Committee on Small Business,14,10,RHOB,2361,225-4038
+SO00,standing,Committee on Ethics,5,5,LHOB,1015,225-7103
+SY00,standing,"Committee on Science, Space, and Technology",22,17,RHOB,2321,225-6375
+VR00,standing,Committee on Veterans' Affairs,16,12,LHOB,B234,225-9756
+WM00,standing,Committee on Ways and Means,25,17,LHOB,1102,225-3625
+IG00,select,Permanent Select Committee on Intelligence,13,9,C,HVC304,225-7690
+CN00,select,Select Committee on the Climate Crisis,9,6,FHOB,359,225-1106
+MH00,select,Select Committee on the Modernization of Congress,6,6,CHOB,226,225-1530
+EC00,joint,Joint Economic Committee,0,0,DSOB,SD-G01,224-5171
+IT00,joint,Joint Committee on Taxation,0,0,FHOB,502,225-3621
+JL00,joint,Joint Committee on the Library,0,0,RSOB,SR-305,224-6352
+JP00,joint,Joint Committee on Printing,6,4,LHOB,1309,225-2061
