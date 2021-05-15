@@ -10,11 +10,15 @@ def main(path):
     XML containing the members of the House of Representatives, 116th Congress and committee details
     '''
     url = 'https://www.senate.gov/legislative/LIS_MEMBER/cvc_member_data.xml'
+    com_url = 'https://www.senate.gov/general/committee_membership/committee_memberships_SSAP.xml'
     sen_headers = ['state', 'bioguideid', 'member_id', 'first_name', 'last_name', 'suffix', 'party', 'town', 'office', 'state_rank']
     com_agn_headers = ['bioguideid', 'first_name', 'last_name', 'comcode', 'comname', 'position']
     data = parse_xml(url)
+    com_data = parse_xml(com_url)
     senators = []
     com_records = []
+    committees = []
+    subcommittees = []
     get_senators(data,senators)
     get_com_assignments(data,com_records)
     writer(senators,path,sen_headers,'senators')
@@ -57,6 +61,7 @@ def get_com_assignments(data,com_records):
                 position = None
         com_record = bioguideid, first_name, last_name, comcode, comname, position
         com_records.append(com_record)
+
 
 
 def writer(data,path,headers,name):
