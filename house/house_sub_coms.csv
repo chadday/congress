@@ -24,7 +24,7 @@ AS26,Intelligence and Special Operations,Committee on Armed Services,AS00,RHOB,2
 AS28,Seapower and Projection Forces,Committee on Armed Services,AS00,RHOB,2340,226-8979,9,8
 AS29,Strategic Forces,Committee on Armed Services,AS00,RHOB,2340,225-1967,9,8
 AS35,"Cyber, Innovative Technologies, and Information Systems",Committee on Armed Services,AS00,RHOB,2340,226-2843,11,9
-BA01,"National Security, International Development, and Monetary Policy",Committee on Financial Services,BA00,RHOB,2129,225-4247,9,7
+BA01,"National Security, International Development, and Monetary Policy",Committee on Financial Services,BA00,RHOB,2129,225-4247,9,8
 BA04,"Housing, Community Development, and Insurance",Committee on Financial Services,BA00,RHOB,2129,225-4247,11,9
 BA09,Oversight and Investigations,Committee on Financial Services,BA00,RHOB,2129,225-4247,7,5
 BA13,Diversity and Inclusion,Committee on Financial Services,BA00,RHOB,2129,225-4247,8,7
@@ -85,20 +85,20 @@ SM27,"Economic Growth, Tax, and Capital Access",Committee on Small Business,SM00
 SY15,Research and Technology,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,8,6
 SY16,Space and Aeronautics,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,7,5
 SY18,Environment,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,6,4
-SY20,Energy,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,8,6
+SY20,Energy,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,9,6
 SY21,Investigations and Oversight,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,5,3
-VR03,Health,Committee on Veterans' Affairs,VR00,LHOB,B234,225-9756,8,6
-VR08,Oversight and Investigations,Committee on Veterans' Affairs,VR00,LHOB,B234,225-9756,4,3
-VR09,Disability Assistance and Memorial Affairs,Committee on Veterans' Affairs,VR00,LHOB,B234,225-9756,5,4
-VR10,Economic Opportunity,Committee on Veterans' Affairs,VR00,LHOB,B234,225-9756,5,4
-VR11,Technology Modernization,Committee on Veterans' Affairs,VR00,LHOB,B234,225-9756,3,2
+VR03,Health,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,8,6
+VR08,Oversight and Investigations,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,4,3
+VR09,Disability Assistance and Memorial Affairs,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,5,4
+VR10,Economic Opportunity,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,5,4
+VR11,Technology Modernization,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,3,2
 WM01,Social Security,Committee on Ways and Means,WM00,RHOB,2018,225-9263,8,5
-WM02,Health,Committee on Ways and Means,WM00,LHOB,1104,225-3943,11,8
+WM02,Health,Committee on Ways and Means,WM00,LHOB,1036A,225-3943,11,8
 WM03,Worker and Family Support,Committee on Ways and Means,WM00,LHOB,1129,225-9263,8,5
 WM04,Trade,Committee on Ways and Means,WM00,LHOB,1103,225-6649,11,8
 WM05,Select Revenue Measures,Committee on Ways and Means,WM00,LHOB,1136,225-5522,11,8
 WM06,Oversight,Committee on Ways and Means,WM00,RHOB,2018,225-3625,8,5
-IG05,"Counterterrorism, Counterintelligence, and Counterproliferation",Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,0,0
-IG06,Defense Intelligence and Warfighter Support,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,0,0
-IG08,Intelligence Modernization and Readiness,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,0,0
-IG10,Strategic Technologies and Advanced Research,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,0,0
+IG05,"Counterterrorism, Counterintelligence, and Counterproliferation",Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5
+IG06,Defense Intelligence and Warfighter Support,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5
+IG08,Intelligence Modernization and Readiness,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,5,4
+IG10,Strategic Technologies and Advanced Research,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,4

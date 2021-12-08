@@ -17,13 +17,15 @@ RU00,standing,Committee on Rules,9,4,C,H312,225-9091
 SM00,standing,Committee on Small Business,15,12,RHOB,2361,225-4038
 SO00,standing,Committee on Ethics,5,5,LHOB,1015,225-7103
 SY00,standing,"Committee on Science, Space, and Technology",23,19,RHOB,2321,225-6375
-VC00,standing,Select Subcommittee on the Coronavirus Crisis,7,5,RHOB,2157,225-4400
-VR00,standing,Committee on Veterans' Affairs,17,14,LHOB,B234,225-9756
+VR00,standing,Committee on Veterans' Affairs,17,14,CHOB,364,225-9756
 WM00,standing,Committee on Ways and Means,25,18,LHOB,1102,225-3625
 IG00,select,Permanent Select Committee on Intelligence,13,10,C,HVC304,225-7690
 CN00,select,Select Committee on the Climate Crisis,9,7,FHOB,359,225-1106
+EF00,select,Select Committee on Economic Disparity and Fairness in Growth,8,6,OHOB,3470,225-5990
+IJ00,select,Select Committee to Investigate the January 6th Attack on the United States Capitol,2,7,TBD,TBD,225-7800
 MH00,select,Select Committee on the Modernization of Congress,6,6,CHOB,164,225-1530
+VC00,select,Select Subcommittee on the Coronavirus Crisis,7,5,RHOB,B234,225-4400
 EC00,joint,Joint Economic Committee,0,0,DSOB,SD-G01,224-5171
 IT00,joint,Joint Committee on Taxation,0,0,FHOB,502,225-3621
-JL00,joint,Joint Committee on the Library,0,0,RSOB,SR-305,224-6352
-JP00,joint,Joint Committee on Printing,6,4,LHOB,1309,225-2061
+JL00,joint,Joint Committee on the Library,0,0,LHOB,1309,225-2061
+JP00,joint,Joint Committee on Printing,6,4,RSOB,SR-305,224-6352
