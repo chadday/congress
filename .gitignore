@@ -2,6 +2,8 @@
 ####################
 notebooks/
 notebooks
+venv/*
+venv
 
 # VS Code #
 ##################
