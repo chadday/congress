@@ -1,5 +1,5 @@
 '''
-Retrieve data on U.S. House of Representatives members.
+Retrieve data on U.S. House of Representatives and Senate members.
 '''
 import csv
 from datetime import datetime
