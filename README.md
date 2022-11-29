@@ -17,5 +17,5 @@ Get fresh House and Senate listings
 python pycongress.py
 ```
 
-CSV files will appear in `/senate` and `/house`.
+CSV files will appear in `senate/` and `house/`.
 
