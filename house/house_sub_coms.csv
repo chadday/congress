@@ -16,7 +16,7 @@ AP18,"Military Construction, Veterans Affairs, and Related Agencies",Committee o
 AP19,"Commerce, Justice, Science, and Related Agencies",Committee on Appropriations,AP00,C,H310,225-3351,7,4
 AP20,"Transportation, and Housing and Urban Development, and Related Agencies",Committee on Appropriations,AP00,RHOB,2358A,225-2141,9,6
 AP23,Financial Services and General Government,Committee on Appropriations,AP00,RHOB,2000,225-7245,7,4
-AP24,Legislative Branch,Committee on Appropriations,AP00,C,H306,226-7252,5,3
+AP24,Legislative Branch,Committee on Appropriations,AP00,C,H305A,226-7252,5,3
 AS02,Military Personnel,Committee on Armed Services,AS00,RHOB,2340,225-7560,7,6
 AS03,Readiness,Committee on Armed Services,AS00,RHOB,2340,226-8979,9,8
 AS25,Tactical Air and Land Forces,Committee on Armed Services,AS00,RHOB,2340,226-2843,9,8
@@ -42,11 +42,11 @@ FA14,"Europe, Energy, the Environment, and Cyber",Committee on Foreign Affairs,F
 FA16,"Africa, Global Health, and Global Human Rights",Committee on Foreign Affairs,FA00,RHOB,2170,226-1500,8,6
 FA17,"International Development, International Organizations, and Global Corporate Social Impact",Committee on Foreign Affairs,FA00,RHOB,2170,225-5021,6,4
 GO02,Civil Rights and Civil Liberties,Committee on Oversight and Reform,GO00,OHOB,6440,225-5051,9,7
-GO05,Economic and Consumer Policy,Committee on Oversight and Reform,GO00,OHOB,6430,225-5051,7,5
+GO05,Economic and Consumer Policy,Committee on Oversight and Reform,GO00,OHOB,6430,225-5051,8,5
 GO06,National Security,Committee on Oversight and Reform,GO00,OHOB,6470,225-5051,7,5
-GO24,Government Operations,Committee on Oversight and Reform,GO00,OHOB,6460,225-5051,9,7
+GO24,Government Operations,Committee on Oversight and Reform,GO00,OHOB,6460,225-5051,10,7
 GO28,Environment,Committee on Oversight and Reform,GO00,OHOB,6440,225-5051,7,5
-HM05,Intelligence and Counterterrorism,Committee on Homeland Security,HM00,FHOB,176,226-2616,7,6
+HM05,Intelligence and Counterterrorism,Committee on Homeland Security,HM00,FHOB,176,226-2616,6,5
 HM07,Transportation and Maritime Security,Committee on Homeland Security,HM00,FHOB,176,226-2616,6,5
 HM08,"Cybersecurity, Infrastructure Protection, and Innovation",Committee on Homeland Security,HM00,FHOB,176,226-2616,7,6
 HM09,"Oversight, Management, and Accountability",Committee on Homeland Security,HM00,FHOB,176,226-2616,5,4
@@ -85,7 +85,7 @@ SM27,"Economic Growth, Tax, and Capital Access",Committee on Small Business,SM00
 SY15,Research and Technology,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,8,6
 SY16,Space and Aeronautics,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,7,5
 SY18,Environment,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,6,4
-SY20,Energy,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,9,6
+SY20,Energy,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,9,7
 SY21,Investigations and Oversight,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,5,3
 VR03,Health,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,8,6
 VR08,Oversight and Investigations,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,4,3
@@ -100,5 +100,5 @@ WM05,Select Revenue Measures,Committee on Ways and Means,WM00,LHOB,1136,225-5522
 WM06,Oversight,Committee on Ways and Means,WM00,RHOB,2018,225-3625,8,5
 IG05,"Counterterrorism, Counterintelligence, and Counterproliferation",Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5
 IG06,Defense Intelligence and Warfighter Support,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5
-IG08,Intelligence Modernization and Readiness,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,5,4
-IG10,Strategic Technologies and Advanced Research,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,4
+IG08,Intelligence Modernization and Readiness,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,5,5
+IG10,Strategic Technologies and Advanced Research,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5

@@ -1,6 +1,9 @@
 # Project Specific #
 ####################
-
+notebooks/
+notebooks
+venv/*
+venv
 
 # VS Code #
 ##################
