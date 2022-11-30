@@ -1,5 +1,7 @@
 # congress
 
+[![Retrieve latest data](https://github.com/chadday/congress/actions/workflows/main.yml/badge.svg)](https://github.com/chadday/congress/actions/workflows/main.yml)
+
 A repo to house some standard code and files containg public information about the U.S. Congress
 
 ```pycongress.py``` parses XML files from the [House](http://clerk.house.gov/member_info/) and [Senate](https://www.senate.gov/general/common/generic/XML_Availability.htm). 
