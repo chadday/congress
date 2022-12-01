@@ -157,7 +157,7 @@ IL16,K000378,"KINZINGER,ADAM","Kinzinger, Adam",Mr.,Adam,,Kinzinger,,Adam Kinzin
 IL17,B001286,"BUSTOS,CHERI","Bustos, Cheri",Mrs.,Cheri,,Bustos,,Cheri Bustos,Mrs. Bustos,116,D,D,IL,Illinois,17th,Moline,LHOB,1233,20515,1317,(202) 225-5905,20201103,20210103
 IL18,L000585,"LAHOOD,DARIN","LaHood, Darin",Mr.,Darin,,LaHood,,Darin LaHood,Mr. LaHood,116,R,R,IL,Illinois,18th,Peoria,LHOB,1424,20515,1318,(202) 225-6201,20201103,20210103
 IN01,M001214,"MRVAN,FRANK","Mrvan, Frank",Mr.,Frank,J.,Mrvan,,Frank J. Mrvan,Mr. Mrvan,0,D,D,IN,Indiana,1st,Highland,LHOB,1607,20515,1401,(202) 225-2461,20201103,20210103
-IN02,Y000067,"YAKYM,RUDY","Yakym, Rudy",Mr.,Rudy,,Yakym,III,Rudy Yakym,Mr. Yakym,0,R,R,IN,Indiana,2nd,Granger,CHOB,466,20515,1402,(202) 225-3915,20221108,20221114
+IN02,Y000067,"YAKYM,RUDY","Yakym, Rudy",Mr.,Rudy,,Yakym,III,"Rudy Yakym, III",Mr. Yakym,0,R,R,IN,Indiana,2nd,Granger,CHOB,466,20515,1402,(202) 225-3915,20221108,20221114
 IN03,B001299,"BANKS,JIM","Banks, Jim",Mr.,Jim,,Banks,,Jim Banks,Mr. Banks,116,R,R,IN,Indiana,3rd,Columbia City,LHOB,1713,20515,1403,(202) 225-4436,20201103,20210103
 IN04,B001307,"BAIRD,JAMES","Baird, James",Mr.,James,R.,Baird,,James R. Baird,Mr. Baird,116,R,R,IN,Indiana,4th,Greencastle,LHOB,1314,20515,1404,(202) 225-5037,20201103,20210103
 IN05,S000929,"SPARTZ,VICTORIA","Spartz, Victoria",Mrs.,Victoria,,Spartz,,Victoria Spartz,Mrs. Spartz,0,R,R,IN,Indiana,5th,Noblesville,LHOB,1523,20515,1405,(202) 225-2276,20201103,20210103
@@ -408,7 +408,7 @@ UT04,O000086,"OWENS,BURGESS","Owens, Burgess",Mr.,Burgess,,Owens,,Burgess Owens,
 VA01,W000804,"WITTMAN,ROBERT","Wittman, Robert",Mr.,Robert,J.,Wittman,,Robert J. Wittman,Mr. Wittman,116,R,R,VA,Virginia,1st,Montross,RHOB,2055,20515,4601,(202) 225-4261,20201103,20210103
 VA02,L000591,"LURIA,ELAINE","Luria, Elaine",Mrs.,Elaine,G.,Luria,,Elaine G. Luria,Mrs. Luria,116,D,D,VA,Virginia,2nd,Norfolk,CHOB,412,20515,4602,(202) 225-4215,20201103,20210103
 VA03,S000185,"SCOTT,ROBERT","Scott, Robert",Mr.,Robert,"C. ""Bobby""",Scott,,"Robert C. ""Bobby"" Scott",Mr. Scott of Virginia,116,D,D,VA,Virginia,3rd,Newport News,RHOB,2328,20515,4603,(202) 225-8351,20201103,20210103
-VA04,M001200,"MCEACHIN,A.","McEachin, A.",Mr.,A.,Donald,McEachin,,A. Donald McEachin,Mr. McEachin,116,D,D,VA,Virginia,4th,Richmond,CHOB,314,20515,4604,(202) 225-6365,20201103,20210103
+VA04,,,,,,,,,,,0,,,VA,Virginia,4th,,CHOB,314,20515,4604,(202) 225-6365,,
 VA05,G000595,"GOOD,BOB","Good, Bob",Mr.,Bob,,Good,,Bob Good,Mr. Good of Virginia,0,R,R,VA,Virginia,5th,Evington,LHOB,1213,20515,4605,(202) 225-4711,20201103,20210103
 VA06,C001118,"CLINE,BEN","Cline, Ben",Mr.,Ben,,Cline,,Ben Cline,Mr. Cline,116,R,R,VA,Virginia,6th,Rockbridge,RHOB,2443,20515,4606,(202) 225-5431,20201103,20210103
 VA07,S001209,"SPANBERGER,ABIGAIL","Spanberger, Abigail",Ms.,Abigail,Davis,Spanberger,,Abigail Davis Spanberger,Ms. Spanberger,116,D,D,VA,Virginia,7th,Glen Allen,LHOB,1431,20515,4607,(202) 225-2815,20201103,20210103
