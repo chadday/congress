@@ -167,21 +167,22 @@ def parse_sen_assign(data):
     """
     assigns = []
     for sen in data["senators"]["senator"]:
-        for d in sen["committees"]["committee"]:
-            if "@position" in d.keys():
-                position = d["@position"]
-            else:
-                position = None
-            assigns.append(
-                {
-                    "bioguideid": sen["bioguideId"],
-                    "first_name": sen["name"]["first"],
-                    "last_name": sen["name"]["last"],
-                    "comcode": d["@code"],
-                    "comname": d["#text"],
-                    "position": position,
-                }
-            )
+        if 'committee' in sen['committees'].keys():
+            for d in sen["committees"]["committee"]:
+                if "@position" in d.keys():
+                    position = d["@position"]
+                else:
+                    position = None
+                assigns.append(
+                    {
+                        "bioguideid": sen["bioguideId"],
+                        "first_name": sen["name"]["first"],
+                        "last_name": sen["name"]["last"],
+                        "comcode": d["@code"],
+                        "comname": d["#text"],
+                        "position": position,
+                    }
+                )
     return assigns
 
 
