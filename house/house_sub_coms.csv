@@ -1,104 +1,108 @@
 subcode,subcomname,parent_com,parent_com_code,building,room,phone,majority,minority
-AG03,"Nutrition, Oversight, and Department Operations",Committee on Agriculture,AG00,LHOB,1301,225-2171,10,9
-AG14,"Biotechnology, Horticulture, and Research",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,10
-AG15,Conservation and Forestry,Committee on Agriculture,AG00,LHOB,1301,225-2171,8,7
-AG16,General Farm Commodities and Risk Management,Committee on Agriculture,AG00,LHOB,1301,225-2171,7,6
-AG22,"Commodity Exchanges, Energy, and Credit",Committee on Agriculture,AG00,LHOB,1301,225-2171,10,9
-AG29,Livestock and Foreign Agriculture,Committee on Agriculture,AG00,LHOB,1301,225-2171,12,11
-AP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",Committee on Appropriations,AP00,RHOB,2362A,225-2638,9,6
-AP02,Defense,Committee on Appropriations,AP00,C,H405,225-2847,10,7
-AP04,"State, Foreign Operations, and Related Programs",Committee on Appropriations,AP00,C,HT2,225-2041,7,4
-AP06,"Interior, Environment, and Related Agencies",Committee on Appropriations,AP00,RHOB,2007,225-3081,7,4
-AP07,"Labor, Health and Human Services, Education, and Related Agencies",Committee on Appropriations,AP00,RHOB,2358B,225-3508,10,6
-AP10,"Energy and Water Development, and Related Agencies",Committee on Appropriations,AP00,RHOB,2362B,225-3421,9,6
-AP15,Homeland Security,Committee on Appropriations,AP00,RHOB,2006,225-5834,7,4
-AP18,"Military Construction, Veterans Affairs, and Related Agencies",Committee on Appropriations,AP00,C,HT2,225-3047,7,4
-AP19,"Commerce, Justice, Science, and Related Agencies",Committee on Appropriations,AP00,C,H310,225-3351,7,4
-AP20,"Transportation, and Housing and Urban Development, and Related Agencies",Committee on Appropriations,AP00,RHOB,2358A,225-2141,9,6
-AP23,Financial Services and General Government,Committee on Appropriations,AP00,RHOB,2000,225-7245,7,4
-AP24,Legislative Branch,Committee on Appropriations,AP00,C,H305A,226-7252,5,3
-AS02,Military Personnel,Committee on Armed Services,AS00,RHOB,2340,225-7560,7,6
-AS03,Readiness,Committee on Armed Services,AS00,RHOB,2340,226-8979,9,8
-AS25,Tactical Air and Land Forces,Committee on Armed Services,AS00,RHOB,2340,226-2843,9,8
-AS26,Intelligence and Special Operations,Committee on Armed Services,AS00,RHOB,2340,225-1967,8,7
-AS28,Seapower and Projection Forces,Committee on Armed Services,AS00,RHOB,2340,226-8979,9,8
-AS29,Strategic Forces,Committee on Armed Services,AS00,RHOB,2340,225-1967,9,8
-AS35,"Cyber, Innovative Technologies, and Information Systems",Committee on Armed Services,AS00,RHOB,2340,226-2843,11,9
-BA01,"National Security, International Development, and Monetary Policy",Committee on Financial Services,BA00,RHOB,2129,225-4247,9,8
-BA04,"Housing, Community Development, and Insurance",Committee on Financial Services,BA00,RHOB,2129,225-4247,11,9
-BA09,Oversight and Investigations,Committee on Financial Services,BA00,RHOB,2129,225-4247,7,5
-BA13,Diversity and Inclusion,Committee on Financial Services,BA00,RHOB,2129,225-4247,8,7
-BA15,Consumer Protection and Financial Institutions,Committee on Financial Services,BA00,RHOB,2129,225-4247,13,10
-BA16,"Investor Protection, Entrepreneurship, and Capital Markets",Committee on Financial Services,BA00,RHOB,2129,225-4247,13,10
-ED02,"Health, Employment, Labor, and Pensions",Committee on Education and Labor,ED00,RHOB,2176,225-3725,9,7
-ED07,Civil Rights and Human Services,Committee on Education and Labor,ED00,RHOB,2176,225-3725,7,5
-ED10,Workforce Protections,Committee on Education and Labor,ED00,RHOB,2176,225-3725,9,7
-ED13,Higher Education and Workforce Investment,Committee on Education and Labor,ED00,RHOB,2176,225-3725,15,12
-ED14,"Early Childhood, Elementary, and Secondary Education",Committee on Education and Labor,ED00,RHOB,2176,225-3725,12,9
-FA05,"Asia, the Pacific, Central Asia, and Nonproliferation",Committee on Foreign Affairs,FA00,RHOB,2170,226-6434,10,8
-FA07,"Western Hemisphere, Civilian Security, Migration, and International Economic Policy",Committee on Foreign Affairs,FA00,RHOB,2170,225-3345,5,3
-FA13,"Middle East, North Africa, and Global Counterterrorism",Committee on Foreign Affairs,FA00,RHOB,2170,226-7812,11,9
-FA14,"Europe, Energy, the Environment, and Cyber",Committee on Foreign Affairs,FA00,RHOB,2170,225-5021,11,9
-FA16,"Africa, Global Health, and Global Human Rights",Committee on Foreign Affairs,FA00,RHOB,2170,226-1500,8,6
-FA17,"International Development, International Organizations, and Global Corporate Social Impact",Committee on Foreign Affairs,FA00,RHOB,2170,225-5021,6,4
-GO02,Civil Rights and Civil Liberties,Committee on Oversight and Reform,GO00,OHOB,6440,225-5051,9,7
-GO05,Economic and Consumer Policy,Committee on Oversight and Reform,GO00,OHOB,6430,225-5051,8,5
-GO06,National Security,Committee on Oversight and Reform,GO00,OHOB,6470,225-5051,7,5
-GO24,Government Operations,Committee on Oversight and Reform,GO00,OHOB,6460,225-5051,10,7
-GO28,Environment,Committee on Oversight and Reform,GO00,OHOB,6440,225-5051,7,5
-HM05,Intelligence and Counterterrorism,Committee on Homeland Security,HM00,FHOB,176,226-2616,6,5
-HM07,Transportation and Maritime Security,Committee on Homeland Security,HM00,FHOB,176,226-2616,6,5
-HM08,"Cybersecurity, Infrastructure Protection, and Innovation",Committee on Homeland Security,HM00,FHOB,176,226-2616,7,6
-HM09,"Oversight, Management, and Accountability",Committee on Homeland Security,HM00,FHOB,176,226-2616,5,4
-HM11,"Border Security, Facilitation, and Operations",Committee on Homeland Security,HM00,FHOB,176,226-2616,6,5
-HM12,"Emergency Preparedness, Response, and Recovery",Committee on Homeland Security,HM00,FHOB,176,226-2616,6,5
-IF02,Oversight and Investigations,Committee on Energy and Commerce,IF00,RHOB,2125,225-2927,10,7
-IF03,Energy,Committee on Energy and Commerce,IF00,RHOB,2125,225-2927,18,14
-IF14,Health,Committee on Energy and Commerce,IF00,RHOB,2125,225-2927,18,14
-IF16,Communications and Technology,Committee on Energy and Commerce,IF00,RHOB,2125,225-2927,17,13
-IF17,Consumer Protection and Commerce,Committee on Energy and Commerce,IF00,RHOB,2125,225-2927,13,9
-IF18,Environment and Climate Change,Committee on Energy and Commerce,IF00,RHOB,2125,225-2927,13,9
-II06,Energy and Mineral Resources,Committee on Natural Resources,II00,LHOB,1522,225-6065,8,6
-II10,"National Parks, Forests, and Public Lands",Committee on Natural Resources,II00,LHOB,1328,225-6065,12,10
-II13,"Water, Oceans, and Wildlife",Committee on Natural Resources,II00,LHOB,1332,225-6065,13,11
-II15,Oversight and Investigations,Committee on Natural Resources,II00,FHOB,186,225-6065,5,4
-II24,For Indigenous Peoples of the United States,Committee on Natural Resources,II00,LHOB,1331,225-6065,8,7
-JU01,Immigration and Citizenship,Committee on the Judiciary,JU00,OHOB,6320,225-3926,8,6
-JU03,"Courts, Intellectual Property, and the Internet",Committee on the Judiciary,JU00,OHOB,6310,225-5741,12,11
-JU05,"Antitrust, Commercial, and Administrative Law",Committee on the Judiciary,JU00,OHOB,6240,226-7680,13,11
-JU08,"Crime, Terrorism and Homeland Security",Committee on the Judiciary,JU00,OHOB,6340,225-5727,12,9
-JU10,"The Constitution, Civil Rights, and Civil Liberties",Committee on the Judiciary,JU00,OHOB,6220,225-3951,7,5
-PW02,Water Resources and Environment,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-4472,15,13
-PW05,Aviation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-4472,21,18
-PW07,Coast Guard and Maritime Transportation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-4472,8,7
-PW12,Highways and Transit,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-4472,31,27
-PW13,"Economic Development, Public Buildings, and Emergency Management",Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-4472,8,7
-PW14,"Railroads, Pipelines, and Hazardous Materials",Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-4472,18,15
-RU02,Legislative and Budget Process,Committee on Rules,RU00,C,H312,225-9091,5,2
-RU04,Rules and Organization of the House,Committee on Rules,RU00,C,H312,225-9091,5,2
-RU05,Expedited Procedures,Committee on Rules,RU00,C,H312,225-9091,5,2
-SM23,Contracting and Infrastructure,Committee on Small Business,SM00,RHOB,2361,225-4038,6,5
-SM24,"Oversight, Investigations, and Regulations",Committee on Small Business,SM00,RHOB,2361,225-4038,6,5
-SM25,"Underserved, Agricultural, and Rural Business Development",Committee on Small Business,SM00,RHOB,2361,225-4038,6,5
-SM26,"Innovation, Entrepreneurship, and Workforce Development",Committee on Small Business,SM00,RHOB,2361,225-4038,6,5
-SM27,"Economic Growth, Tax, and Capital Access",Committee on Small Business,SM00,RHOB,2361,225-4038,6,5
-SY15,Research and Technology,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,8,6
-SY16,Space and Aeronautics,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,7,5
-SY18,Environment,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,6,4
-SY20,Energy,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,9,7
-SY21,Investigations and Oversight,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6375,5,3
-VR03,Health,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,8,6
-VR08,Oversight and Investigations,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,4,3
-VR09,Disability Assistance and Memorial Affairs,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,5,4
-VR10,Economic Opportunity,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,5,4
-VR11,Technology Modernization,Committee on Veterans' Affairs,VR00,CHOB,364,225-9756,3,2
+AG03,"Nutrition, Foreign Agriculture, and Horticulture",Committee on Agriculture,AG00,LHOB,1301,225-2171,0,0
+AG14,"Conservation, Research, and Biotechnology",Committee on Agriculture,AG00,LHOB,1301,225-2171,0,0
+AG15,Forestry,Committee on Agriculture,AG00,LHOB,1301,225-2171,0,0
+AG16,"General Farm Commodities, Risk Management, and Credit",Committee on Agriculture,AG00,LHOB,1301,225-2171,0,0
+AG22,"Commodity Markets, Digital Assets, and Rural Development",Committee on Agriculture,AG00,LHOB,1301,225-2171,0,0
+AG29,"Livestock, Dairy, and Poultry",Committee on Agriculture,AG00,LHOB,1301,225-2171,0,0
+AP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",Committee on Appropriations,AP00,RHOB,2362A,225-2638,0,0
+AP02,Defense,Committee on Appropriations,AP00,C,H405,225-2847,0,0
+AP04,"State, Foreign Operations, and Related Programs",Committee on Appropriations,AP00,C,HT2,225-2041,0,0
+AP06,"Interior, Environment, and Related Agencies",Committee on Appropriations,AP00,RHOB,2007,225-3081,0,0
+AP07,"Labor, Health and Human Services, Education, and Related Agencies",Committee on Appropriations,AP00,RHOB,2358B,225-3508,0,0
+AP10,"Energy and Water Development, and Related Agencies",Committee on Appropriations,AP00,RHOB,2362B,225-3421,0,0
+AP15,Homeland Security,Committee on Appropriations,AP00,RHOB,2006,225-5834,0,0
+AP18,"Military Construction, Veterans Affairs, and Related Agencies",Committee on Appropriations,AP00,C,HT2,225-3047,0,0
+AP19,"Commerce, Justice, Science, and Related Agencies",Committee on Appropriations,AP00,C,H310,225-3351,0,0
+AP20,"Transportation, Housing and Urban Development, and Related Agencies",Committee on Appropriations,AP00,RHOB,2358A,225-2141,0,0
+AP23,Financial Services and General Government,Committee on Appropriations,AP00,RHOB,2000,225-7245,0,0
+AP24,Legislative Branch,Committee on Appropriations,AP00,C,HT2,226-7252,0,0
+AS02,Military Personnel,Committee on Armed Services,AS00,RHOB,2216,225-4151,0,0
+AS03,Readiness,Committee on Armed Services,AS00,RHOB,2216,225-4151,0,0
+AS25,Tactical Air and Land Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,0,0
+AS26,Intelligence and Special Operations,Committee on Armed Services,AS00,RHOB,2216,225-4151,0,0
+AS28,Seapower and Projection Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,0,0
+AS29,Strategic Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,0,0
+AS35,"Cyber, Information Technologies, and  Innovation",Committee on Armed Services,AS00,RHOB,2216,225-4151,0,0
+BA01,"National Security, Illicit Finance, and  International Financial Institutions",Committee on Financial Services,BA00,RHOB,2129,225-7502,9,7
+BA04,Housing and Insurance,Committee on Financial Services,BA00,RHOB,2129,225-7502,10,9
+BA09,Oversight and Investigations,Committee on Financial Services,BA00,RHOB,2129,225-7502,7,5
+BA16,Capital Markets,Committee on Financial Services,BA00,RHOB,2129,225-7502,13,10
+BA20,Financial Institutions and Monetary Policy,Committee on Financial Services,BA00,RHOB,2129,225-7502,13,10
+BA21,"Digital Assets, Financial Technology and Inclusion",Committee on Financial Services,BA00,RHOB,2129,225-7502,10,8
+ED02,"Health, Employment, Labor, and Pensions",Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,0,0
+ED10,Workforce Protections,Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,0,0
+ED13,Higher Education and Workforce Development,Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,0,0
+ED14,"Early Childhood, Elementary, and Secondary Education",Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,0,0
+FA05,Indo-Pacific,Committee on Foreign Affairs,FA00,RHOB,2170,000-0000,10,8
+FA06,"Global Health, Global Human Rights, and International Organizations",Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,0,0
+FA07,Western Hemisphere,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,5,3
+FA13,"Middle East, North Africa, and Central Asia",Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,11,9
+FA14,Europe,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,11,9
+FA16,Africa,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,8,6
+FA17,Oversight and Accountability,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,6,4
+GO05,"Economic Growth, Energy Policy, and Regulatory Affairs",Committee on Oversight and Accountability,GO00,OHOB,6430,225-5074,8,5
+GO06,"National Security, the Border, and Foreign Affairs",Committee on Oversight and Accountability,GO00,OHOB,6470,225-5074,7,5
+GO12,"Cybersecurity, Information Technology, and Government Innovation",Committee on Oversight and Accountability,GO00,OHOB,6440,225-5074,0,0
+GO24,Government Operations and the Federal Workforce,Committee on Oversight and Accountability,GO00,OHOB,6460,225-5074,10,7
+GO27,Health Care and Financial Services,Committee on Oversight and Accountability,GO00,OHOB,6440,225-5074,0,0
+HA06,Oversight,Committee on House Administration,HA00,LHOB,1309,225-8281,4,2
+HA08,Elections,Committee on House Administration,HA00,LHOB,1309,225-8281,4,2
+HA27,Modernization,Committee on House Administration,HA00,LHOB,1309,225-8281,2,2
+HM05,"Counterterrorism, Law Enforcement, and Intelligence",Committee on Homeland Security,HM00,FHOB,176,226-8417,5,4
+HM07,Transportation and Maritime Security,Committee on Homeland Security,HM00,FHOB,176,226-8417,4,3
+HM08,Cybersecurity and Infrastructure Protection,Committee on Homeland Security,HM00,FHOB,176,226-8417,5,4
+HM09,"Oversight, Investigations, and Accountability",Committee on Homeland Security,HM00,FHOB,176,226-8417,5,4
+HM11,Border Security and Enforcement,Committee on Homeland Security,HM00,FHOB,176,226-8417,6,5
+HM12,Emergency Management and Technology,Committee on Homeland Security,HM00,FHOB,176,226-8417,4,3
+IF02,Oversight and Investigations,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,0,0
+IF03,"Energy, Climate, and Grid Security",Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,0,0
+IF14,Health,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,0,0
+IF16,Communications and Technology,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,0,0
+IF17,"Innovation, Data, and Commerce",Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,0,0
+IF18,"Environment, Manufacturing, and Critical Minerals",Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,0,0
+II06,Energy and Mineral Resources,Committee on Natural Resources,II00,LHOB,1522,225-2761,8,6
+II10,Federal Lands,Committee on Natural Resources,II00,LHOB,1328,225-2761,12,10
+II13,"Water, Wildlife and Fisheries",Committee on Natural Resources,II00,LHOB,1332,225-2761,13,11
+II15,Oversight and Investigations,Committee on Natural Resources,II00,FHOB,186,225-2761,5,4
+II24,Indian and Insular Affairs,Committee on Natural Resources,II00,LHOB,1331,225-2761,8,7
+JU01,"Immigration Integrity, Security, and Enforcement",Committee on the Judiciary,JU00,RHOB,2138,225-6906,1,1
+JU03,"Courts, Intellectual Property, and the Internet",Committee on the Judiciary,JU00,RHOB,2138,225-6906,1,1
+JU05,"Administrative State, Regulatory Reform, and Antitrust",Committee on the Judiciary,JU00,RHOB,2138,225-6906,1,1
+JU08,Crime and Federal Government Surveillance,Committee on the Judiciary,JU00,RHOB,2138,225-6906,1,1
+JU10,Constitution and Limited Government,Committee on the Judiciary,JU00,RHOB,2138,225-6906,1,1
+JU13,Responsiveness and Accountability to Oversight,Committee on the Judiciary,JU00,RHOB,2138,225-6909,1,1
+PW02,Water Resources and Environment,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,18,15
+PW05,Aviation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,21,18
+PW07,Coast Guard and Maritime Transportation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,7,6
+PW12,Highways and Transit,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,25,22
+PW13,"Economic Development, Public Buildings, and Emergency Management",Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,8,7
+PW14,"Railroads, Pipelines, and Hazardous Materials",Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,17,14
+RU02,Legislative and Budget Process,Committee on Rules,RU00,C,H312,225-9191,5,2
+RU04,Rules and Organization of the House,Committee on Rules,RU00,C,H312,225-9191,5,2
+SM21,"Rural Development, Energy, and Supply Chains",Committee on Small Business,SM00,RHOB,2361,225-5821,0,0
+SM22,"Innovation, Entrepreneurship, and Workforce Development",Committee on Small Business,SM00,RHOB,2361,225-5821,0,0
+SM23,Contracting and Infrastructure,Committee on Small Business,SM00,RHOB,2361,225-5821,6,5
+SM24,"Oversight, Investigations, and Regulations",Committee on Small Business,SM00,RHOB,2361,225-5821,6,5
+SM27,"Economic Growth, Tax, and Capital Access",Committee on Small Business,SM00,RHOB,2361,225-5821,6,5
+SY15,Research and Technology,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6371,8,6
+SY16,Space and Aeronautics,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6371,7,5
+SY18,Environment,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6371,6,4
+SY20,Energy,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6371,9,7
+SY21,Investigations and Oversight,"Committee on Science, Space, and Technology",SY00,RHOB,2321,225-6371,5,3
+VR03,Health,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,7,5
+VR08,Oversight and Investigations,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,4,3
+VR09,Disability Assistance and Memorial Affairs,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,5,4
+VR10,Economic Opportunity,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,5,4
+VR11,Technology Modernization,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,3,2
 WM01,Social Security,Committee on Ways and Means,WM00,RHOB,2018,225-9263,8,5
-WM02,Health,Committee on Ways and Means,WM00,LHOB,1036A,225-3943,11,8
-WM03,Worker and Family Support,Committee on Ways and Means,WM00,LHOB,1129,225-9263,8,5
+WM02,Health,Committee on Ways and Means,WM00,LHOB,1102,225-3943,11,8
+WM03,Work and Welfare,Committee on Ways and Means,WM00,LHOB,1129,225-9263,8,5
 WM04,Trade,Committee on Ways and Means,WM00,LHOB,1103,225-6649,11,8
-WM05,Select Revenue Measures,Committee on Ways and Means,WM00,LHOB,1136,225-5522,11,8
+WM05,Tax,Committee on Ways and Means,WM00,LHOB,1136,225-5522,11,8
 WM06,Oversight,Committee on Ways and Means,WM00,RHOB,2018,225-3625,8,5
-IG05,"Counterterrorism, Counterintelligence, and Counterproliferation",Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5
-IG06,Defense Intelligence and Warfighter Support,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5
-IG08,Intelligence Modernization and Readiness,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,5,5
-IG10,Strategic Technologies and Advanced Research,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-7690,6,5
+IG01,Central Intelligence Agency,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,0,0
+IG02,National Security Agency and Cyber,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,0,0
+IG04,Defense Intelligence and Overhead Architecture,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,0,0
+IG06,National Intelligence Enterprise,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,0,0
+IG09,Oversight and Investigations,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,0,0

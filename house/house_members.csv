@@ -1,442 +1,442 @@
 state_district,bioguide_id,sortable_name,full_name,title,first_name,middle_name,last_name,suffix,official_name,formal_name,prior_congress,party,caucus,state_code,state,district,town,office_building,office_room,office_zip,office_zip_suffix,phone,last_elected_date,sworn_date
-AK00,P000619,"PELTOLA,MARY","Peltola, Mary",Mrs.,Mary,Sattler,Peltola,,Mary Sattler Peltola,Mrs. Peltola,0,D,D,AK,Alaska,At Large,Bethel,RHOB,2314,20515,0200,(202) 225-5765,20220816,20220913
-AL01,C001054,"CARL,JERRY","Carl, Jerry",Mr.,Jerry,L.,Carl,,Jerry L. Carl,Mr. Carl,0,R,R,AL,Alabama,1st,Mobile,LHOB,1330,20515,0101,(202) 225-4931,20201103,20210103
-AL02,M001212,"MOORE,BARRY","Moore, Barry",Mr.,Barry,,Moore,,Barry Moore,Mr. Moore of Alabama,0,R,R,AL,Alabama,2nd,Enterprise,LHOB,1504,20515,0102,(202) 225-2901,20201103,20210103
-AL03,R000575,"ROGERS,MIKE","Rogers, Mike",Mr.,Mike,,Rogers,,Mike Rogers,Mr. Rogers of Alabama,116,R,R,AL,Alabama,3rd,Weaver,RHOB,2469,20515,0103,(202) 225-3261,20201103,20210103
-AL04,A000055,"ADERHOLT,ROBERT","Aderholt, Robert",Mr.,Robert,B.,Aderholt,,Robert B. Aderholt,Mr. Aderholt,116,R,R,AL,Alabama,4th,Haleyville,CHOB,266,20515,0104,(202) 225-4876,20201103,20210103
-AL05,B001274,"BROOKS,MO","Brooks, Mo",Mr.,Mo,,Brooks,,Mo Brooks,Mr. Brooks,116,R,R,AL,Alabama,5th,Huntsville,RHOB,2185,20515,0105,(202) 225-4801,20201103,20210103
-AL06,P000609,"PALMER,GARY","Palmer, Gary",Mr.,Gary,J.,Palmer,,Gary J. Palmer,Mr. Palmer,116,R,R,AL,Alabama,6th,Hoover,CHOB,170,20515,0106,(202) 225-4921,20201103,20210103
-AL07,S001185,"SEWELL,TERRI","Sewell, Terri",Ms.,Terri,A.,Sewell,,Terri Sewell,Ms. Sewell,116,D,D,AL,Alabama,7th,Birmingham,RHOB,2201,20515,0107,(202) 225-2665,20201103,20210103
-AR01,C001087,"CRAWFORD,ERIC","Crawford, Eric",Mr.,Eric,"A. ""Rick""",Crawford,,"Eric A. ""Rick"" Crawford",Mr. Crawford,116,R,R,AR,Arkansas,1st,Jonesboro,RHOB,2422,20515,0401,(202) 225-4076,20201103,20210103
-AR02,H001072,"HILL,J.","Hill, J.",Mr.,J.,French,Hill,,J. French Hill,Mr. Hill,116,R,R,AR,Arkansas,2nd,Little Rock,LHOB,1533,20515,0402,(202) 225-2506,20201103,20210103
-AR03,W000809,"WOMACK,STEVE","Womack, Steve",Mr.,Steve,,Womack,,Steve Womack,Mr. Womack,116,R,R,AR,Arkansas,3rd,Rogers,RHOB,2412,20515,0403,(202) 225-4301,20201103,20210103
-AR04,W000821,"WESTERMAN,BRUCE","Westerman, Bruce",Mr.,Bruce,,Westerman,,Bruce Westerman,Mr. Westerman,116,R,R,AR,Arkansas,4th,Hot Springs,CHOB,202,20515,0404,(202) 225-3772,20201103,20210103
-AQ00,R000600,"RADEWAGEN,AUMUAAMATA","Radewagen, Aumua Amata",Mrs.,Aumua Amata,Coleman,Radewagen,,Aumua Amata Coleman Radewagen,Mrs. Radewagen,116,R,R,AS,American Samoa,Delegate,Pago Pago,LHOB,1339,20515,5200,(202) 225-8577,20201103,20210103
-AZ01,O000171,"OHALLERAN,TOM","O'Halleran, Tom",Mr.,Tom,,O'Halleran,,Tom O'Halleran,Mr. O'Halleran,116,D,D,AZ,Arizona,1st,Sedona,CHOB,318,20515,0301,(202) 225-3361,20201103,20210103
-AZ02,K000368,"KIRKPATRICK,ANN","Kirkpatrick, Ann",Mrs.,Ann,,Kirkpatrick,,Ann Kirkpatrick,Mrs. Kirkpatrick,116,D,D,AZ,Arizona,2nd,Tucson,CHOB,309,20515,0302,(202) 225-2542,20201103,20210103
-AZ03,G000551,"GRIJALVA,RAUL","Grijalva, Raúl",Mr.,Raúl,M.,Grijalva,,Raúl M. Grijalva,Mr. Grijalva,116,D,D,AZ,Arizona,3rd,Tucson,LHOB,1511,20515,0303,(202) 225-2435,20201103,20210103
-AZ04,G000565,"GOSAR,PAUL","Gosar, Paul",Mr.,Paul,A.,Gosar,,Paul A. Gosar,Mr. Gosar,116,R,R,AZ,Arizona,4th,Bullhead City,RHOB,2057,20515,0304,(202) 225-2315,20201103,20210103
-AZ05,B001302,"BIGGS,ANDY","Biggs, Andy",Mr.,Andy,,Biggs,,Andy Biggs,Mr. Biggs,116,R,R,AZ,Arizona,5th,Gilbert,CHOB,171,20515,0305,(202) 225-2635,20201103,20210103
-AZ06,S001183,"SCHWEIKERT,DAVID","Schweikert, David",Mr.,David,,Schweikert,,David Schweikert,Mr. Schweikert,116,R,R,AZ,Arizona,6th,Fountain Hills,CHOB,304,20515,0306,(202) 225-2190,20201103,20210103
-AZ07,G000574,"GALLEGO,RUBEN","Gallego, Ruben",Mr.,Ruben,,Gallego,,Ruben Gallego,Mr. Gallego,116,D,D,AZ,Arizona,7th,Phoenix,LHOB,1131,20515,0307,(202) 225-4065,20201103,20210103
-AZ08,L000589,"LESKO,DEBBIE","Lesko, Debbie",Mrs.,Debbie,,Lesko,,Debbie Lesko,Mrs. Lesko,116,R,R,AZ,Arizona,8th,Peoria,LHOB,1214,20515,0308,(202) 225-4576,20201103,20210103
-AZ09,S001211,"STANTON,GREG","Stanton, Greg",Mr.,Greg,,Stanton,,Greg Stanton,Mr. Stanton,116,D,D,AZ,Arizona,9th,Phoenix,CHOB,207,20515,0309,(202) 225-9888,20201103,20210103
-CA01,L000578,"LAMALFA,DOUG","LaMalfa, Doug",Mr.,Doug,,LaMalfa,,Doug LaMalfa,Mr. LaMalfa,116,R,R,CA,California,1st,Oroville,CHOB,408,20515,0501,(202) 225-3076,20201103,20210103
-CA02,H001068,"HUFFMAN,JARED","Huffman, Jared",Mr.,Jared,,Huffman,,Jared Huffman,Mr. Huffman,116,D,D,CA,California,2nd,San Rafael,LHOB,1527,20515,0502,(202) 225-5161,20201103,20210103
-CA03,G000559,"GARAMENDI,JOHN","Garamendi, John",Mr.,John,,Garamendi,,John Garamendi,Mr. Garamendi,116,D,D,CA,California,3rd,Walnut Grove,RHOB,2368,20515,0503,(202) 225-1880,20201103,20210103
-CA04,M001177,"MCCLINTOCK,TOM","McClintock, Tom",Mr.,Tom,,McClintock,,Tom McClintock,Mr. McClintock,116,R,R,CA,California,4th,Elk Grove,RHOB,2312,20515,0504,(202) 225-2511,20201103,20210103
-CA05,T000460,"THOMPSON,MIKE","Thompson, Mike",Mr.,Mike,,Thompson,,Mike Thompson,Mr. Thompson of California,116,D,D,CA,California,5th,St. Helena,CHOB,268,20515,0505,(202) 225-3311,20201103,20210103
-CA06,M001163,"MATSUI,DORIS","Matsui, Doris",Ms.,Doris,O.,Matsui,,Doris O. Matsui,Ms. Matsui,116,D,D,CA,California,6th,Sacramento,RHOB,2311,20515,0506,(202) 225-7163,20201103,20210103
-CA07,B001287,"BERA,AMI","Bera, Ami",Mr.,Ami,,Bera,,Ami Bera,Mr. Bera,116,D,D,CA,California,7th,Elk Grove,CHOB,172,20515,0507,(202) 225-5716,20201103,20210103
-CA08,O000019,"OBERNOLTE,JAY","Obernolte, Jay",Mr.,Jay,,Obernolte,,Jay Obernolte,Mr. Obernolte,0,R,R,CA,California,8th,Big Bear Lake,LHOB,1029,20515,0508,(202) 225-5861,20201103,20210103
-CA09,M001166,"MCNERNEY,JERRY","McNerney, Jerry",Mr.,Jerry,,McNerney,,Jerry McNerney,Mr. McNerney,116,D,D,CA,California,9th,Stockton,RHOB,2265,20515,0509,(202) 225-1947,20201103,20210103
-CA10,H001090,"HARDER,JOSH","Harder, Josh",Mr.,Josh,,Harder,,Josh Harder,Mr. Harder of California,116,D,D,CA,California,10th,Tracy,CHOB,209,20515,0510,(202) 225-4540,20201103,20210103
-CA11,D000623,"DESAULNIER,MARK","DeSaulnier, Mark",Mr.,Mark,,DeSaulnier,,Mark DeSaulnier,Mr. DeSaulnier,116,D,D,CA,California,11th,Concord,CHOB,503,20515,0511,(202) 225-2095,20201103,20210103
-CA12,P000197,"PELOSI,NANCY","Pelosi, Nancy",Ms.,Nancy,,Pelosi,,Nancy Pelosi,Ms. Pelosi,116,D,D,CA,California,12th,San Francisco,LHOB,1236,20515,0512,(202) 225-4965,20201103,20210103
-CA13,L000551,"LEE,BARBARA","Lee, Barbara",Ms.,Barbara,,Lee,,Barbara Lee,Ms. Lee of California,116,D,D,CA,California,13th,Oakland,RHOB,2470,20515,0513,(202) 225-2661,20201103,20210103
-CA14,S001175,"SPEIER,JACKIE","Speier, Jackie",Ms.,Jackie,,Speier,,Jackie Speier,Ms. Speier,116,D,D,CA,California,14th,Hillsborough,RHOB,2465,20515,0514,(202) 225-3531,20201103,20210103
-CA15,S001193,"SWALWELL,ERIC","Swalwell, Eric",Mr.,Eric,,Swalwell,,Eric Swalwell,Mr. Swalwell,116,D,D,CA,California,15th,Livermore,CHOB,174,20515,0515,(202) 225-5065,20201103,20210103
-CA16,C001059,"COSTA,JIM","Costa, Jim",Mr.,Jim,,Costa,,Jim Costa,Mr. Costa,116,D,D,CA,California,16th,Fresno,RHOB,2081,20515,0516,(202) 225-3341,20201103,20210103
-CA17,K000389,"KHANNA,RO","Khanna, Ro",Mr.,Ro,,Khanna,,Ro Khanna,Mr. Khanna,116,D,D,CA,California,17th,Fremont,CHOB,306,20515,0517,(202) 225-2631,20201103,20210103
-CA18,E000215,"ESHOO,ANNA","Eshoo, Anna",Ms.,Anna,G.,Eshoo,,Anna G. Eshoo,Ms. Eshoo,116,D,D,CA,California,18th,Atherton,CHOB,272,20515,0518,(202) 225-8104,20201103,20210103
-CA19,L000397,"LOFGREN,ZOE","Lofgren, Zoe",Ms.,Zoe,,Lofgren,,Zoe Lofgren,Ms. Lofgren,116,D,D,CA,California,19th,San José,LHOB,1401,20515,0519,(202) 225-3072,20201103,20210103
-CA20,P000613,"PANETTA,JIMMY","Panetta, Jimmy",Mr.,Jimmy,,Panetta,,Jimmy Panetta,Mr. Panetta,116,D,D,CA,California,20th,Carmel Valley,CHOB,406,20515,0520,(202) 225-2861,20201103,20210103
-CA21,V000129,"VALADAO,DAVID","Valadao, David",Mr.,David,G.,Valadao,,David G. Valadao,Mr. Valadao,115,R,R,CA,California,21st,Hanford,LHOB,1728,20515,0521,(202) 225-4695,20201103,20210103
-CA22,C001128,"CONWAY,CONNIE","Conway, Connie",Ms.,Connie,,Conway,,Connie Conway,Ms. Conway,0,R,R,CA,California,22nd,Tulare,LHOB,1013,20515,0522,(202) 225-2523,20220607,20220614
-CA23,M001165,"MCCARTHY,KEVIN","McCarthy, Kevin",Mr.,Kevin,,McCarthy,,Kevin McCarthy,Mr. McCarthy,116,R,R,CA,California,23rd,Bakersfield,RHOB,2468,20515,0523,(202) 225-2915,20201103,20210103
-CA24,C001112,"CARBAJAL,SALUD","Carbajal, Salud",Mr.,Salud,O.,Carbajal,,Salud O. Carbajal,Mr. Carbajal,116,D,D,CA,California,24th,Santa Barbara,RHOB,2331,20515,0524,(202) 225-3601,20201103,20210103
-CA25,G000061,"GARCIA,MIKE","Garcia, Mike",Mr.,Mike,,Garcia,,Mike Garcia,Mr. Garcia of California,116,R,R,CA,California,25th,Santa Clarita,LHOB,1535,20515,0525,(202) 225-1956,20201103,20210103
-CA26,B001285,"BROWNLEY,JULIA","Brownley, Julia",Ms.,Julia,,Brownley,,Julia Brownley,Ms. Brownley,116,D,D,CA,California,26th,Westlake Village,RHOB,2262,20515,0526,(202) 225-5811,20201103,20210103
-CA27,C001080,"CHU,JUDY","Chu, Judy",Ms.,Judy,,Chu,,Judy Chu,Ms. Chu,116,D,D,CA,California,27th,Monterey Park,RHOB,2423,20515,0527,(202) 225-5464,20201103,20210103
-CA28,S001150,"SCHIFF,ADAM","Schiff, Adam",Mr.,Adam,B.,Schiff,,Adam B. Schiff,Mr. Schiff,116,D,D,CA,California,28th,Burbank,RHOB,2309,20515,0528,(202) 225-4176,20201103,20210103
-CA29,C001097,"CARDENAS,TONY","Cárdenas, Tony",Mr.,Tony,,Cárdenas,,Tony Cárdenas,Mr. Cárdenas,116,D,D,CA,California,29th,Pacoima,RHOB,2438,20515,0529,(202) 225-6131,20201103,20210103
-CA30,S000344,"SHERMAN,BRAD","Sherman, Brad",Mr.,Brad,,Sherman,,Brad Sherman,Mr. Sherman,116,D,D,CA,California,30th,Sherman Oaks,RHOB,2181,20515,0530,(202) 225-5911,20201103,20210103
-CA31,A000371,"AGUILAR,PETE","Aguilar, Pete",Mr.,Pete,,Aguilar,,Pete Aguilar,Mr. Aguilar,116,D,D,CA,California,31st,Redlands,CHOB,109,20515,0531,(202) 225-3201,20201103,20210103
-CA32,N000179,"NAPOLITANO,GRACE","Napolitano, Grace",Mrs.,Grace,F.,Napolitano,,Grace F. Napolitano,Mrs. Napolitano,116,D,D,CA,California,32nd,Norwalk,LHOB,1610,20515,0532,(202) 225-5256,20201103,20210103
-CA33,L000582,"LIEU,TED","Lieu, Ted",Mr.,Ted,,Lieu,,Ted Lieu,Mr. Lieu,116,D,D,CA,California,33rd,Torrance,CHOB,403,20515,0533,(202) 225-3976,20201103,20210103
-CA34,G000585,"GOMEZ,JIMMY","Gomez, Jimmy",Mr.,Jimmy,,Gomez,,Jimmy Gomez,Mr. Gomez,116,D,D,CA,California,34th,Los Angeles,LHOB,1530,20515,0534,(202) 225-6235,20201103,20210103
-CA35,T000474,"TORRES,NORMA","Torres, Norma",Mrs.,Norma,J.,Torres,,Norma J. Torres,Mrs. Torres of California,116,D,D,CA,California,35th,Pomona,RHOB,2227,20515,0535,(202) 225-6161,20201103,20210103
-CA36,R000599,"RUIZ,RAUL","Ruiz, Raul",Mr.,Raul,,Ruiz,,Raul Ruiz,Mr. Ruiz,116,D,D,CA,California,36th,Indio,RHOB,2342,20515,0536,(202) 225-5330,20201103,20210103
-CA37,,,,,,,,,,,0,,,CA,California,37th,,RHOB,2021,20515,0537,(202) 225-7084,,
-CA38,S001156,"SANCHEZ,LINDA","Sánchez, Linda",Ms.,Linda,T.,Sánchez,,Linda T. Sánchez,Ms. Sánchez,116,D,D,CA,California,38th,Whittier,RHOB,2329,20515,0538,(202) 225-6676,20201103,20210103
-CA39,K000397,"KIM,YOUNG","Kim, Young",Mrs.,Young,,Kim,,Young Kim,Mrs. Kim of California,0,R,R,CA,California,39th,La Habra,LHOB,1306,20515,0539,(202) 225-4111,20201103,20210103
-CA40,R000486,"ROYBALALLARD,LUCILLE","Roybal-Allard, Lucille",Ms.,Lucille,,Roybal-Allard,,Lucille Roybal-Allard,Ms. Roybal-Allard,116,D,D,CA,California,40th,Downey,RHOB,2083,20515,0540,(202) 225-1766,20201103,20210103
-CA41,T000472,"TAKANO,MARK","Takano, Mark",Mr.,Mark,,Takano,,Mark Takano,Mr. Takano,116,D,D,CA,California,41st,Riverside,CHOB,420,20515,0541,(202) 225-2305,20201103,20210103
-CA42,C000059,"CALVERT,KEN","Calvert, Ken",Mr.,Ken,,Calvert,,Ken Calvert,Mr. Calvert,116,R,R,CA,California,42nd,Corona,RHOB,2205,20515,0542,(202) 225-1986,20201103,20210103
-CA43,W000187,"WATERS,MAXINE","Waters, Maxine",Ms.,Maxine,,Waters,,Maxine Waters,Ms. Waters,116,D,D,CA,California,43rd,Los Angeles,RHOB,2221,20515,0543,(202) 225-2201,20201103,20210103
-CA44,B001300,"BARRAGAN,NANETTE","Barragán, Nanette",Ms.,Nanette,Diaz,Barragán,,Nanette Diaz Barragán,Ms. Barragán,116,D,D,CA,California,44th,San Pedro,RHOB,2246,20515,0544,(202) 225-8220,20201103,20210103
-CA45,P000618,"PORTER,KATIE","Porter, Katie",Ms.,Katie,,Porter,,Katie Porter,Ms. Porter,116,D,D,CA,California,45th,Irvine,LHOB,1117,20515,0545,(202) 225-5611,20201103,20210103
-CA46,C001110,"CORREA,J.","Correa, J.",Mr.,J.,Luis,Correa,,J. Luis Correa,Mr. Correa,116,D,D,CA,California,46th,Santa Ana,RHOB,2301,20515,0546,(202) 225-2965,20201103,20210103
-CA47,L000579,"LOWENTHAL,ALAN","Lowenthal, Alan",Mr.,Alan,S.,Lowenthal,,Alan S. Lowenthal,Mr. Lowenthal,116,D,D,CA,California,47th,Long Beach,CHOB,108,20515,0547,(202) 225-7924,20201103,20210103
-CA48,S001135,"STEEL,MICHELLE","Steel, Michelle",Mrs.,Michelle,,Steel,,Michelle Steel,Mrs. Steel,0,R,R,CA,California,48th,Orange County,LHOB,1113,20515,0548,(202) 225-2415,20201103,20210103
-CA49,L000593,"LEVIN,MIKE","Levin, Mike",Mr.,Mike,,Levin,,Mike Levin,Mr. Levin of California,116,D,D,CA,California,49th,San Juan Capistrano,LHOB,1030,20515,0549,(202) 225-3906,20201103,20210103
-CA50,I000056,"ISSA,DARRELL","Issa, Darrell",Mr.,Darrell,,Issa,,Darrell Issa,Mr. Issa,115,R,R,CA,California,50th,San Diego,RHOB,2300,20515,0550,(202) 225-5672,20201103,20210103
-CA51,V000130,"VARGAS,JUAN","Vargas, Juan",Mr.,Juan,,Vargas,,Juan Vargas,Mr. Vargas,116,D,D,CA,California,51st,San Diego,RHOB,2244,20515,0551,(202) 225-8045,20201103,20210103
-CA52,P000608,"PETERS,SCOTT","Peters, Scott",Mr.,Scott,H.,Peters,,Scott H. Peters,Mr. Peters,116,D,D,CA,California,52nd,San Diego,LHOB,1201,20515,0552,(202) 225-0508,20201103,20210103
-CA53,J000305,"JACOBS,SARA","Jacobs, Sara",Ms.,Sara,,Jacobs,,Sara Jacobs,Ms. Jacobs of California,0,D,D,CA,California,53rd,San Diego,LHOB,1232,20515,0553,(202) 225-2040,20201103,20210103
-CO01,D000197,"DEGETTE,DIANA","DeGette, Diana",Ms.,Diana,,DeGette,,Diana DeGette,Ms. DeGette,116,D,D,CO,Colorado,1st,Denver,RHOB,2111,20515,0601,(202) 225-4431,20201103,20210103
-CO02,N000191,"NEGUSE,JOE","Neguse, Joe",Mr.,Joe,,Neguse,,Joe Neguse,Mr. Neguse,116,D,D,CO,Colorado,2nd,Lafayette,LHOB,1419,20515,0602,(202) 225-2161,20201103,20210103
-CO03,B000825,"BOEBERT,LAUREN","Boebert, Lauren",Mrs.,Lauren,,Boebert,,Lauren Boebert,Mrs. Boebert,0,R,R,CO,Colorado,3rd,Silt,LHOB,1609,20515,0603,(202) 225-4761,20201103,20210103
-CO04,B001297,"BUCK,KEN","Buck, Ken",Mr.,Ken,,Buck,,Ken Buck,Mr. Buck,116,R,R,CO,Colorado,4th,Windsor,RHOB,2455,20515,0604,(202) 225-4676,20201103,20210103
-CO05,L000564,"LAMBORN,DOUG","Lamborn, Doug",Mr.,Doug,,Lamborn,,Doug Lamborn,Mr. Lamborn,116,R,R,CO,Colorado,5th,Colorado Springs,RHOB,2371,20515,0605,(202) 225-4422,20201103,20210103
-CO06,C001121,"CROW,JASON","Crow, Jason",Mr.,Jason,,Crow,,Jason Crow,Mr. Crow,116,D,D,CO,Colorado,6th,Aurora,LHOB,1229,20515,0606,(202) 225-7882,20201103,20210103
-CO07,P000593,"PERLMUTTER,ED","Perlmutter, Ed",Mr.,Ed,,Perlmutter,,Ed Perlmutter,Mr. Perlmutter,116,D,D,CO,Colorado,7th,Arvada,LHOB,1226,20515,0607,(202) 225-2645,20201103,20210103
-CT01,L000557,"LARSON,JOHN","Larson, John",Mr.,John,B.,Larson,,John B. Larson,Mr. Larson of Connecticut,116,D,D,CT,Connecticut,1st,East Hartford,LHOB,1501,20515,0701,(202) 225-2265,20201103,20210103
-CT02,C001069,"COURTNEY,JOE","Courtney, Joe",Mr.,Joe,,Courtney,,Joe Courtney,Mr. Courtney,116,D,D,CT,Connecticut,2nd,Vernon,RHOB,2449,20515,0702,(202) 225-2076,20201103,20210103
-CT03,D000216,"DELAURO,ROSA","DeLauro, Rosa",Ms.,Rosa,L.,DeLauro,,Rosa L. DeLauro,Ms. DeLauro,116,D,D,CT,Connecticut,3rd,New Haven,RHOB,2413,20515,0703,(202) 225-3661,20201103,20210103
-CT04,H001047,"HIMES,JAMES","Himes, James",Mr.,James,A.,Himes,,James A. Himes,Mr. Himes,116,D,D,CT,Connecticut,4th,Cos Cob,RHOB,2137,20515,0704,(202) 225-5541,20201103,20210103
-CT05,H001081,"HAYES,JAHANA","Hayes, Jahana",Mrs.,Jahana,,Hayes,,Jahana Hayes,Mrs. Hayes,116,D,D,CT,Connecticut,5th,Wolcott,LHOB,1415,20515,0705,(202) 225-4476,20201103,20210103
-DC00,N000147,"NORTON,ELEANOR","Norton, Eleanor",Ms.,Eleanor,Holmes,Norton,,Eleanor Holmes Norton,Ms. Norton,116,D,D,DC,District of Columbia,Delegate,District of Columbia,RHOB,2136,20515,5101,(202) 225-8050,20201103,20210103
-DE00,B001303,"BLUNTROCHESTER,LISA","Blunt Rochester, Lisa",Ms.,Lisa,,Blunt Rochester,,Lisa Blunt Rochester,Ms. Blunt Rochester,116,D,D,DE,Delaware,At Large,Wilmington,LHOB,1724,20515,0800,(202) 225-4165,20201103,20210103
-FL01,G000578,"GAETZ,MATT","Gaetz, Matt",Mr.,Matt,,Gaetz,,Matt Gaetz,Mr. Gaetz,116,R,R,FL,Florida,1st,Niceville,LHOB,1721,20515,0901,(202) 225-4136,20201103,20210103
-FL02,D000628,"DUNN,NEAL","Dunn, Neal",Mr.,Neal,P.,Dunn,,Neal P. Dunn,Mr. Dunn,116,R,R,FL,Florida,2nd,Panama City,CHOB,316,20515,0902,(202) 225-5235,20201103,20210103
-FL03,C001039,"CAMMACK,KAT","Cammack, Kat",Mrs.,Kat,,Cammack,,Kat Cammack,Mrs. Cammack,105,R,R,FL,Florida,3rd,Gainesville,LHOB,1626,20515,0903,(202) 225-5744,20201103,20210103
-FL04,R000609,"RUTHERFORD,JOHN","Rutherford, John",Mr.,John,H.,Rutherford,,John H. Rutherford,Mr. Rutherford,116,R,R,FL,Florida,4th,Jacksonville,LHOB,1711,20515,0904,(202) 225-2501,20201103,20210103
-FL05,L000586,"LAWSON,AL","Lawson, Al",Mr.,Al,,Lawson,Jr.,"Al Lawson, Jr.",Mr. Lawson of Florida,116,D,D,FL,Florida,5th,Tallahassee,RHOB,2437,20515,0905,(202) 225-0123,20201103,20210103
-FL06,W000823,"WALTZ,MICHAEL","Waltz, Michael",Mr.,Michael,,Waltz,,Michael Waltz,Mr. Waltz,116,R,R,FL,Florida,6th,St. Augustine Beach,CHOB,213,20515,0906,(202) 225-2706,20201103,20210103
-FL07,M001202,"MURPHY,STEPHANIE","Murphy, Stephanie",Mrs.,Stephanie,N.,Murphy,,Stephanie N. Murphy,Mrs. Murphy of Florida,116,D,D,FL,Florida,7th,Winter Park,LHOB,1710,20515,0907,(202) 225-4035,20201103,20210103
-FL08,P000599,"POSEY,BILL","Posey, Bill",Mr.,Bill,,Posey,,Bill Posey,Mr. Posey,116,R,R,FL,Florida,8th,Rockledge,RHOB,2150,20515,0908,(202) 225-3671,20201103,20210103
-FL09,S001200,"SOTO,DARREN","Soto, Darren",Mr.,Darren,,Soto,,Darren Soto,Mr. Soto,116,D,D,FL,Florida,9th,Kissimmee,RHOB,2353,20515,0909,(202) 225-9889,20201103,20210103
-FL10,D000627,"DEMINGS,VAL","Demings, Val",Mrs.,Val,Butler,Demings,,Val Butler Demings,Mrs. Demings,116,D,D,FL,Florida,10th,Orlando,CHOB,217,20515,0910,(202) 225-2176,20201103,20210103
-FL11,W000806,"WEBSTER,DANIEL","Webster, Daniel",Mr.,Daniel,,Webster,,Daniel Webster,Mr. Webster of Florida,116,R,R,FL,Florida,11th,Clermont,RHOB,2184,20515,0911,(202) 225-1002,20201103,20210103
-FL12,B001257,"BILIRAKIS,GUS","Bilirakis, Gus",Mr.,Gus,M.,Bilirakis,,Gus M. Bilirakis,Mr. Bilirakis,116,R,R,FL,Florida,12th,Palm Harbor,RHOB,2354,20515,0912,(202) 225-5755,20201103,20210103
-FL13,,,,,,,,,,,0,,,FL,Florida,13th,,CHOB,215,20515,0913,(202) 225-5961,,
-FL14,C001066,"CASTOR,KATHY","Castor, Kathy",Ms.,Kathy,,Castor,,Kathy Castor,Ms. Castor of Florida,116,D,D,FL,Florida,14th,Tampa,RHOB,2052,20515,0914,(202) 225-3376,20201103,20210103
-FL15,F000472,"FRANKLIN,C.","Franklin, C.",Mr.,C.,Scott,Franklin,,C. Scott Franklin,Mr. C. Scott Franklin of Florida,0,R,R,FL,Florida,15th,Lakeland,LHOB,1517,20515,0915,(202) 225-1252,20201103,20210103
-FL16,B001260,"BUCHANAN,VERN","Buchanan, Vern",Mr.,Vern,,Buchanan,,Vern Buchanan,Mr. Buchanan,116,R,R,FL,Florida,16th,Sarasota,RHOB,2110,20515,0916,(202) 225-5015,20201103,20210103
-FL17,S001214,"STEUBE,W.","Steube, W.",Mr.,W.,Gregory,Steube,,W. Gregory Steube,Mr. Steube,116,R,R,FL,Florida,17th,Sarasota,RHOB,2457,20515,0917,(202) 225-5792,20201103,20210103
-FL18,M001199,"MAST,BRIAN","Mast, Brian",Mr.,Brian,J.,Mast,,Brian J. Mast,Mr. Mast,116,R,R,FL,Florida,18th,Fort Pierce,RHOB,2182,20515,0918,(202) 225-3026,20201103,20210103
-FL19,D000032,"DONALDS,BYRON","Donalds, Byron",Mr.,Byron,,Donalds,,Byron Donalds,Mr. Donalds,0,R,R,FL,Florida,19th,Naples,CHOB,523,20515,0919,(202) 225-2536,20201103,20210103
-FL20,C001127,"CHERFILUSMCCORMICK,SHEILA","Cherfilus-McCormick, Sheila",Mrs.,Sheila,,Cherfilus-McCormick,,Sheila Cherfilus-McCormick,Mrs. Cherfilus-McCormick,0,D,D,FL,Florida,20th,Miramar,RHOB,2365,20515,0920,(202) 225-1313,20220111,20220118
-FL21,F000462,"FRANKEL,LOIS","Frankel, Lois",Ms.,Lois,,Frankel,,Lois Frankel,Ms. Lois Frankel of Florida,116,D,D,FL,Florida,21st,West Palm Beach,RHOB,2305,20515,0921,(202) 225-9890,20201103,20210103
-FL22,,,,,,,,,,,0,,,FL,Florida,22nd,,RHOB,2323,20515,0922,(202) 225-3001,,
-FL23,W000797,"WASSERMANSCHULTZ,DEBBIE","Wasserman Schultz, Debbie",Ms.,Debbie,,Wasserman Schultz,,Debbie Wasserman Schultz,Ms. Wasserman Schultz,116,D,D,FL,Florida,23rd,Weston,LHOB,1114,20515,0923,(202) 225-7931,20201103,20210103
-FL24,W000808,"WILSON,FREDERICA","Wilson, Frederica",Ms.,Frederica,S.,Wilson,,Frederica S. Wilson,Ms. Wilson of Florida,116,D,D,FL,Florida,24th,Miami Gardens,RHOB,2445,20515,0924,(202) 225-4506,20201103,20210103
-FL25,D000600,"DIAZBALART,MARIO","Diaz-Balart, Mario",Mr.,Mario,,Diaz-Balart,,Mario Diaz-Balart,Mr. Diaz-Balart,116,R,R,FL,Florida,25th,Miami,CHOB,374,20515,0925,(202) 225-4211,20201103,20210103
-FL26,G000593,"GIMENEZ,CARLOS","Gimenez, Carlos",Mr.,Carlos,A.,Gimenez,,Carlos A. Gimenez,Mr. Gimenez,0,R,R,FL,Florida,26th,Miami,CHOB,419,20515,0926,(202) 225-2778,20201103,20210103
-FL27,S000168,"SALAZAR,MARIA","Salazar, Maria",Ms.,Maria,Elvira,Salazar,,Maria Elvira Salazar,Ms. Salazar,0,R,R,FL,Florida,27th,Miami,LHOB,1616,20515,0927,(202) 225-3931,20201103,20210103
-GA01,C001103,"CARTER,EARL","Carter, Earl",Mr.,Earl,"L. ""Buddy""",Carter,,"Earl L. ""Buddy"" Carter",Mr. Carter of Georgia,116,R,R,GA,Georgia,1st,Pooler,RHOB,2432,20515,1001,(202) 225-5831,20201103,20210103
-GA02,B000490,"BISHOP,SANFORD","Bishop, Sanford",Mr.,Sanford,D.,Bishop,Jr.,"Sanford D. Bishop, Jr.",Mr. Bishop of Georgia,116,D,D,GA,Georgia,2nd,Albany,RHOB,2407,20515,1002,(202) 225-3631,20201103,20210103
-GA03,F000465,"FERGUSON,A.","Ferguson, A.",Mr.,A.,Drew,Ferguson,IV,A. Drew Ferguson IV,Mr. Ferguson,116,R,R,GA,Georgia,3rd,The Rock,LHOB,1032,20515,1003,(202) 225-5901,20201103,20210103
-GA04,J000288,"JOHNSON,HENRY","Johnson, Henry",Mr.,Henry,"C. ""Hank""",Johnson,Jr.,"Henry C. ""Hank"" Johnson, Jr.",Mr. Johnson of Georgia,116,D,D,GA,Georgia,4th,Lithonia,RHOB,2240,20515,1004,(202) 225-1605,20201103,20210103
-GA05,W000788,"WILLIAMS,NIKEMA","Williams, Nikema",Ms.,Nikema,,Williams,,Nikema Williams,Ms. Williams of Georgia,0,D,D,GA,Georgia,5th,Atlanta,LHOB,1406,20515,1005,(202) 225-3801,20201103,20210103
-GA06,M001208,"MCBATH,LUCY","McBath, Lucy",Mrs.,Lucy,,McBath,,Lucy McBath,Mrs. McBath,116,D,D,GA,Georgia,6th,Marietta,LHOB,1513,20515,1006,(202) 225-4501,20201103,20210103
-GA07,B001312,"BOURDEAUX,CAROLYN","Bourdeaux, Carolyn",Ms.,Carolyn,,Bourdeaux,,Carolyn Bourdeaux,Ms. Bourdeaux,0,D,D,GA,Georgia,7th,Suwanee,LHOB,1319,20515,1007,(202) 225-4272,20201103,20210103
-GA08,S001189,"SCOTT,AUSTIN","Scott, Austin",Mr.,Austin,,Scott,,Austin Scott,Mr. Austin Scott of Georgia,116,R,R,GA,Georgia,8th,Tifton,RHOB,2417,20515,1008,(202) 225-6531,20201103,20210103
-GA09,C001116,"CLYDE,ANDREW","Clyde, Andrew",Mr.,Andrew,S.,Clyde,,Andrew S. Clyde,Mr. Clyde,0,R,R,GA,Georgia,9th,Athens,CHOB,521,20515,1009,(202) 225-9893,20201103,20210103
-GA10,H001071,"HICE,JODY","Hice, Jody",Mr.,Jody,B.,Hice,,Jody B. Hice,Mr. Hice of Georgia,116,R,R,GA,Georgia,10th,Greensboro,CHOB,404,20515,1010,(202) 225-4101,20201103,20210103
-GA11,L000583,"LOUDERMILK,BARRY","Loudermilk, Barry",Mr.,Barry,,Loudermilk,,Barry Loudermilk,Mr. Loudermilk,116,R,R,GA,Georgia,11th,Cassville,RHOB,2133,20515,1011,(202) 225-2931,20201103,20210103
-GA12,A000372,"ALLEN,RICK","Allen, Rick",Mr.,Rick,W.,Allen,,Rick W. Allen,Mr. Allen,116,R,R,GA,Georgia,12th,Augusta,CHOB,570,20515,1012,(202) 225-2823,20201103,20210103
-GA13,S001157,"SCOTT,DAVID","Scott, David",Mr.,David,,Scott,,David Scott,Mr. David Scott of Georgia,116,D,D,GA,Georgia,13th,Atlanta,CHOB,468,20515,1013,(202) 225-2939,20201103,20210103
-GA14,G000596,"GREENE,MARJORIE","Greene, Marjorie",Mrs.,Marjorie,Taylor,Greene,,Marjorie Taylor Greene,Mrs. Greene of Georgia,0,R,R,GA,Georgia,14th,Rome,LHOB,1023,20515,1014,(202) 225-5211,20201103,20210103
-GU00,S001204,"SANNICOLAS,MICHAEL","San Nicolas, Michael",Mr.,Michael,F. Q.,San Nicolas,,Michael F. Q. San Nicolas,Mr. San Nicolas,116,D,D,GU,Guam,Delegate,Dededo,LHOB,1632,20515,5301,(202) 225-1188,20201103,20210103
-HI01,C001055,"CASE,ED","Case, Ed",Mr.,Ed,,Case,,Ed Case,Mr. Case,116,D,D,HI,Hawaii,1st,Kaneohe,RHOB,2210,20515,1101,(202) 225-2726,20201103,20210103
-HI02,K000396,"KAHELE,KAIALII","Kahele, Kaiali'i",Mr.,Kaiali'i,,Kahele,,Kaiali'i Kahele,Mr. Kahele,0,D,D,HI,Hawaii,2nd,Hilo,LHOB,1205,20515,1102,(202) 225-4906,20201103,20210103
-IA01,H001091,"HINSON,ASHLEY","Hinson, Ashley",Mrs.,Ashley,,Hinson,,Ashley Hinson,Mrs. Hinson,0,R,R,IA,Iowa,1st,Marion,LHOB,1429,20515,1501,(202) 225-2911,20201103,20210103
-IA02,M001215,"MILLERMEEKS,MARIANNETTE","Miller-Meeks, Mariannette",Mrs.,Mariannette,,Miller-Meeks,,Mariannette Miller-Meeks,Mrs. Miller-Meeks,0,R,R,IA,Iowa,2nd,Le Claire,LHOB,1716,20515,1502,(202) 225-6576,20201103,20210103
-IA03,A000378,"AXNE,CYNTHIA","Axne, Cynthia",Mrs.,Cynthia,,Axne,,Cynthia Axne,Mrs. Axne,116,D,D,IA,Iowa,3rd,West Des Moines,LHOB,1034,20515,1503,(202) 225-5476,20201103,20210103
-IA04,F000446,"FEENSTRA,RANDY","Feenstra, Randy",Mr.,Randy,,Feenstra,,Randy Feenstra,Mr. Feenstra,0,R,R,IA,Iowa,4th,Hull,LHOB,1440,20515,1504,(202) 225-4426,20201103,20210103
-ID01,F000469,"FULCHER,RUSS","Fulcher, Russ",Mr.,Russ,,Fulcher,,Russ Fulcher,Mr. Fulcher,116,R,R,ID,Idaho,1st,Meridian,LHOB,1520,20515,1201,(202) 225-6611,20201103,20210103
-ID02,S001148,"SIMPSON,MICHAEL","Simpson, Michael",Mr.,Michael,K.,Simpson,,Michael K. Simpson,Mr. Simpson,116,R,R,ID,Idaho,2nd,Idaho Falls,RHOB,2084,20515,1202,(202) 225-5531,20201103,20210103
-IL01,R000515,"RUSH,BOBBY","Rush, Bobby",Mr.,Bobby,L.,Rush,,Bobby L. Rush,Mr. Rush,116,D,D,IL,Illinois,1st,Chicago,RHOB,2188,20515,1301,(202) 225-4372,20201103,20210103
-IL02,K000385,"KELLY,ROBIN","Kelly, Robin",Ms.,Robin,L.,Kelly,,Robin L. Kelly,Ms. Kelly of Illinois,116,D,D,IL,Illinois,2nd,Matteson,RHOB,2416,20515,1302,(202) 225-0773,20201103,20210103
-IL03,N000192,"NEWMAN,MARIE","Newman, Marie",Ms.,Marie,,Newman,,Marie Newman,Ms. Newman,0,D,D,IL,Illinois,3rd,La Grange,LHOB,1022,20515,1303,(202) 225-5701,20201103,20210103
-IL04,G000586,"GARCIA,JESUS","García, Jesús",Mr.,Jesús,"G. ""Chuy""",García,,"Jesús G. ""Chuy"" García",Mr. García of Illinois,116,D,D,IL,Illinois,4th,Chicago,LHOB,1519,20515,1304,(202) 225-8203,20201103,20210103
-IL05,Q000023,"QUIGLEY,MIKE","Quigley, Mike",Mr.,Mike,,Quigley,,Mike Quigley,Mr. Quigley,116,D,D,IL,Illinois,5th,Chicago,RHOB,2078,20515,1305,(202) 225-4061,20201103,20210103
-IL06,C001117,"CASTEN,SEAN","Casten, Sean",Mr.,Sean,,Casten,,Sean Casten,Mr. Casten,116,D,D,IL,Illinois,6th,Downers Grove,RHOB,2440,20515,1306,(202) 225-4561,20201103,20210103
-IL07,D000096,"DAVIS,DANNY","Davis, Danny",Mr.,Danny,K.,Davis,,Danny K. Davis,Mr. Danny K. Davis of Illinois,116,D,D,IL,Illinois,7th,Chicago,RHOB,2159,20515,1307,(202) 225-5006,20201103,20210103
-IL08,K000391,"KRISHNAMOORTHI,RAJA","Krishnamoorthi, Raja",Mr.,Raja,,Krishnamoorthi,,Raja Krishnamoorthi,Mr. Krishnamoorthi,116,D,D,IL,Illinois,8th,Schaumburg,CHOB,115,20515,1308,(202) 225-3711,20201103,20210103
-IL09,S001145,"SCHAKOWSKY,JANICE","Schakowsky, Janice",Ms.,Janice,D.,Schakowsky,,Janice D. Schakowsky,Ms. Schakowsky,116,D,D,IL,Illinois,9th,Evanston,RHOB,2367,20515,1309,(202) 225-2111,20201103,20210103
-IL10,S001190,"SCHNEIDER,BRADLEY","Schneider, Bradley",Mr.,Bradley,Scott,Schneider,,Bradley Scott Schneider,Mr. Schneider,116,D,D,IL,Illinois,10th,Deerfield,CHOB,300,20515,1310,(202) 225-4835,20201103,20210103
-IL11,F000454,"FOSTER,BILL","Foster, Bill",Mr.,Bill,,Foster,,Bill Foster,Mr. Foster,116,D,D,IL,Illinois,11th,Naperville,RHOB,2366,20515,1311,(202) 225-3515,20201103,20210103
-IL12,B001295,"BOST,MIKE","Bost, Mike",Mr.,Mike,,Bost,,Mike Bost,Mr. Bost,116,R,R,IL,Illinois,12th,Murphysboro,LHOB,1211,20515,1312,(202) 225-5661,20201103,20210103
-IL13,D000619,"DAVIS,RODNEY","Davis, Rodney",Mr.,Rodney,,Davis,,Rodney Davis,Mr. Rodney Davis of Illinois,116,R,R,IL,Illinois,13th,Taylorville,RHOB,2079,20515,1313,(202) 225-2371,20201103,20210103
-IL14,U000040,"UNDERWOOD,LAUREN","Underwood, Lauren",Ms.,Lauren,,Underwood,,Lauren Underwood,Ms. Underwood,116,D,D,IL,Illinois,14th,Naperville,LHOB,1130,20515,1314,(202) 225-2976,20201103,20210103
-IL15,M001211,"MILLER,MARY","Miller, Mary",Mrs.,Mary,E.,Miller,,Mary E. Miller,Mrs. Miller of Illinois,0,R,R,IL,Illinois,15th,Oakland,LHOB,1529,20515,1315,(202) 225-5271,20201103,20210103
-IL16,K000378,"KINZINGER,ADAM","Kinzinger, Adam",Mr.,Adam,,Kinzinger,,Adam Kinzinger,Mr. Kinzinger,116,R,R,IL,Illinois,16th,Channahon,RHOB,2245,20515,1316,(202) 225-3635,20201103,20210103
-IL17,B001286,"BUSTOS,CHERI","Bustos, Cheri",Mrs.,Cheri,,Bustos,,Cheri Bustos,Mrs. Bustos,116,D,D,IL,Illinois,17th,Moline,LHOB,1233,20515,1317,(202) 225-5905,20201103,20210103
-IL18,L000585,"LAHOOD,DARIN","LaHood, Darin",Mr.,Darin,,LaHood,,Darin LaHood,Mr. LaHood,116,R,R,IL,Illinois,18th,Peoria,LHOB,1424,20515,1318,(202) 225-6201,20201103,20210103
-IN01,M001214,"MRVAN,FRANK","Mrvan, Frank",Mr.,Frank,J.,Mrvan,,Frank J. Mrvan,Mr. Mrvan,0,D,D,IN,Indiana,1st,Highland,LHOB,1607,20515,1401,(202) 225-2461,20201103,20210103
-IN02,Y000067,"YAKYM,RUDY","Yakym, Rudy",Mr.,Rudy,,Yakym,III,"Rudy Yakym, III",Mr. Yakym,0,R,R,IN,Indiana,2nd,Granger,CHOB,466,20515,1402,(202) 225-3915,20221108,20221114
-IN03,B001299,"BANKS,JIM","Banks, Jim",Mr.,Jim,,Banks,,Jim Banks,Mr. Banks,116,R,R,IN,Indiana,3rd,Columbia City,LHOB,1713,20515,1403,(202) 225-4436,20201103,20210103
-IN04,B001307,"BAIRD,JAMES","Baird, James",Mr.,James,R.,Baird,,James R. Baird,Mr. Baird,116,R,R,IN,Indiana,4th,Greencastle,LHOB,1314,20515,1404,(202) 225-5037,20201103,20210103
-IN05,S000929,"SPARTZ,VICTORIA","Spartz, Victoria",Mrs.,Victoria,,Spartz,,Victoria Spartz,Mrs. Spartz,0,R,R,IN,Indiana,5th,Noblesville,LHOB,1523,20515,1405,(202) 225-2276,20201103,20210103
-IN06,P000615,"PENCE,GREG","Pence, Greg",Mr.,Greg,,Pence,,Greg Pence,Mr. Pence,116,R,R,IN,Indiana,6th,Columbus,CHOB,211,20515,1406,(202) 225-3021,20201103,20210103
-IN07,C001072,"CARSON,ANDRE","Carson, André",Mr.,André,,Carson,,André Carson,Mr. Carson,116,D,D,IN,Indiana,7th,Indianapolis,RHOB,2135,20515,1407,(202) 225-4011,20201103,20210103
-IN08,B001275,"BUCSHON,LARRY","Bucshon, Larry",Mr.,Larry,,Bucshon,,Larry Bucshon,Mr. Bucshon,116,R,R,IN,Indiana,8th,Evansville,RHOB,2313,20515,1408,(202) 225-4636,20201103,20210103
-IN09,H001074,"HOLLINGSWORTH,TREY","Hollingsworth, Trey",Mr.,Trey,,Hollingsworth,,Trey Hollingsworth,Mr. Hollingsworth,116,R,R,IN,Indiana,9th,Jeffersonville,LHOB,1641,20515,1409,(202) 225-5315,20201103,20210103
-KS01,M000871,"MANN,TRACEY","Mann, Tracey",Mr.,Tracey,,Mann,,Tracey Mann,Mr. Mann,0,R,R,KS,Kansas,1st,Salina,CHOB,522,20515,1601,(202) 225-2715,20201103,20210103
-KS02,L000266,"LATURNER,JAKE","LaTurner, Jake",Mr.,Jake,,LaTurner,,Jake LaTurner,Mr. LaTurner,0,R,R,KS,Kansas,2nd,Topeka,LHOB,1630,20515,1602,(202) 225-6601,20201103,20210103
-KS03,D000629,"DAVIDS,SHARICE","Davids, Sharice",Ms.,Sharice,,Davids,,Sharice Davids,Ms. Davids of Kansas,116,D,D,KS,Kansas,3rd,Roeland Park,LHOB,1541,20515,1603,(202) 225-2865,20201103,20210103
-KS04,E000298,"ESTES,RON","Estes, Ron",Mr.,Ron,,Estes,,Ron Estes,Mr. Estes,116,R,R,KS,Kansas,4th,Wichita,RHOB,2411,20515,1604,(202) 225-6216,20201103,20210103
-KY01,C001108,"COMER,JAMES","Comer, James",Mr.,James,,Comer,,James Comer,Mr. Comer,116,R,R,KY,Kentucky,1st,Tompkinsville,RHOB,2410,20515,1701,(202) 225-3115,20201103,20210103
-KY02,G000558,"GUTHRIE,BRETT","Guthrie, Brett",Mr.,Brett,,Guthrie,,Brett Guthrie,Mr. Guthrie,116,R,R,KY,Kentucky,2nd,Bowling Green,RHOB,2434,20515,1702,(202) 225-3501,20201103,20210103
-KY03,Y000062,"YARMUTH,JOHN","Yarmuth, John",Mr.,John,A.,Yarmuth,,John A. Yarmuth,Mr. Yarmuth,116,D,D,KY,Kentucky,3rd,Louisville,CHOB,402,20515,1703,(202) 225-5401,20201103,20210103
-KY04,M001184,"MASSIE,THOMAS","Massie, Thomas",Mr.,Thomas,,Massie,,Thomas Massie,Mr. Massie,116,R,R,KY,Kentucky,4th,Garrison,RHOB,2453,20515,1704,(202) 225-3465,20201103,20210103
-KY05,R000395,"ROGERS,HAROLD","Rogers, Harold",Mr.,Harold,,Rogers,,Harold Rogers,Mr. Rogers of Kentucky,116,R,R,KY,Kentucky,5th,Somerset,RHOB,2406,20515,1705,(202) 225-4601,20201103,20210103
-KY06,B001282,"BARR,ANDY","Barr, Andy",Mr.,Andy,,Barr,,Andy Barr,Mr. Barr,116,R,R,KY,Kentucky,6th,Lexington,RHOB,2430,20515,1706,(202) 225-4706,20201103,20210103
-LA01,S001176,"SCALISE,STEVE","Scalise, Steve",Mr.,Steve,,Scalise,,Steve Scalise,Mr. Scalise,116,R,R,LA,Louisiana,1st,Jefferson,RHOB,2049,20515,1801,(202) 225-3015,20201103,20210103
-LA02,C001125,"CARTER,TROY","Carter, Troy",Mr.,Troy,A.,Carter,,Troy A. Carter,Mr. Carter of Louisiana,0,D,D,LA,Louisiana,2nd,New Orleans,CHOB,506,20515,1802,(202) 225-6636,20210424,20210511
-LA03,H001077,"HIGGINS,CLAY","Higgins, Clay",Mr.,Clay,,Higgins,,Clay Higgins,Mr. Higgins of Louisiana,116,R,R,LA,Louisiana,3rd,Lafayette,CHOB,572,20515,1803,(202) 225-2031,20201103,20210103
-LA04,J000299,"JOHNSON,MIKE","Johnson, Mike",Mr.,Mike,,Johnson,,Mike Johnson,Mr. Johnson of Louisiana,116,R,R,LA,Louisiana,4th,Benton,CHOB,568,20515,1804,(202) 225-2777,20201103,20210103
-LA05,L000595,"LETLOW,JULIA","Letlow, Julia",Ms.,Julia,,Letlow,,Julia Letlow,Ms. Letlow,0,R,R,LA,Louisiana,5th,Start,LHOB,1408,20515,1805,(202) 225-8490,20210320,20210414
-LA06,G000577,"GRAVES,GARRET","Graves, Garret",Mr.,Garret,,Graves,,Garret Graves,Mr. Graves of Louisiana,116,R,R,LA,Louisiana,6th,Baton Rouge,RHOB,2402,20515,1806,(202) 225-3901,20201103,20210103
-MA01,N000015,"NEAL,RICHARD","Neal, Richard",Mr.,Richard,E.,Neal,,Richard E. Neal,Mr. Neal,116,D,D,MA,Massachusetts,1st,Springfield,CHOB,372,20515,2101,(202) 225-5601,20201103,20210103
-MA02,M000312,"MCGOVERN,JAMES","McGovern, James",Mr.,James,P.,McGovern,,James P. McGovern,Mr. McGovern,116,D,D,MA,Massachusetts,2nd,Worcester,CHOB,370,20515,2102,(202) 225-6101,20201103,20210103
-MA03,T000482,"TRAHAN,LORI","Trahan, Lori",Mrs.,Lori,,Trahan,,Lori Trahan,Mrs. Trahan,116,D,D,MA,Massachusetts,3rd,Westford,RHOB,2439,20515,2103,(202) 225-3411,20201103,20210103
-MA04,A000148,"AUCHINCLOSS,JAKE","Auchincloss, Jake",Mr.,Jake,,Auchincloss,,Jake Auchincloss,Mr. Auchincloss,0,D,D,MA,Massachusetts,4th,Newton,LHOB,1524,20515,2104,(202) 225-5931,20201103,20210103
-MA05,C001101,"CLARK,KATHERINE","Clark, Katherine",Ms.,Katherine,M.,Clark,,Katherine M. Clark,Ms. Clark of Massachusetts,116,D,D,MA,Massachusetts,5th,Revere,RHOB,2448,20515,2105,(202) 225-2836,20201103,20210103
-MA06,M001196,"MOULTON,SETH","Moulton, Seth",Mr.,Seth,,Moulton,,Seth Moulton,Mr. Moulton,116,D,D,MA,Massachusetts,6th,Ann Arbor,LHOB,1127,20515,2106,(202) 225-8020,20201103,20210103
-MA07,P000617,"PRESSLEY,AYANNA","Pressley, Ayanna",Ms.,Ayanna,,Pressley,,Ayanna Pressley,Ms. Pressley,116,D,D,MA,Massachusetts,7th,Boston,LHOB,1108,20515,2107,(202) 225-5111,20201103,20210103
-MA08,L000562,"LYNCH,STEPHEN","Lynch, Stephen",Mr.,Stephen,F.,Lynch,,Stephen F. Lynch,Mr. Lynch,116,D,D,MA,Massachusetts,8th,Flint Township,RHOB,2109,20515,2108,(202) 225-8273,20201103,20210103
-MA09,K000375,"KEATING,WILLIAM","Keating, William",Mr.,William,R.,Keating,,William R. Keating,Mr. Keating,116,D,D,MA,Massachusetts,9th,Bourne,RHOB,2351,20515,2109,(202) 225-3111,20201103,20210103
-MD01,H001052,"HARRIS,ANDY","Harris, Andy",Mr.,Andy,,Harris,,Andy Harris,Mr. Harris,116,R,R,MD,Maryland,1st,Cambridge,RHOB,2334,20515,2001,(202) 225-5311,20201103,20210103
-MD02,R000576,"RUPPERSBERGER,C.","Ruppersberger, C.",Mr.,C.,A. Dutch,Ruppersberger,,C. A. Dutch Ruppersberger,Mr. Ruppersberger,116,D,D,MD,Maryland,2nd,Cockeysville,RHOB,2206,20515,2002,(202) 225-3061,20201103,20210103
-MD03,S001168,"SARBANES,JOHN","Sarbanes, John",Mr.,John,P.,Sarbanes,,John P. Sarbanes,Mr. Sarbanes,116,D,D,MD,Maryland,3rd,Baltimore,RHOB,2370,20515,2003,(202) 225-4016,20201103,20210103
-MD04,B001304,"BROWN,ANTHONY","Brown, Anthony",Mr.,Anthony,G.,Brown,,Anthony G. Brown,Mr. Brown of Maryland,116,D,D,MD,Maryland,4th,Bowie,LHOB,1323,20515,2004,(202) 225-8699,20201103,20210103
-MD05,H000874,"HOYER,STENY","Hoyer, Steny",Mr.,Steny,H.,Hoyer,,Steny H. Hoyer,Mr. Hoyer,116,D,D,MD,Maryland,5th,Mechanicsville,LHOB,1705,20515,2005,(202) 225-4131,20201103,20210103
-MD06,T000483,"TRONE,DAVID","Trone, David",Mr.,David,J.,Trone,,David J. Trone,Mr. Trone,116,D,D,MD,Maryland,6th,Potomac,LHOB,1110,20515,2006,(202) 225-2721,20201103,20210103
-MD07,M000687,"MFUME,KWEISI","Mfume, Kweisi",Mr.,Kweisi,,Mfume,,Kweisi Mfume,Mr. Mfume,116,D,D,MD,Maryland,7th,Baltimore,RHOB,2263,20515,2007,(202) 225-4741,20201103,20210103
-MD08,R000606,"RASKIN,JAMIE","Raskin, Jamie",Mr.,Jamie,,Raskin,,Jamie Raskin,Mr. Raskin,116,D,D,MD,Maryland,8th,Takoma Park,RHOB,2242,20515,2008,(202) 225-5341,20201103,20210103
-ME01,P000597,"PINGREE,CHELLIE","Pingree, Chellie",Ms.,Chellie,,Pingree,,Chellie Pingree,Ms. Pingree,116,D,D,ME,Maine,1st,North Haven,RHOB,2162,20515,1901,(202) 225-6116,20201103,20210103
-ME02,G000592,"GOLDEN,JARED","Golden, Jared",Mr.,Jared,F.,Golden,,Jared F. Golden,Mr. Golden,116,D,D,ME,Maine,2nd,Lewiston,LHOB,1222,20515,1902,(202) 225-6306,20201103,20210103
-MI01,B001301,"BERGMAN,JACK","Bergman, Jack",Mr.,Jack,,Bergman,,Jack Bergman,Mr. Bergman,116,R,R,MI,Michigan,1st,Watersmeet,CHOB,566,20515,2201,(202) 225-4735,20201103,20210103
-MI02,H001058,"HUIZENGA,BILL","Huizenga, Bill",Mr.,Bill,,Huizenga,,Bill Huizenga,Mr. Huizenga,116,R,R,MI,Michigan,2nd,Holland,RHOB,2232,20515,2202,(202) 225-4401,20201103,20210103
-MI03,M001186,"MEIJER,PETER","Meijer, Peter",Mr.,Peter,,Meijer,,Peter Meijer,Mr. Meijer,0,R,R,MI,Michigan,3rd,Grand Rapids,LHOB,1508,20515,2203,(202) 225-3831,20201103,20210103
-MI04,M001194,"MOOLENAAR,JOHN","Moolenaar, John",Mr.,John,R.,Moolenaar,,John R. Moolenaar,Mr. Moolenaar,116,R,R,MI,Michigan,4th,Caledonia,CHOB,117,20515,2204,(202) 225-3561,20201103,20210103
-MI05,K000380,"KILDEE,DANIEL","Kildee, Daniel",Mr.,Daniel,T.,Kildee,,Daniel T. Kildee,Mr. Kildee,116,D,D,MI,Michigan,5th,Flushing,CHOB,200,20515,2205,(202) 225-3611,20201103,20210103
-MI06,U000031,"UPTON,FRED","Upton, Fred",Mr.,Fred,,Upton,,Fred Upton,Mr. Upton,116,R,R,MI,Michigan,6th,St. Joseph,RHOB,2183,20515,2206,(202) 225-3761,20201103,20210103
-MI07,W000798,"WALBERG,TIM","Walberg, Tim",Mr.,Tim,,Walberg,,Tim Walberg,Mr. Walberg,116,R,R,MI,Michigan,7th,Tipton,RHOB,2266,20515,2207,(202) 225-6276,20201103,20210103
-MI08,S001208,"SLOTKIN,ELISSA","Slotkin, Elissa",Ms.,Elissa,,Slotkin,,Elissa Slotkin,Ms. Slotkin,116,D,D,MI,Michigan,8th,Holly,LHOB,1210,20515,2208,(202) 225-4872,20201103,20210103
-MI09,L000592,"LEVIN,ANDY","Levin, Andy",Mr.,Andy,,Levin,,Andy Levin,Mr. Levin of Michigan,116,D,D,MI,Michigan,9th,Bloomfield Township,CHOB,312,20515,2209,(202) 225-4961,20201103,20210103
-MI10,M001136,"MCCLAIN,LISA","McClain, Lisa",Mrs.,Lisa,C.,McClain,,Lisa C. McClain,Mrs. McClain,0,R,R,MI,Michigan,10th,Bruce,CHOB,218,20515,2210,(202) 225-2106,20201103,20210103
-MI11,S001215,"STEVENS,HALEY","Stevens, Haley",Ms.,Haley,M.,Stevens,,Haley M. Stevens,Ms. Stevens,116,D,D,MI,Michigan,11th,Birmingham,LHOB,1510,20515,2211,(202) 225-8171,20201103,20210103
-MI12,D000624,"DINGELL,DEBBIE","Dingell, Debbie",Mrs.,Debbie,,Dingell,,Debbie Dingell,Mrs. Dingell,116,D,D,MI,Michigan,12th,Dearborn,CHOB,116,20515,2212,(202) 225-4071,20201103,20210103
-MI13,T000481,"TLAIB,RASHIDA","Tlaib, Rashida",Ms.,Rashida,,Tlaib,,Rashida Tlaib,Ms. Tlaib,116,D,D,MI,Michigan,13th,Detroit,LHOB,1628,20515,2213,(202) 225-5126,20201103,20210103
-MI14,L000581,"LAWRENCE,BRENDA","Lawrence, Brenda",Mrs.,Brenda,L.,Lawrence,,Brenda L. Lawrence,Mrs. Lawrence,116,D,D,MI,Michigan,14th,Southfield,RHOB,2463,20515,2214,(202) 225-5802,20201103,20210103
-MN01,F000475,"FINSTAD,BRAD","Finstad, Brad",Mr.,Brad,,Finstad,,Brad Finstad,Mr. Finstad,0,R,R,MN,Minnesota,1st,New Ulm,LHOB,1433,20515,2301,(202) 225-2472,20220809,20220812
-MN02,C001119,"CRAIG,ANGIE","Craig, Angie",Ms.,Angie,,Craig,,Angie Craig,Ms. Craig,116,D,D,MN,Minnesota,2nd,Prior Lake,RHOB,2442,20515,2302,(202) 225-2271,20201103,20210103
-MN03,P000616,"PHILLIPS,DEAN","Phillips, Dean",Mr.,Dean,,Phillips,,Dean Phillips,Mr. Phillips,116,D,D,MN,Minnesota,3rd,Plymouth,RHOB,2452,20515,2303,(202) 225-2871,20201103,20210103
-MN04,M001143,"MCCOLLUM,BETTY","McCollum, Betty",Ms.,Betty,,McCollum,,Betty McCollum,Ms. McCollum,116,D,D,MN,Minnesota,4th,St. Paul,RHOB,2256,20515,2304,(202) 225-6631,20201103,20210103
-MN05,O000173,"OMAR,ILHAN","Omar, Ilhan",Ms.,Ilhan,,Omar,,Ilhan Omar,Ms. Omar,116,D,D,MN,Minnesota,5th,Minneapolis,LHOB,1730,20515,2305,(202) 225-4755,20201103,20210103
-MN06,E000294,"EMMER,TOM","Emmer, Tom",Mr.,Tom,,Emmer,,Tom Emmer,Mr. Emmer,116,R,R,MN,Minnesota,6th,Delano,CHOB,315,20515,2306,(202) 225-2331,20201103,20210103
-MN07,F000470,"FISCHBACH,MICHELLE","Fischbach, Michelle",Mrs.,Michelle,,Fischbach,,Michelle Fischbach,Mrs. Fischbach,0,R,R,MN,Minnesota,7th,Regal,LHOB,1237,20515,2307,(202) 225-2165,20201103,20210103
-MN08,S001212,"STAUBER,PETE","Stauber, Pete",Mr.,Pete,,Stauber,,Pete Stauber,Mr. Stauber,116,R,R,MN,Minnesota,8th,Hermantown,CHOB,461,20515,2308,(202) 225-6211,20201103,20210103
-MO01,B001224,"BUSH,CORI","Bush, Cori",Ms.,Cori,,Bush,,Cori Bush,Ms. Bush,0,D,D,MO,Missouri,1st,St. Louis,CHOB,563,20515,2501,(202) 225-2406,20201103,20210103
-MO02,W000812,"WAGNER,ANN","Wagner, Ann",Mrs.,Ann,,Wagner,,Ann Wagner,Mrs. Wagner,116,R,R,MO,Missouri,2nd,Ballwin,RHOB,2350,20515,2502,(202) 225-1621,20201103,20210103
-MO03,L000569,"LUETKEMEYER,BLAINE","Luetkemeyer, Blaine",Mr.,Blaine,,Luetkemeyer,,Blaine Luetkemeyer,Mr. Luetkemeyer,116,R,R,MO,Missouri,3rd,St. Elizabeth,RHOB,2230,20515,2503,(202) 225-2956,20201103,20210103
-MO04,H001053,"HARTZLER,VICKY","Hartzler, Vicky",Mrs.,Vicky,,Hartzler,,Vicky Hartzler,Mrs. Hartzler,116,R,R,MO,Missouri,4th,Harrisonville,RHOB,2235,20515,2504,(202) 225-2876,20201103,20210103
-MO05,C001061,"CLEAVER,EMANUEL","Cleaver, Emanuel",Mr.,Emanuel,,Cleaver,,Emanuel Cleaver,Mr. Cleaver,116,D,D,MO,Missouri,5th,Kansas City,RHOB,2335,20515,2505,(202) 225-4535,20201103,20210103
-MO06,G000546,"GRAVES,SAM","Graves, Sam",Mr.,Sam,,Graves,,Sam Graves,Mr. Graves of Missouri,116,R,R,MO,Missouri,6th,Tarkio,LHOB,1135,20515,2506,(202) 225-7041,20201103,20210103
-MO07,L000576,"LONG,BILLY","Long, Billy",Mr.,Billy,,Long,,Billy Long,Mr. Long,116,R,R,MO,Missouri,7th,Springfield,RHOB,2454,20515,2507,(202) 225-6536,20201103,20210103
-MO08,S001195,"SMITH,JASON","Smith, Jason",Mr.,Jason,,Smith,,Jason Smith,Mr. Smith of Missouri,116,R,R,MO,Missouri,8th,Salem,RHOB,2418,20515,2508,(202) 225-4404,20201103,20210103
-MP00,S001177,"SABLAN,GREGORIO","Sablan, Gregorio",Mr.,Gregorio,Kilili Camacho,Sablan,,Gregorio Kilili Camacho Sablan,Mr. Sablan,116,D,D,MP,Northern Mariana Islands,Delegate,Saipan,RHOB,2267,20515,5201,(202) 225-2646,20201103,20210103
-MS01,K000388,"KELLY,TRENT","Kelly, Trent",Mr.,Trent,,Kelly,,Trent Kelly,Mr. Kelly of Mississippi,116,R,R,MS,Mississippi,1st,Saltillo,RHOB,2243,20515,2401,(202) 225-4306,20201103,20210103
-MS02,T000193,"THOMPSON,BENNIE","Thompson, Bennie",Mr.,Bennie,G.,Thompson,,Bennie G. Thompson,Mr. Thompson of Mississippi,116,D,D,MS,Mississippi,2nd,Bolton,RHOB,2466,20515,2402,(202) 225-5876,20201103,20210103
-MS03,G000591,"GUEST,MICHAEL","Guest, Michael",Mr.,Michael,,Guest,,Michael Guest,Mr. Guest,116,R,R,MS,Mississippi,3rd,Brandon,CHOB,418,20515,2403,(202) 225-5031,20201103,20210103
-MS04,P000601,"PALAZZO,STEVEN","Palazzo, Steven",Mr.,Steven,M.,Palazzo,,Steven M. Palazzo,Mr. Palazzo,116,R,R,MS,Mississippi,4th,Biloxi,RHOB,2349,20515,2404,(202) 225-5772,20201103,20210103
-MT00,R000103,"ROSENDALE,MATTHEW","Rosendale, Matthew",Mr.,Matthew,M.,Rosendale,Sr.,"Matthew M. Rosendale, Sr.",Mr. Rosendale,0,R,R,MT,Montana,At Large,Glendive,LHOB,1037,20515,2600,(202) 225-3211,20201103,20210103
-NC01,B001251,"BUTTERFIELD,G.","Butterfield, G.",Mr.,G.,K.,Butterfield,,G. K. Butterfield,Mr. Butterfield,116,D,D,NC,North Carolina,1st,Wilson,RHOB,2080,20515,3301,(202) 225-3101,20201103,20210103
-NC02,R000305,"ROSS,DEBORAH","Ross, Deborah",Ms.,Deborah,K.,Ross,,Deborah K. Ross,Ms. Ross,0,D,D,NC,North Carolina,2nd,Raleigh,LHOB,1208,20515,3302,(202) 225-3032,20201103,20210103
-NC03,M001210,"MURPHY,GREGORY","Murphy, Gregory",Mr.,Gregory,F.,Murphy,,Gregory F. Murphy,Mr. Murphy of North Carolina,116,R,R,NC,North Carolina,3rd,Greenville,CHOB,313,20515,3303,(202) 225-3415,20201103,20210103
-NC04,P000523,"PRICE,DAVID","Price, David",Mr.,David,E.,Price,,David E. Price,Mr. Price of North Carolina,116,D,D,NC,North Carolina,4th,Chapel Hill,RHOB,2108,20515,3304,(202) 225-1784,20201103,20210103
-NC05,F000450,"FOXX,VIRGINIA","Foxx, Virginia",Ms.,Virginia,,Foxx,,Virginia Foxx,Ms. Foxx,116,R,R,NC,North Carolina,5th,Banner Elk,RHOB,2462,20515,3305,(202) 225-2071,20201103,20210103
-NC06,M001135,"MANNING,KATHY","Manning, Kathy",Ms.,Kathy,E.,Manning,,Kathy E. Manning,Ms. Manning,0,D,D,NC,North Carolina,6th,Greensboro,CHOB,415,20515,3306,(202) 225-3065,20201103,20210103
-NC07,R000603,"ROUZER,DAVID","Rouzer, David",Mr.,David,,Rouzer,,David Rouzer,Mr. Rouzer,116,R,R,NC,North Carolina,7th,Wilmington,RHOB,2333,20515,3307,(202) 225-2731,20201103,20210103
-NC08,H001067,"HUDSON,RICHARD","Hudson, Richard",Mr.,Richard,,Hudson,,Richard Hudson,Mr. Hudson,116,R,R,NC,North Carolina,8th,Southern Pines,RHOB,2112,20515,3308,(202) 225-3715,20201103,20210103
-NC09,B001311,"BISHOP,DAN","Bishop, Dan",Mr.,Dan,,Bishop,,Dan Bishop,Mr. Bishop of North Carolina,116,R,R,NC,North Carolina,9th,Charlotte,LHOB,1207,20515,3309,(202) 225-1976,20201103,20210103
-NC10,M001156,"MCHENRY,PATRICK","McHenry, Patrick",Mr.,Patrick,T.,McHenry,,Patrick T. McHenry,Mr. McHenry,116,R,R,NC,North Carolina,10th,Lake Norman,RHOB,2004,20515,3310,(202) 225-2576,20201103,20210103
-NC11,C001104,"CAWTHORN,MADISON","Cawthorn, Madison",Mr.,Madison,,Cawthorn,,Madison Cawthorn,Mr. Cawthorn,0,R,R,NC,North Carolina,11th,Hendersonville,CHOB,102,20515,3311,(202) 225-6401,20201103,20210103
-NC12,A000370,"ADAMS,ALMA","Adams, Alma",Ms.,Alma,S.,Adams,,Alma S. Adams,Ms. Adams,116,D,D,NC,North Carolina,12th,Charlotte,RHOB,2436,20515,3312,(202) 225-1510,20201103,20210103
-NC13,B001305,"BUDD,TED","Budd, Ted",Mr.,Ted,,Budd,,Ted Budd,Mr. Budd,116,R,R,NC,North Carolina,13th,Raleigh,CHOB,103,20515,3313,(202) 225-4531,20201103,20210103
-ND00,A000377,"ARMSTRONG,KELLY","Armstrong, Kelly",Mr.,Kelly,,Armstrong,,Kelly Armstrong,Mr. Armstrong,116,R,R,ND,North Dakota,At Large,Bismarck,LHOB,1740,20515,3400,(202) 225-2611,20201103,20210103
-NE01,F000474,"FLOOD,MIKE","Flood, Mike",Mr.,Mike,,Flood,,Mike Flood,Mr. Flood,0,R,R,NE,Nebraska,1st,Norfolk,LHOB,1514,20515,2701,(202) 225-4806,20220628,20220712
-NE02,B001298,"BACON,DON","Bacon, Don",Mr.,Don,,Bacon,,Don Bacon,Mr. Bacon,116,R,R,NE,Nebraska,2nd,Papillion,LHOB,1024,20515,2702,(202) 225-4155,20201103,20210103
-NE03,S001172,"SMITH,ADRIAN","Smith, Adrian",Mr.,Adrian,,Smith,,Adrian Smith,Mr. Smith of Nebraska,116,R,R,NE,Nebraska,3rd,Gering,CHOB,502,20515,2703,(202) 225-6435,20201103,20210103
-NH01,P000614,"PAPPAS,CHRIS","Pappas, Chris",Mr.,Chris,,Pappas,,Chris Pappas,Mr. Pappas,116,D,D,NH,New Hampshire,1st,Manchester,CHOB,319,20515,2901,(202) 225-5456,20201103,20210103
-NH02,K000382,"KUSTER,ANN","Kuster, Ann",Ms.,Ann,M.,Kuster,,Ann Kuster,Ms. Kuster,116,D,D,NH,New Hampshire,2nd,Hopkinton,CHOB,320,20515,2902,(202) 225-5206,20201103,20210103
-NJ01,N000188,"NORCROSS,DONALD","Norcross, Donald",Mr.,Donald,,Norcross,,Donald Norcross,Mr. Norcross,116,D,D,NJ,New Jersey,1st,Camden City,RHOB,2427,20515,3001,(202) 225-6501,20201103,20210103
-NJ02,V000133,"VANDREW,JEFFERSON","Van Drew, Jefferson",Mr.,Jefferson,,Van Drew,,Jefferson Van Drew,Mr. Van Drew,116,R,R,NJ,New Jersey,2nd,Dennis Township,RHOB,2447,20515,3002,(202) 225-6572,20201103,20210103
-NJ03,K000394,"KIM,ANDY","Kim, Andy",Mr.,Andy,,Kim,,Andy Kim,Mr. Kim of New Jersey,116,D,D,NJ,New Jersey,3rd,Moorestown,RHOB,2444,20515,3003,(202) 225-4765,20201103,20210103
-NJ04,S000522,"SMITH,CHRISTOPHER","Smith, Christopher",Mr.,Christopher,H.,Smith,,Christopher H. Smith,Mr. Smith of New Jersey,116,R,R,NJ,New Jersey,4th,Manchester,RHOB,2373,20515,3004,(202) 225-3765,20201103,20210103
-NJ05,G000583,"GOTTHEIMER,JOSH","Gottheimer, Josh",Mr.,Josh,,Gottheimer,,Josh Gottheimer,Mr. Gottheimer,116,D,D,NJ,New Jersey,5th,Wyckoff,CHOB,203,20515,3005,(202) 225-4465,20201103,20210103
-NJ06,P000034,"PALLONE,FRANK","Pallone, Frank",Mr.,Frank,,Pallone,Jr.,"Frank Pallone, Jr.",Mr. Pallone,116,D,D,NJ,New Jersey,6th,Long Branch,RHOB,2107,20515,3006,(202) 225-4671,20201103,20210103
-NJ07,M001203,"MALINOWSKI,TOM","Malinowski, Tom",Mr.,Tom,,Malinowski,,Tom Malinowski,Mr. Malinowski,116,D,D,NJ,New Jersey,7th,Rocky Hill,LHOB,1318,20515,3007,(202) 225-5361,20201103,20210103
-NJ08,S001165,"SIRES,ALBIO","Sires, Albio",Mr.,Albio,,Sires,,Albio Sires,Mr. Sires,116,D,D,NJ,New Jersey,8th,West New York,RHOB,2268,20515,3008,(202) 225-7919,20201103,20210103
-NJ09,P000096,"PASCRELL,BILL","Pascrell, Bill",Mr.,Bill,,Pascrell,Jr.,"Bill Pascrell, Jr.",Mr. Pascrell,116,D,D,NJ,New Jersey,9th,Paterson,RHOB,2409,20515,3009,(202) 225-5751,20201103,20210103
-NJ10,P000604,"PAYNE,DONALD","Payne, Donald",Mr.,Donald,M.,Payne,Jr.,"Donald M. Payne, Jr.",Mr. Payne,116,D,D,NJ,New Jersey,10th,Newark,CHOB,106,20515,3010,(202) 225-3436,20201103,20210103
-NJ11,S001207,"SHERRILL,MIKIE","Sherrill, Mikie",Ms.,Mikie,,Sherrill,,Mikie Sherrill,Ms. Sherrill,116,D,D,NJ,New Jersey,11th,Montclair,LHOB,1414,20515,3011,(202) 225-5034,20201103,20210103
-NJ12,W000822,"WATSONCOLEMAN,BONNIE","Watson Coleman, Bonnie",Mrs.,Bonnie,,Watson Coleman,,Bonnie Watson Coleman,Mrs. Watson Coleman,116,D,D,NJ,New Jersey,12th,Ewing Township,CHOB,168,20515,3012,(202) 225-5801,20201103,20210103
-NM01,S001218,"STANSBURY,MELANIE","Stansbury, Melanie",Ms.,Melanie,A.,Stansbury,,Melanie A. Stansbury,Ms. Stansbury,0,D,D,NM,New Mexico,1st,Albuquerque,LHOB,1421,20515,3101,(202) 225-6316,20210601,20210614
-NM02,H001084,"HERRELL,YVETTE","Herrell, Yvette",Ms.,Yvette,,Herrell,,Yvette Herrell,Ms. Herrell,0,R,R,NM,New Mexico,2nd,Alamogordo,LHOB,1305,20515,3102,(202) 225-2365,20201103,20210103
-NM03,L000273,"LEGERFERNANDEZ,TERESA","Leger Fernandez, Teresa",Ms.,Teresa,,Leger Fernandez,,Teresa Leger Fernandez,Ms. Leger Fernandez,0,D,D,NM,New Mexico,3rd,Santa Fe,LHOB,1432,20515,3103,(202) 225-6190,20201103,20210103
-NV01,T000468,"TITUS,DINA","Titus, Dina",Ms.,Dina,,Titus,,Dina Titus,Ms. Titus,116,D,D,NV,Nevada,1st,Las Vegas,RHOB,2464,20515,2801,(202) 225-5965,20201103,20210103
-NV02,A000369,"AMODEI,MARK","Amodei, Mark",Mr.,Mark,E.,Amodei,,Mark E. Amodei,Mr. Amodei,116,R,R,NV,Nevada,2nd,Carson City,CHOB,104,20515,2802,(202) 225-6155,20201103,20210103
-NV03,L000590,"LEE,SUSIE","Lee, Susie",Mrs.,Susie,,Lee,,Susie Lee,Mrs. Lee of Nevada,116,D,D,NV,Nevada,3rd,Las Vegas,CHOB,365,20515,2803,(202) 225-3252,20201103,20210103
-NV04,H001066,"HORSFORD,STEVEN","Horsford, Steven",Mr.,Steven,,Horsford,,Steven Horsford,Mr. Horsford,116,D,D,NV,Nevada,4th,Las Vegas,CHOB,562,20515,2804,(202) 225-9894,20201103,20210103
-NY01,Z000017,"ZELDIN,LEE","Zeldin, Lee",Mr.,Lee,M.,Zeldin,,Lee M. Zeldin,Mr. Zeldin,116,R,R,NY,New York,1st,Shirley,RHOB,2441,20515,3201,(202) 225-3826,20201103,20210103
-NY02,G000597,"GARBARINO,ANDREW","Garbarino, Andrew",Mr.,Andrew,R.,Garbarino,,Andrew R. Garbarino,Mr. Garbarino,0,R,R,NY,New York,2nd,Bayport,LHOB,1516,20515,3202,(202) 225-7896,20201103,20210103
-NY03,S001201,"SUOZZI,THOMAS","Suozzi, Thomas",Mr.,Thomas,R.,Suozzi,,Thomas R. Suozzi,Mr. Suozzi,116,D,D,NY,New York,3rd,Glen Cove,CHOB,407,20515,3203,(202) 225-3335,20201103,20210103
-NY04,R000602,"RICE,KATHLEEN","Rice, Kathleen",Miss,Kathleen,M.,Rice,,Kathleen M. Rice,Miss Rice of New York,116,D,D,NY,New York,4th,Garden City,RHOB,2435,20515,3204,(202) 225-5516,20201103,20210103
-NY05,M001137,"MEEKS,GREGORY","Meeks, Gregory",Mr.,Gregory,W.,Meeks,,Gregory W. Meeks,Mr. Meeks,116,D,D,NY,New York,5th,Queens,RHOB,2310,20515,3205,(202) 225-3461,20201103,20210103
-NY06,M001188,"MENG,GRACE","Meng, Grace",Ms.,Grace,,Meng,,Grace Meng,Ms. Meng,116,D,D,NY,New York,6th,Queens,RHOB,2209,20515,3206,(202) 225-2601,20201103,20210103
-NY07,V000081,"VELAZQUEZ,NYDIA","Velázquez, Nydia",Ms.,Nydia,M.,Velázquez,,Nydia M. Velázquez,Ms. Velázquez,116,D,D,NY,New York,7th,Brooklyn,RHOB,2302,20515,3207,(202) 225-2361,20201103,20210103
-NY08,J000294,"JEFFRIES,HAKEEM","Jeffries, Hakeem",Mr.,Hakeem,S.,Jeffries,,Hakeem S. Jeffries,Mr. Jeffries,116,D,D,NY,New York,8th,Brooklyn,RHOB,2433,20515,3208,(202) 225-5936,20201103,20210103
-NY09,C001067,"CLARKE,YVETTE","Clarke, Yvette",Ms.,Yvette,D.,Clarke,,Yvette D. Clarke,Ms. Clarke of New York,116,D,D,NY,New York,9th,Brooklyn,RHOB,2058,20515,3209,(202) 225-6231,20201103,20210103
-NY10,N000002,"NADLER,JERROLD","Nadler, Jerrold",Mr.,Jerrold,,Nadler,,Jerrold Nadler,Mr. Nadler,116,D,D,NY,New York,10th,New York,RHOB,2132,20515,3210,(202) 225-5635,20201103,20210103
-NY11,M000317,"MALLIOTAKIS,NICOLE","Malliotakis, Nicole",Ms.,Nicole,,Malliotakis,,Nicole Malliotakis,Ms. Malliotakis,0,R,R,NY,New York,11th,Staten Island,CHOB,417,20515,3211,(202) 225-3371,20201103,20210103
-NY12,M000087,"MALONEY,CAROLYN","Maloney, Carolyn",Mrs.,Carolyn,B.,Maloney,,Carolyn B. Maloney,Mrs. Carolyn B. Maloney of New York,116,D,D,NY,New York,12th,New York,RHOB,2308,20515,3212,(202) 225-7944,20201103,20210103
-NY13,E000297,"ESPAILLAT,ADRIANO","Espaillat, Adriano",Mr.,Adriano,,Espaillat,,Adriano Espaillat,Mr. Espaillat,116,D,D,NY,New York,13th,New York,RHOB,2332,20515,3213,(202) 225-4365,20201103,20210103
-NY14,O000172,"OCASIOCORTEZ,ALEXANDRIA","Ocasio-Cortez, Alexandria",Ms.,Alexandria,,Ocasio-Cortez,,Alexandria Ocasio-Cortez,Ms. Ocasio-Cortez,116,D,D,NY,New York,14th,Bronx,CHOB,216,20515,3214,(202) 225-3965,20201103,20210103
-NY15,T000486,"TORRES,RITCHIE","Torres, Ritchie",Mr.,Ritchie,,Torres,,Ritchie Torres,Mr. Torres of New York,0,D,D,NY,New York,15th,Bronx,CHOB,317,20515,3215,(202) 225-4361,20201103,20210103
-NY16,B001223,"BOWMAN,JAMAAL","Bowman, Jamaal",Mr.,Jamaal,,Bowman,,Jamaal Bowman,Mr. Bowman,0,D,D,NY,New York,16th,Yonkers,LHOB,1605,20515,3216,(202) 225-2464,20201103,20210103
-NY17,J000306,"JONES,MONDAIRE","Jones, Mondaire",Mr.,Mondaire,,Jones,,Mondaire Jones,Mr. Jones,0,D,D,NY,New York,17th,Westchester County,LHOB,1017,20515,3217,(202) 225-6506,20201103,20210103
-NY18,M001185,"MALONEY,SEAN","Maloney, Sean",Mr.,Sean,Patrick,Maloney,,Sean Patrick Maloney,Mr. Sean Patrick Maloney of New York,116,D,D,NY,New York,18th,Cold Spring,CHOB,464,20515,3218,(202) 225-5441,20201103,20210103
-NY19,R000579,"RYAN,PATRICK","Ryan, Patrick",Mr.,Patrick,,Ryan,,Patrick Ryan,Mr. Ryan of New York,109,D,D,NY,New York,19th,Gardiner,LHOB,1007,20515,3219,(202) 225-5614,20220823,20220913
-NY20,T000469,"TONKO,PAUL","Tonko, Paul",Mr.,Paul,,Tonko,,Paul Tonko,Mr. Tonko,116,D,D,NY,New York,20th,Amsterdam,RHOB,2369,20515,3220,(202) 225-5076,20201103,20210103
-NY21,S001196,"STEFANIK,ELISE","Stefanik, Elise",Ms.,Elise,M.,Stefanik,,Elise M. Stefanik,Ms. Stefanik,116,R,R,NY,New York,21st,Schuylerville,RHOB,2211,20515,3221,(202) 225-4611,20201103,20210103
-NY22,T000478,"TENNEY,CLAUDIA","Tenney, Claudia",Ms.,Claudia,,Tenney,,Claudia Tenney,Ms. Tenney,115,R,R,NY,New York,22nd,Canandaigua,LHOB,1410,20515,3222,(202) 225-3665,20201103,20210211
-NY23,S001219,"SEMPOLINSKI,JOSEPH","Sempolinski, Joseph",Mr.,Joseph,,Sempolinski,,Joseph Sempolinski,Mr. Sempolinski,0,R,R,NY,New York,23rd,Canisteo,LHOB,1203,20515,3223,(202) 225-3161,20220823,20220913
-NY24,K000386,"KATKO,JOHN","Katko, John",Mr.,John,,Katko,,John Katko,Mr. Katko,116,R,R,NY,New York,24th,Syracuse,RHOB,2428,20515,3224,(202) 225-3701,20201103,20210103
-NY25,M001206,"MORELLE,JOSEPH","Morelle, Joseph",Mr.,Joseph,D.,Morelle,,Joseph D. Morelle,Mr. Morelle,116,D,D,NY,New York,25th,Irondequoit,LHOB,1317,20515,3225,(202) 225-3615,20201103,20210103
-NY26,H001038,"HIGGINS,BRIAN","Higgins, Brian",Mr.,Brian,,Higgins,,Brian Higgins,Mr. Higgins of New York,116,D,D,NY,New York,26th,Buffalo,RHOB,2459,20515,3226,(202) 225-3306,20201103,20210103
-NY27,J000020,"JACOBS,CHRIS","Jacobs, Chris",Mr.,Chris,,Jacobs,,Chris Jacobs,Mr. Jacobs of New York,116,R,R,NY,New York,27th,Orchard Park,CHOB,214,20515,3227,(202) 225-5265,20201103,20210103
-OH01,C000266,"CHABOT,STEVE","Chabot, Steve",Mr.,Steve,,Chabot,,Steve Chabot,Mr. Chabot,116,R,R,OH,Ohio,1st,Cincinnati,RHOB,2408,20515,3501,(202) 225-2216,20201103,20210103
-OH02,W000815,"WENSTRUP,BRAD","Wenstrup, Brad",Mr.,Brad,R.,Wenstrup,,Brad R. Wenstrup,Mr. Wenstrup,116,R,R,OH,Ohio,2nd,Hillsboro,RHOB,2419,20515,3502,(202) 225-3164,20201103,20210103
-OH03,B001281,"BEATTY,JOYCE","Beatty, Joyce",Mrs.,Joyce,,Beatty,,Joyce Beatty,Mrs. Beatty,116,D,D,OH,Ohio,3rd,Columbus,RHOB,2303,20515,3503,(202) 225-4324,20201103,20210103
-OH04,J000289,"JORDAN,JIM","Jordan, Jim",Mr.,Jim,,Jordan,,Jim Jordan,Mr. Jordan,116,R,R,OH,Ohio,4th,Urbana,RHOB,2056,20515,3504,(202) 225-2676,20201103,20210103
-OH05,L000566,"LATTA,ROBERT","Latta, Robert",Mr.,Robert,E.,Latta,,Robert E. Latta,Mr. Latta,116,R,R,OH,Ohio,5th,Bowling Green,RHOB,2467,20515,3505,(202) 225-6405,20201103,20210103
-OH06,J000292,"JOHNSON,BILL","Johnson, Bill",Mr.,Bill,,Johnson,,Bill Johnson,Mr. Johnson of Ohio,116,R,R,OH,Ohio,6th,Marietta,RHOB,2336,20515,3506,(202) 225-5705,20201103,20210103
-OH07,G000563,"GIBBS,BOB","Gibbs, Bob",Mr.,Bob,,Gibbs,,Bob Gibbs,Mr. Gibbs,116,R,R,OH,Ohio,7th,Lakeville,RHOB,2217,20515,3507,(202) 225-6265,20201103,20210103
-OH08,D000626,"DAVIDSON,WARREN","Davidson, Warren",Mr.,Warren,,Davidson,,Warren Davidson,Mr. Davidson,116,R,R,OH,Ohio,8th,Troy,RHOB,2113,20515,3508,(202) 225-6205,20201103,20210103
-OH09,K000009,"KAPTUR,MARCY","Kaptur, Marcy",Ms.,Marcy,,Kaptur,,Marcy Kaptur,Ms. Kaptur,116,D,D,OH,Ohio,9th,Toledo,RHOB,2186,20515,3509,(202) 225-4146,20201103,20210103
-OH10,T000463,"TURNER,MICHAEL","Turner, Michael",Mr.,Michael,R.,Turner,,Michael R. Turner,Mr. Turner,116,R,R,OH,Ohio,10th,Dayton,RHOB,2082,20515,3510,(202) 225-6465,20201103,20210103
-OH11,B001313,"BROWN,SHONTEL","Brown, Shontel",Ms.,Shontel,M.,Brown,,Shontel M. Brown,Ms. Brown of Ohio,0,D,D,OH,Ohio,11th,Warrensville Heights,RHOB,2344,20515,3511,(202) 225-7032,20211102,20211104
-OH12,B001306,"BALDERSON,TROY","Balderson, Troy",Mr.,Troy,,Balderson,,Troy Balderson,Mr. Balderson,116,R,R,OH,Ohio,12th,Zanesville,RHOB,2429,20515,3512,(202) 225-5355,20201103,20210103
-OH13,R000577,"RYAN,TIM","Ryan, Tim",Mr.,Tim,,Ryan,,Tim Ryan,Mr. Ryan of Ohio,116,D,D,OH,Ohio,13th,Warren,LHOB,1126,20515,3513,(202) 225-5261,20201103,20210103
-OH14,J000295,"JOYCE,DAVID","Joyce, David",Mr.,David,P.,Joyce,,David P. Joyce,Mr. Joyce of Ohio,116,R,R,OH,Ohio,14th,South Russell Village,RHOB,2065,20515,3514,(202) 225-5731,20201103,20210103
-OH15,C001126,"CAREY,MIKE","Carey, Mike",Mr.,Mike,,Carey,,Mike Carey,Mr. Carey,0,R,R,OH,Ohio,15th,Columbus,RHOB,2234,20515,3515,(202) 225-2015,20211102,20211104
-OH16,G000588,"GONZALEZ,ANTHONY","Gonzalez, Anthony",Mr.,Anthony,,Gonzalez,,Anthony Gonzalez,Mr. Gonzalez of Ohio,116,R,R,OH,Ohio,16th,Rocky River,RHOB,2458,20515,3516,(202) 225-3876,20201103,20210103
-OK01,H001082,"HERN,KEVIN","Hern, Kevin",Mr.,Kevin,,Hern,,Kevin Hern,Mr. Hern,116,R,R,OK,Oklahoma,1st,Tulsa,LHOB,1019,20515,3601,(202) 225-2211,20201103,20210103
-OK02,M001190,"MULLIN,MARKWAYNE","Mullin, Markwayne",Mr.,Markwayne,,Mullin,,Markwayne Mullin,Mr. Mullin,116,R,R,OK,Oklahoma,2nd,Westville,RHOB,2421,20515,3602,(202) 225-2701,20201103,20210103
-OK03,L000491,"LUCAS,FRANK","Lucas, Frank",Mr.,Frank,D.,Lucas,,Frank D. Lucas,Mr. Lucas,116,R,R,OK,Oklahoma,3rd,Cheyenne,RHOB,2405,20515,3603,(202) 225-5565,20201103,20210103
-OK04,C001053,"COLE,TOM","Cole, Tom",Mr.,Tom,,Cole,,Tom Cole,Mr. Cole,116,R,R,OK,Oklahoma,4th,Moore,RHOB,2207,20515,3604,(202) 225-6165,20201103,20210103
-OK05,B000740,"BICE,STEPHANIE","Bice, Stephanie",Mrs.,Stephanie,I.,Bice,,Stephanie I. Bice,Mrs. Bice of Oklahoma,0,R,R,OK,Oklahoma,5th,Oklahoma City,LHOB,1223,20515,3605,(202) 225-2132,20201103,20210103
-OR01,B001278,"BONAMICI,SUZANNE","Bonamici, Suzanne",Ms.,Suzanne,,Bonamici,,Suzanne Bonamici,Ms. Bonamici,116,D,D,OR,Oregon,1st,Washington County,RHOB,2231,20515,3701,(202) 225-0855,20201103,20210103
-OR02,B000668,"BENTZ,CLIFF","Bentz, Cliff",Mr.,Cliff,,Bentz,,Cliff Bentz,Mr. Bentz,0,R,R,OR,Oregon,2nd,Ontario,LHOB,1239,20515,3702,(202) 225-6730,20201103,20210103
-OR03,B000574,"BLUMENAUER,EARL","Blumenauer, Earl",Mr.,Earl,,Blumenauer,,Earl Blumenauer,Mr. Blumenauer,116,D,D,OR,Oregon,3rd,Portland,LHOB,1111,20515,3703,(202) 225-4811,20201103,20210103
-OR04,D000191,"DEFAZIO,PETER","DeFazio, Peter",Mr.,Peter,A.,DeFazio,,Peter A. DeFazio,Mr. DeFazio,116,D,D,OR,Oregon,4th,Springfield,RHOB,2134,20515,3704,(202) 225-6416,20201103,20210103
-OR05,S001180,"SCHRADER,KURT","Schrader, Kurt",Mr.,Kurt,,Schrader,,Kurt Schrader,Mr. Schrader,116,D,D,OR,Oregon,5th,Canby,RHOB,2431,20515,3705,(202) 225-5711,20201103,20210103
-PA01,F000466,"FITZPATRICK,BRIAN","Fitzpatrick, Brian",Mr.,Brian,K.,Fitzpatrick,,Brian K. Fitzpatrick,Mr. Fitzpatrick,116,R,R,PA,Pennsylvania,1st,Levittown,CHOB,271,20515,3801,(202) 225-4276,20201103,20210103
-PA02,B001296,"BOYLE,BRENDAN","Boyle, Brendan",Mr.,Brendan,F.,Boyle,,Brendan F. Boyle,Mr. Brendan F. Boyle of Pennsylvania,116,D,D,PA,Pennsylvania,2nd,Philadelphia,LHOB,1133,20515,3802,(202) 225-6111,20201103,20210103
-PA03,E000296,"EVANS,DWIGHT","Evans, Dwight",Mr.,Dwight,,Evans,,Dwight Evans,Mr. Evans,116,D,D,PA,Pennsylvania,3rd,Philadelphia,LHOB,1105,20515,3803,(202) 225-4001,20201103,20210103
-PA04,D000631,"DEAN,MADELEINE","Dean, Madeleine",Ms.,Madeleine,,Dean,,Madeleine Dean,Ms. Dean,116,D,D,PA,Pennsylvania,4th,Bala Cynwyd,CHOB,120,20515,3804,(202) 225-4731,20201103,20210103
-PA05,S001205,"SCANLON,MARY","Scanlon, Mary",Ms.,Mary,Gay,Scanlon,,Mary Gay Scanlon,Ms. Scanlon,116,D,D,PA,Pennsylvania,5th,Swarthmore,LHOB,1227,20515,3805,(202) 225-2011,20201103,20210103
-PA06,H001085,"HOULAHAN,CHRISSY","Houlahan, Chrissy",Ms.,Chrissy,,Houlahan,,Chrissy Houlahan,Ms. Houlahan,116,D,D,PA,Pennsylvania,6th,Devon,LHOB,1218,20515,3806,(202) 225-4315,20201103,20210103
-PA07,W000826,"WILD,SUSAN","Wild, Susan",Ms.,Susan,,Wild,,Susan Wild,Ms. Wild,116,D,D,PA,Pennsylvania,7th,Allentown,LHOB,1027,20515,3807,(202) 225-6411,20201103,20210103
-PA08,C001090,"CARTWRIGHT,MATT","Cartwright, Matt",Mr.,Matt,,Cartwright,,Matt Cartwright,Mr. Cartwright,116,D,D,PA,Pennsylvania,8th,Moosic,RHOB,2102,20515,3808,(202) 225-5546,20201103,20210103
-PA09,M001204,"MEUSER,DANIEL","Meuser, Daniel",Mr.,Daniel,,Meuser,,Daniel Meuser,Mr. Meuser,116,R,R,PA,Pennsylvania,9th,Dallas,CHOB,414,20515,3809,(202) 225-6511,20201103,20210103
-PA10,P000605,"PERRY,SCOTT","Perry, Scott",Mr.,Scott,,Perry,,Scott Perry,Mr. Perry,116,R,R,PA,Pennsylvania,10th,Dillsburg,RHOB,2160,20515,3810,(202) 225-5836,20201103,20210103
-PA11,S001199,"SMUCKER,LLOYD","Smucker, Lloyd",Mr.,Lloyd,,Smucker,,Lloyd Smucker,Mr. Smucker,116,R,R,PA,Pennsylvania,11th,Lancaster,CHOB,302,20515,3811,(202) 225-2411,20201103,20210103
-PA12,K000395,"KELLER,FRED","Keller, Fred",Mr.,Fred,,Keller,,Fred Keller,Mr. Keller,116,R,R,PA,Pennsylvania,12th,Middleburg,LHOB,1717,20515,3812,(202) 225-3731,20201103,20210103
-PA13,J000302,"JOYCE,JOHN","Joyce, John",Mr.,John,,Joyce,,John Joyce,Mr. Joyce of Pennsylvania,116,R,R,PA,Pennsylvania,13th,Hollidaysburg,LHOB,1221,20515,3813,(202) 225-2431,20201103,20210103
-PA14,R000610,"RESCHENTHALER,GUY","Reschenthaler, Guy",Mr.,Guy,,Reschenthaler,,Guy Reschenthaler,Mr. Reschenthaler,116,R,R,PA,Pennsylvania,14th,Peters Township,CHOB,409,20515,3814,(202) 225-2065,20201103,20210103
-PA15,T000467,"THOMPSON,GLENN","Thompson, Glenn",Mr.,Glenn,,Thompson,,Glenn Thompson,Mr. Thompson of Pennsylvania,116,R,R,PA,Pennsylvania,15th,Howard,CHOB,400,20515,3815,(202) 225-5121,20201103,20210103
-PA16,K000376,"KELLY,MIKE","Kelly, Mike",Mr.,Mike,,Kelly,,Mike Kelly,Mr. Kelly of Pennsylvania,116,R,R,PA,Pennsylvania,16th,Butler,LHOB,1707,20515,3816,(202) 225-5406,20201103,20210103
-PA17,L000588,"LAMB,CONOR","Lamb, Conor",Mr.,Conor,,Lamb,,Conor Lamb,Mr. Lamb,116,D,D,PA,Pennsylvania,17th,Mt. Lebanon,LHOB,1224,20515,3817,(202) 225-2301,20201103,20210103
-PA18,D000482,"DOYLE,MICHAEL","Doyle, Michael",Mr.,Michael,F.,Doyle,,Michael F. Doyle,Mr. Michael F. Doyle of Pennsylvania,116,D,D,PA,Pennsylvania,18th,Pittsburgh,CHOB,270,20515,3818,(202) 225-2135,20201103,20210103
-PR00,G000582,"GONZALEZCOLON,JENNIFFER","González-Colón, Jenniffer",Miss,Jenniffer,,González-Colón,,Jenniffer González-Colón,Miss González-Colón,116,R,R,PR,Puerto Rico,Resident Commissioner,Carolina,RHOB,2338,20515,5401,(202) 225-2615,20201103,20210103
-RI01,C001084,"CICILLINE,DAVID","Cicilline, David",Mr.,David,N.,Cicilline,,David N. Cicilline,Mr. Cicilline,116,D,D,RI,Rhode Island,1st,Providence,RHOB,2233,20515,3901,(202) 225-4911,20201103,20210103
-RI02,L000559,"LANGEVIN,JAMES","Langevin, James",Mr.,James,R.,Langevin,,James R. Langevin,Mr. Langevin,116,D,D,RI,Rhode Island,2nd,Warwick,RHOB,2077,20515,3902,(202) 225-2735,20201103,20210103
-SC01,M000194,"MACE,NANCY","Mace, Nancy",Ms.,Nancy,,Mace,,Nancy Mace,Ms. Mace,0,R,R,SC,South Carolina,1st,Charleston,CHOB,212,20515,4001,(202) 225-3176,20201103,20210103
-SC02,W000795,"WILSON,JOE","Wilson, Joe",Mr.,Joe,,Wilson,,Joe Wilson,Mr. Wilson of South Carolina,116,R,R,SC,South Carolina,2nd,Springdale,LHOB,1436,20515,4002,(202) 225-2452,20201103,20210103
-SC03,D000615,"DUNCAN,JEFF","Duncan, Jeff",Mr.,Jeff,,Duncan,,Jeff Duncan,Mr. Duncan,116,R,R,SC,South Carolina,3rd,Laurens,RHOB,2229,20515,4003,(202) 225-5301,20201103,20210103
-SC04,T000480,"TIMMONS,WILLIAM","Timmons, William",Mr.,William,R.,Timmons,IV,William R. Timmons IV,Mr. Timmons,116,R,R,SC,South Carolina,4th,Greenville,CHOB,267,20515,4004,(202) 225-6030,20201103,20210103
-SC05,N000190,"NORMAN,RALPH","Norman, Ralph",Mr.,Ralph,,Norman,,Ralph Norman,Mr. Norman,116,R,R,SC,South Carolina,5th,Rock Hill,CHOB,569,20515,4005,(202) 225-5501,20201103,20210103
-SC06,C000537,"CLYBURN,JAMES","Clyburn, James",Mr.,James,E.,Clyburn,,James E. Clyburn,Mr. Clyburn,116,D,D,SC,South Carolina,6th,Columbia,CHOB,274,20515,4006,(202) 225-3315,20201103,20210103
-SC07,R000597,"RICE,TOM","Rice, Tom",Mr.,Tom,,Rice,,Tom Rice,Mr. Rice of South Carolina,116,R,R,SC,South Carolina,7th,Myrtle Beach,CHOB,460,20515,4007,(202) 225-9895,20201103,20210103
-SD00,J000301,"JOHNSON,DUSTY","Johnson, Dusty",Mr.,Dusty,,Johnson,,Dusty Johnson,Mr. Johnson of South Dakota,116,R,R,SD,South Dakota,At Large,Mitchell,LHOB,1714,20515,4100,(202) 225-2801,20201103,20210103
-TN01,H001086,"HARSHBARGER,DIANA","Harshbarger, Diana",Mrs.,Diana,,Harshbarger,,Diana Harshbarger,Mrs. Harshbarger,0,R,R,TN,Tennessee,1st,Kingsport,CHOB,167,20515,4201,(202) 225-6356,20201103,20210103
-TN02,B001309,"BURCHETT,TIM","Burchett, Tim",Mr.,Tim,,Burchett,,Tim Burchett,Mr. Burchett,116,R,R,TN,Tennessee,2nd,Knoxville,LHOB,1122,20515,4202,(202) 225-5435,20201103,20210103
-TN03,F000459,"FLEISCHMANN,CHARLES","Fleischmann, Charles",Mr.,Charles,"J. ""Chuck""",Fleischmann,,"Charles J. ""Chuck"" Fleischmann",Mr. Fleischmann,116,R,R,TN,Tennessee,3rd,Chattanooga,CHOB,462,20515,4203,(202) 225-3271,20201103,20210103
-TN04,D000616,"DESJARLAIS,SCOTT","DesJarlais, Scott",Mr.,Scott,,DesJarlais,,Scott DesJarlais,Mr. DesJarlais,116,R,R,TN,Tennessee,4th,Sherwood,RHOB,2304,20515,4204,(202) 225-6831,20201103,20210103
-TN05,C000754,"COOPER,JIM","Cooper, Jim",Mr.,Jim,,Cooper,,Jim Cooper,Mr. Cooper,116,D,D,TN,Tennessee,5th,Nashville,LHOB,1536,20515,4205,(202) 225-4311,20201103,20210103
-TN06,R000612,"ROSE,JOHN","Rose, John",Mr.,John,W.,Rose,,John Rose,Mr. Rose,116,R,R,TN,Tennessee,6th,Cookeville,LHOB,1124,20515,4206,(202) 225-4231,20201103,20210103
-TN07,G000590,"GREEN,MARK","Green, Mark",Mr.,Mark,E.,Green,,Mark E. Green,Mr. Green of Tennessee,116,R,R,TN,Tennessee,7th,Clarksville,RHOB,2446,20515,4207,(202) 225-2811,20201103,20210103
-TN08,K000392,"KUSTOFF,DAVID","Kustoff, David",Mr.,David,,Kustoff,,David Kustoff,Mr. Kustoff,116,R,R,TN,Tennessee,8th,Germantown,CHOB,560,20515,4208,(202) 225-4714,20201103,20210103
-TN09,C001068,"COHEN,STEVE","Cohen, Steve",Mr.,Steve,,Cohen,,Steve Cohen,Mr. Cohen,116,D,D,TN,Tennessee,9th,Memphis,RHOB,2104,20515,4209,(202) 225-3265,20201103,20210103
-TX01,G000552,"GOHMERT,LOUIE","Gohmert, Louie",Mr.,Louie,,Gohmert,,Louie Gohmert,Mr. Gohmert,116,R,R,TX,Texas,1st,Tyler,RHOB,2269,20515,4301,(202) 225-3035,20201103,20210103
-TX02,C001120,"CRENSHAW,DAN","Crenshaw, Dan",Mr.,Dan,,Crenshaw,,Dan Crenshaw,Mr. Crenshaw,116,R,R,TX,Texas,2nd,Humble,CHOB,413,20515,4302,(202) 225-6565,20201103,20210103
-TX03,T000479,"TAYLOR,VAN","Taylor, Van",Mr.,Van,,Taylor,,Van Taylor,Mr. Taylor,116,R,R,TX,Texas,3rd,Plano,LHOB,1404,20515,4303,(202) 225-4201,20201103,20210103
-TX04,F000246,"FALLON,PAT","Fallon, Pat",Mr.,Pat,,Fallon,,Pat Fallon,Mr. Fallon,0,R,R,TX,Texas,4th,Frisco,LHOB,1118,20515,4304,(202) 225-6673,20201103,20210103
-TX05,G000589,"GOODEN,LANCE","Gooden, Lance",Mr.,Lance,,Gooden,,Lance Gooden,Mr. Gooden of Texas,116,R,R,TX,Texas,5th,Terrell,LHOB,1722,20515,4305,(202) 225-3484,20201103,20210103
-TX06,E000071,"ELLZEY,JAKE","Ellzey, Jake",Mr.,Jake,,Ellzey,,Jake Ellzey,Mr. Ellzey,0,R,R,TX,Texas,6th,Midlothian,LHOB,1725,20515,4306,(202) 225-2002,20210727,20210730
-TX07,F000468,"FLETCHER,LIZZIE","Fletcher, Lizzie",Mrs.,Lizzie,,Fletcher,,Lizzie Fletcher,Mrs. Fletcher,116,D,D,TX,Texas,7th,Houston,CHOB,119,20515,4307,(202) 225-2571,20201103,20210103
-TX08,B000755,"BRADY,KEVIN","Brady, Kevin",Mr.,Kevin,,Brady,,Kevin Brady,Mr. Brady,116,R,R,TX,Texas,8th,The Woodlands,LHOB,1011,20515,4308,(202) 225-4901,20201103,20210103
-TX09,G000553,"GREEN,AL","Green, Al",Mr.,Al,,Green,,Al Green,Mr. Green of Texas,116,D,D,TX,Texas,9th,Houston,RHOB,2347,20515,4309,(202) 225-7508,20201103,20210103
-TX10,M001157,"MCCAUL,MICHAEL","McCaul, Michael",Mr.,Michael,T.,McCaul,,Michael T. McCaul,Mr. McCaul,116,R,R,TX,Texas,10th,Austin,RHOB,2001,20515,4310,(202) 225-2401,20201103,20210103
-TX11,P000048,"PFLUGER,AUGUST","Pfluger, August",Mr.,August,,Pfluger,,August Pfluger,Mr. Pfluger,0,R,R,TX,Texas,11th,San Angelo,LHOB,1531,20515,4311,(202) 225-3605,20201103,20210103
-TX12,G000377,"GRANGER,KAY","Granger, Kay",Ms.,Kay,,Granger,,Kay Granger,Ms. Granger,116,R,R,TX,Texas,12th,Fort Worth,LHOB,1026,20515,4312,(202) 225-5071,20201103,20210103
-TX13,J000304,"JACKSON,RONNY","Jackson, Ronny",Mr.,Ronny,,Jackson,,Ronny Jackson,Mr. Jackson,0,R,R,TX,Texas,13th,Amarillo,CHOB,118,20515,4313,(202) 225-3706,20201103,20210103
-TX14,W000814,"WEBER,RANDY","Weber, Randy",Mr.,Randy,K.,Weber,Sr.,"Randy K. Weber, Sr.",Mr. Weber of Texas,116,R,R,TX,Texas,14th,Friendswood,CHOB,107,20515,4314,(202) 225-2831,20201103,20210103
-TX15,G000581,"GONZALEZ,VICENTE","Gonzalez, Vicente",Mr.,Vicente,,Gonzalez,,Vicente Gonzalez,Mr. Vicente Gonzalez of Texas,116,D,D,TX,Texas,15th,McAllen,CHOB,113,20515,4315,(202) 225-2531,20201103,20210103
-TX16,E000299,"ESCOBAR,VERONICA","Escobar, Veronica",Ms.,Veronica,,Escobar,,Veronica Escobar,Ms. Escobar,116,D,D,TX,Texas,16th,El Paso,LHOB,1505,20515,4316,(202) 225-4831,20201103,20210103
-TX17,S000250,"SESSIONS,PETE","Sessions, Pete",Mr.,Pete,,Sessions,,Pete Sessions,Mr. Sessions,115,R,R,TX,Texas,17th,Waco,RHOB,2204,20515,4317,(202) 225-6105,20201103,20210103
-TX18,J000032,"JACKSONLEE,SHEILA","Jackson Lee, Sheila",Ms.,Sheila,,Jackson Lee,,Sheila Jackson Lee,Ms. Jackson Lee,116,D,D,TX,Texas,18th,Houston,RHOB,2426,20515,4318,(202) 225-3816,20201103,20210103
-TX19,A000375,"ARRINGTON,JODEY","Arrington, Jodey",Mr.,Jodey,C.,Arrington,,Jodey C. Arrington,Mr. Arrington,116,R,R,TX,Texas,19th,Lubbock,LHOB,1107,20515,4319,(202) 225-4005,20201103,20210103
-TX20,C001091,"CASTRO,JOAQUIN","Castro, Joaquin",Mr.,Joaquin,,Castro,,Joaquin Castro,Mr. Castro of Texas,116,D,D,TX,Texas,20th,San Antonio,RHOB,2241,20515,4320,(202) 225-3236,20201103,20210103
-TX21,R000614,"ROY,CHIP","Roy, Chip",Mr.,Chip,,Roy,,Chip Roy,Mr. Roy,116,R,R,TX,Texas,21st,Austin,LHOB,1005,20515,4321,(202) 225-4236,20201103,20210103
-TX22,N000026,"NEHLS,TROY","Nehls, Troy",Mr.,Troy,E.,Nehls,,Troy E. Nehls,Mr. Nehls,0,R,R,TX,Texas,22nd,Richmond,LHOB,1104,20515,4322,(202) 225-5951,20201103,20210103
-TX23,G000594,"GONZALES,TONY","Gonzales, Tony",Mr.,Tony,,Gonzales,,Tony Gonzales,Mr. Tony Gonzales of Texas,0,R,R,TX,Texas,23rd,San Antonio,LHOB,1009,20515,4323,(202) 225-4511,20201103,20210103
-TX24,V000134,"VANDUYNE,BETH","Van Duyne, Beth",Ms.,Beth,,Van Duyne,,Beth Van Duyne,Ms. Van Duyne,0,R,R,TX,Texas,24th,Irving,LHOB,1337,20515,4324,(202) 225-6605,20201103,20210103
-TX25,W000816,"WILLIAMS,ROGER","Williams, Roger",Mr.,Roger,,Williams,,Roger Williams,Mr. Williams of Texas,116,R,R,TX,Texas,25th,Weatherford,LHOB,1708,20515,4325,(202) 225-9896,20201103,20210103
-TX26,B001248,"BURGESS,MICHAEL","Burgess, Michael",Mr.,Michael,C.,Burgess,,Michael C. Burgess,Mr. Burgess,116,R,R,TX,Texas,26th,Pilot Point,RHOB,2161,20515,4326,(202) 225-7772,20201103,20210103
-TX27,C001115,"CLOUD,MICHAEL","Cloud, Michael",Mr.,Michael,,Cloud,,Michael Cloud,Mr. Cloud,116,R,R,TX,Texas,27th,Victoria,CHOB,512,20515,4327,(202) 225-7742,20201103,20210103
-TX28,C001063,"CUELLAR,HENRY","Cuellar, Henry",Mr.,Henry,,Cuellar,,Henry Cuellar,Mr. Cuellar,116,D,D,TX,Texas,28th,Laredo,RHOB,2372,20515,4328,(202) 225-1640,20201103,20210103
-TX29,G000587,"GARCIA,SYLVIA","Garcia, Sylvia",Ms.,Sylvia,R.,Garcia,,Sylvia R. Garcia,Ms. Garcia of Texas,116,D,D,TX,Texas,29th,Houston,LHOB,1620,20515,4329,(202) 225-1688,20201103,20210103
-TX30,J000126,"JOHNSON,EDDIE","Johnson, Eddie",Ms.,Eddie,Bernice,Johnson,,Eddie Bernice Johnson,Ms. Johnson of Texas,116,D,D,TX,Texas,30th,Dallas,RHOB,2306,20515,4330,(202) 225-8885,20201103,20210103
-TX31,C001051,"CARTER,JOHN","Carter, John",Mr.,John,R.,Carter,,John R. Carter,Mr. Carter of Texas,116,R,R,TX,Texas,31st,Round Rock,RHOB,2208,20515,4331,(202) 225-3864,20201103,20210103
-TX32,A000376,"ALLRED,COLIN","Allred, Colin",Mr.,Colin,Z.,Allred,,Colin Z. Allred,Mr. Allred,116,D,D,TX,Texas,32nd,Dallas,CHOB,114,20515,4332,(202) 225-2231,20201103,20210103
-TX33,V000131,"VEASEY,MARC","Veasey, Marc",Mr.,Marc,A.,Veasey,,Marc A. Veasey,Mr. Veasey,116,D,D,TX,Texas,33rd,Fort Worth,RHOB,2348,20515,4333,(202) 225-9897,20201103,20210103
-TX34,F000473,"FLORES,MAYRA","Flores, Mayra",Mrs.,Mayra,,Flores,,Mayra Flores,Mrs. Flores,0,R,R,TX,Texas,34th,McAllen,CHOB,307,20515,4334,(202) 225-9901,20220614,20220621
-TX35,D000399,"DOGGETT,LLOYD","Doggett, Lloyd",Mr.,Lloyd,,Doggett,,Lloyd Doggett,Mr. Doggett,116,D,D,TX,Texas,35th,Austin,RHOB,2307,20515,4335,(202) 225-4865,20201103,20210103
-TX36,B001291,"BABIN,BRIAN","Babin, Brian",Mr.,Brian,,Babin,,Brian Babin,Mr. Babin,116,R,R,TX,Texas,36th,Woodville,RHOB,2236,20515,4336,(202) 225-1555,20201103,20210103
-UT01,M001213,"MOORE,BLAKE","Moore, Blake",Mr.,Blake,D.,Moore,,Blake D. Moore,Mr. Moore of Utah,0,R,R,UT,Utah,1st,Salt Lake City,LHOB,1320,20515,4401,(202) 225-0453,20201103,20210103
-UT02,S001192,"STEWART,CHRIS","Stewart, Chris",Mr.,Chris,,Stewart,,Chris Stewart,Mr. Stewart,116,R,R,UT,Utah,2nd,Farmington,CHOB,166,20515,4402,(202) 225-9730,20201103,20210103
-UT03,C001114,"CURTIS,JOHN","Curtis, John",Mr.,John,R.,Curtis,,John R. Curtis,Mr. Curtis,116,R,R,UT,Utah,3rd,Provo,RHOB,2400,20515,4403,(202) 225-7751,20201103,20210103
-UT04,O000086,"OWENS,BURGESS","Owens, Burgess",Mr.,Burgess,,Owens,,Burgess Owens,Mr. Owens,0,R,R,UT,Utah,4th,Salt Lake City,LHOB,1039,20515,4404,(202) 225-3011,20201103,20210103
-VA01,W000804,"WITTMAN,ROBERT","Wittman, Robert",Mr.,Robert,J.,Wittman,,Robert J. Wittman,Mr. Wittman,116,R,R,VA,Virginia,1st,Montross,RHOB,2055,20515,4601,(202) 225-4261,20201103,20210103
-VA02,L000591,"LURIA,ELAINE","Luria, Elaine",Mrs.,Elaine,G.,Luria,,Elaine G. Luria,Mrs. Luria,116,D,D,VA,Virginia,2nd,Norfolk,CHOB,412,20515,4602,(202) 225-4215,20201103,20210103
-VA03,S000185,"SCOTT,ROBERT","Scott, Robert",Mr.,Robert,"C. ""Bobby""",Scott,,"Robert C. ""Bobby"" Scott",Mr. Scott of Virginia,116,D,D,VA,Virginia,3rd,Newport News,RHOB,2328,20515,4603,(202) 225-8351,20201103,20210103
-VA04,,,,,,,,,,,0,,,VA,Virginia,4th,,CHOB,314,20515,4604,(202) 225-6365,,
-VA05,G000595,"GOOD,BOB","Good, Bob",Mr.,Bob,,Good,,Bob Good,Mr. Good of Virginia,0,R,R,VA,Virginia,5th,Lynchburg,LHOB,1213,20515,4605,(202) 225-4711,20201103,20210103
-VA06,C001118,"CLINE,BEN","Cline, Ben",Mr.,Ben,,Cline,,Ben Cline,Mr. Cline,116,R,R,VA,Virginia,6th,Botetourt,RHOB,2443,20515,4606,(202) 225-5431,20201103,20210103
-VA07,S001209,"SPANBERGER,ABIGAIL","Spanberger, Abigail",Ms.,Abigail,Davis,Spanberger,,Abigail Davis Spanberger,Ms. Spanberger,116,D,D,VA,Virginia,7th,Glen Allen,LHOB,1431,20515,4607,(202) 225-2815,20201103,20210103
-VA08,B001292,"BEYER,DONALD","Beyer, Donald",Mr.,Donald,S.,Beyer,Jr.,"Donald S. Beyer, Jr.",Mr. Beyer,116,D,D,VA,Virginia,8th,Alexandria,LHOB,1119,20515,4608,(202) 225-4376,20201103,20210103
-VA09,G000568,"GRIFFITH,H.","Griffith, H.",Mr.,H.,Morgan,Griffith,,H. Morgan Griffith,Mr. Griffith,116,R,R,VA,Virginia,9th,Salem,RHOB,2202,20515,4609,(202) 225-3861,20201103,20210103
-VA10,W000825,"WEXTON,JENNIFER","Wexton, Jennifer",Ms.,Jennifer,,Wexton,,Jennifer Wexton,Ms. Wexton,116,D,D,VA,Virginia,10th,Leesburg,LHOB,1217,20515,4610,(202) 225-5136,20201103,20210103
-VA11,C001078,"CONNOLLY,GERALD","Connolly, Gerald",Mr.,Gerald,E.,Connolly,,Gerald E. Connolly,Mr. Connolly,116,D,D,VA,Virginia,11th,Fairfax,RHOB,2238,20515,4611,(202) 225-1492,20201103,20210103
-VI00,P000610,"PLASKETT,STACEY","Plaskett, Stacey",Ms.,Stacey,E.,Plaskett,,Stacey E. Plaskett,Ms. Plaskett,116,D,D,VI,Virgin Islands,Delegate,St. Croix,RHOB,2404,20515,5500,(202) 225-1790,20201103,20210103
-VT00,W000800,"WELCH,PETER","Welch, Peter",Mr.,Peter,,Welch,,Peter Welch,Mr. Welch,116,D,D,VT,Vermont,At Large,Norwich,RHOB,2187,20515,4500,(202) 225-4115,20201103,20210103
-WA01,D000617,"DELBENE,SUZAN","DelBene, Suzan",Ms.,Suzan,K.,DelBene,,Suzan K. DelBene,Ms. DelBene,116,D,D,WA,Washington,1st,Medina,RHOB,2330,20515,4701,(202) 225-6311,20201103,20210103
-WA02,L000560,"LARSEN,RICK","Larsen, Rick",Mr.,Rick,,Larsen,,Rick Larsen,Mr. Larsen of Washington,116,D,D,WA,Washington,2nd,Everett,RHOB,2163,20515,4702,(202) 225-2605,20201103,20210103
-WA03,H001056,"HERRERABEUTLER,JAIME","Herrera Beutler, Jaime",Ms.,Jaime,,Herrera Beutler,,Jaime Herrera Beutler,Ms. Herrera Beutler,116,R,R,WA,Washington,3rd,Battle Ground,RHOB,2352,20515,4703,(202) 225-3536,20201103,20210103
-WA04,N000189,"NEWHOUSE,DAN","Newhouse, Dan",Mr.,Dan,,Newhouse,,Dan Newhouse,Mr. Newhouse,116,R,R,WA,Washington,4th,Sunnyside,CHOB,504,20515,4704,(202) 225-5816,20201103,20210103
-WA05,M001159,"RODGERS,CATHY","Rodgers, Cathy",Mrs.,Cathy,McMorris,Rodgers,,Cathy McMorris Rodgers,Mrs. Rodgers of Washington,116,R,R,WA,Washington,5th,Spokane,LHOB,1035,20515,4705,(202) 225-2006,20201103,20210103
-WA06,K000381,"KILMER,DEREK","Kilmer, Derek",Mr.,Derek,,Kilmer,,Derek Kilmer,Mr. Kilmer,116,D,D,WA,Washington,6th,Gig Harbor,RHOB,2059,20515,4706,(202) 225-5916,20201103,20210103
-WA07,J000298,"JAYAPAL,PRAMILA","Jayapal, Pramila",Ms.,Pramila,,Jayapal,,Pramila Jayapal,Ms. Jayapal,116,D,D,WA,Washington,7th,Seattle,RHOB,2346,20515,4707,(202) 225-3106,20201103,20210103
-WA08,S001216,"SCHRIER,KIM","Schrier, Kim",Ms.,Kim,,Schrier,,Kim Schrier,Ms. Schrier,116,D,D,WA,Washington,8th,Sammamish,LHOB,1123,20515,4708,(202) 225-7761,20201103,20210103
-WA09,S000510,"SMITH,ADAM","Smith, Adam",Mr.,Adam,,Smith,,Adam Smith,Mr. Smith of Washington,116,D,D,WA,Washington,9th,Bellevue,RHOB,2264,20515,4709,(202) 225-8901,20201103,20210103
-WA10,S001159,"STRICKLAND,MARILYN","Strickland, Marilyn",Ms.,Marilyn,,Strickland,,Marilyn Strickland,Ms. Strickland,0,D,D,WA,Washington,10th,Tacoma,LHOB,1004,20515,4710,(202) 225-9740,20201103,20210103
-WI01,S001213,"STEIL,BRYAN","Steil, Bryan",Mr.,Bryan,,Steil,,Bryan Steil,Mr. Steil,116,R,R,WI,Wisconsin,1st,Janesville,LHOB,1526,20515,4901,(202) 225-3031,20201103,20210103
-WI02,P000607,"POCAN,MARK","Pocan, Mark",Mr.,Mark,,Pocan,,Mark Pocan,Mr. Pocan,116,D,D,WI,Wisconsin,2nd,Town of Vermont,LHOB,1727,20515,4902,(202) 225-2906,20201103,20210103
-WI03,K000188,"KIND,RON","Kind, Ron",Mr.,Ron,,Kind,,Ron Kind,Mr. Kind,116,D,D,WI,Wisconsin,3rd,La Crosse,LHOB,1502,20515,4903,(202) 225-5506,20201103,20210103
-WI04,M001160,"MOORE,GWEN","Moore, Gwen",Ms.,Gwen,,Moore,,Gwen Moore,Ms. Moore of Wisconsin,116,D,D,WI,Wisconsin,4th,Milwaukee,RHOB,2252,20515,4904,(202) 225-4572,20201103,20210103
-WI05,F000471,"FITZGERALD,SCOTT","Fitzgerald, Scott",Mr.,Scott,,Fitzgerald,,Scott Fitzgerald,Mr. Fitzgerald,0,R,R,WI,Wisconsin,5th,Clyman,LHOB,1507,20515,4905,(202) 225-5101,20201103,20210103
-WI06,G000576,"GROTHMAN,GLENN","Grothman, Glenn",Mr.,Glenn,,Grothman,,Glenn Grothman,Mr. Grothman,116,R,R,WI,Wisconsin,6th,Glenbeulah,LHOB,1427,20515,4906,(202) 225-2476,20201103,20210103
-WI07,T000165,"TIFFANY,THOMAS","Tiffany, Thomas",Mr.,Thomas,P.,Tiffany,,Thomas P. Tiffany,Mr. Tiffany,116,R,R,WI,Wisconsin,7th,Minocqua,LHOB,1719,20515,4907,(202) 225-3365,20201103,20210103
-WI08,G000579,"GALLAGHER,MIKE","Gallagher, Mike",Mr.,Mike,,Gallagher,,Mike Gallagher,Mr. Gallagher,116,R,R,WI,Wisconsin,8th,Green Bay,LHOB,1230,20515,4908,(202) 225-5665,20201103,20210103
-WV01,M001180,"MCKINLEY,DAVID","McKinley, David",Mr.,David,B.,McKinley,,David B. McKinley,Mr. McKinley,116,R,R,WV,West Virginia,1st,Wheeling,RHOB,2239,20515,4801,(202) 225-4172,20201103,20210103
-WV02,M001195,"MOONEY,ALEXANDER","Mooney, Alexander",Mr.,Alexander,X.,Mooney,,Alexander Mooney,Mr. Mooney,116,R,R,WV,West Virginia,2nd,Charles Town,RHOB,2228,20515,4802,(202) 225-2711,20201103,20210103
-WV03,M001205,"MILLER,CAROL","Miller, Carol",Mrs.,Carol,D.,Miller,,Carol D. Miller,Mrs. Miller of West Virginia,116,R,R,WV,West Virginia,3rd,Huntington,CHOB,465,20515,4803,(202) 225-3452,20201103,20210103
-WY00,C001109,"CHENEY,LIZ","Cheney, Liz",Ms.,Liz,,Cheney,,Liz Cheney,Ms. Cheney,116,R,R,WY,Wyoming,At Large,Wilson,CHOB,416,20515,5000,(202) 225-2311,20201103,20210103
+AK00,P000619,"PELTOLA,MARY","Peltola, Mary",Mrs.,Mary,Sattler,Peltola,,Mary Sattler Peltola,Mrs. Peltola,117,D,D,AK,Alaska,At Large,Bethel,CHOB,153,20515,0200,(202) 225-5765,20221108,20230107
+AL01,C001054,"CARL,JERRY","Carl, Jerry",Mr.,Jerry,L.,Carl,,Jerry L. Carl,Mr. Carl,117,R,R,AL,Alabama,1st,Mobile,LHOB,1330,20515,0101,(202) 225-4931,20221108,20230107
+AL02,M001212,"MOORE,BARRY","Moore, Barry",Mr.,Barry,,Moore,,Barry Moore,Mr. Moore of Alabama,117,R,R,AL,Alabama,2nd,Enterprise,LHOB,1504,20515,0102,(202) 225-2901,20221108,20230107
+AL03,R000575,"ROGERS,MIKE","Rogers, Mike",Mr.,Mike,,Rogers,,Mike Rogers,Mr. Rogers of Alabama,117,R,R,AL,Alabama,3rd,Weaver,RHOB,2469,20515,0103,(202) 225-3261,20221108,20230107
+AL04,A000055,"ADERHOLT,ROBERT","Aderholt, Robert",Mr.,Robert,B.,Aderholt,,Robert B. Aderholt,Mr. Aderholt,117,R,R,AL,Alabama,4th,Haleyville,CHOB,266,20515,0104,(202) 225-4876,20221108,20230107
+AL05,S001220,"STRONG,DALE","Strong, Dale",Mr.,Dale,W.,Strong,,Dale W. Strong,Mr. Strong,0,R,R,AL,Alabama,5th,Huntsville,LHOB,1337,20515,0105,(202) 225-4801,20221108,20230107
+AL06,P000609,"PALMER,GARY","Palmer, Gary",Mr.,Gary,J.,Palmer,,Gary J. Palmer,Mr. Palmer,117,R,R,AL,Alabama,6th,Hoover,CHOB,170,20515,0106,(202) 225-4921,20221108,20230107
+AL07,S001185,"SEWELL,TERRI","Sewell, Terri",Ms.,Terri,A.,Sewell,,Terri A. Sewell,Ms. Sewell,117,D,D,AL,Alabama,7th,Birmingham,LHOB,1035,20515,0107,(202) 225-2665,20221108,20230107
+AR01,C001087,"CRAWFORD,ERIC","Crawford, Eric",Mr.,Eric,"A. ""Rick""",Crawford,,"Eric A. ""Rick"" Crawford",Mr. Crawford,117,R,R,AR,Arkansas,1st,Jonesboro,RHOB,2422,20515,0401,(202) 225-4076,20221108,20230107
+AR02,H001072,"HILL,J.","Hill, J.",Mr.,J.,French,Hill,,J. French Hill,Mr. Hill,117,R,R,AR,Arkansas,2nd,Little Rock,LHOB,1533,20515,0402,(202) 225-2506,20221108,20230107
+AR03,W000809,"WOMACK,STEVE","Womack, Steve",Mr.,Steve,,Womack,,Steve Womack,Mr. Womack,117,R,R,AR,Arkansas,3rd,Rogers,RHOB,2412,20515,0403,(202) 225-4301,20221108,20230107
+AR04,W000821,"WESTERMAN,BRUCE","Westerman, Bruce",Mr.,Bruce,,Westerman,,Bruce Westerman,Mr. Westerman,117,R,R,AR,Arkansas,4th,Hot Springs,CHOB,202,20515,0404,(202) 225-3772,20221108,20230107
+AQ00,R000600,"RADEWAGEN,AUMUAAMATA","Radewagen, Aumua Amata",Mrs.,Aumua Amata,Coleman,Radewagen,,Aumua Amata Coleman Radewagen,Mrs. Radewagen,117,R,R,AS,American Samoa,Delegate,Pago Pago,RHOB,2001,20515,5200,(202) 225-8577,20221108,20230107
+AZ01,S001183,"SCHWEIKERT,DAVID","Schweikert, David",Mr.,David,,Schweikert,,David Schweikert,Mr. Schweikert,117,R,R,AZ,Arizona,1st,Fountain Hills,CHOB,460,20515,0301,(202) 225-2190,20221108,20230107
+AZ02,C001132,"CRANE,ELIJAH","Crane, Elijah",Mr.,Elijah,,Crane,,Elijah Crane,Mr. Crane,0,R,R,AZ,Arizona,2nd,Oro Valley,LHOB,1229,20515,0302,(202) 225-3361,20221108,20230107
+AZ03,G000574,"GALLEGO,RUBEN","Gallego, Ruben",Mr.,Ruben,,Gallego,,Ruben Gallego,Mr. Gallego,117,D,D,AZ,Arizona,3rd,Phoenix,LHOB,1114,20515,0303,(202) 225-4065,20221108,20230107
+AZ04,S001211,"STANTON,GREG","Stanton, Greg",Mr.,Greg,,Stanton,,Greg Stanton,Mr. Stanton,117,D,D,AZ,Arizona,4th,Phoenix,CHOB,207,20515,0304,(202) 225-9888,20221108,20230107
+AZ05,B001302,"BIGGS,ANDY","Biggs, Andy",Mr.,Andy,,Biggs,,Andy Biggs,Mr. Biggs,117,R,R,AZ,Arizona,5th,Gilbert,CHOB,252,20515,0305,(202) 225-2635,20221108,20230107
+AZ06,C001133,"CISCOMANI,JUAN","Ciscomani, Juan",Mr.,Juan,,Ciscomani,,Juan Ciscomani,Mr. Ciscomani,0,R,R,AZ,Arizona,6th,Tucson,LHOB,1429,20515,0306,(202) 225-2542,20221108,20230107
+AZ07,G000551,"GRIJALVA,RAUL","Grijalva, Raúl",Mr.,Raúl,M.,Grijalva,,Raúl M. Grijalva,Mr. Grijalva,117,D,D,AZ,Arizona,7th,Tucson,LHOB,1203,20515,0307,(202) 225-2435,20221108,20230107
+AZ08,L000589,"LESKO,DEBBIE","Lesko, Debbie",Mrs.,Debbie,,Lesko,,Debbie Lesko,Mrs. Lesko,117,R,R,AZ,Arizona,8th,Peoria,LHOB,1214,20515,0308,(202) 225-4576,20221108,20230107
+AZ09,G000565,"GOSAR,PAUL","Gosar, Paul",Mr.,Paul,A.,Gosar,,Paul A. Gosar,Mr. Gosar,117,R,R,AZ,Arizona,9th,Bullhead City,RHOB,2057,20515,0309,(202) 225-2315,20221108,20230107
+CA01,L000578,"LAMALFA,DOUG","LaMalfa, Doug",Mr.,Doug,,LaMalfa,,Doug LaMalfa,Mr. LaMalfa,117,R,R,CA,California,1st,Oroville,CHOB,408,20515,0501,(202) 225-3076,20221108,20230107
+CA02,H001068,"HUFFMAN,JARED","Huffman, Jared",Mr.,Jared,,Huffman,,Jared Huffman,Mr. Huffman,117,D,D,CA,California,2nd,San Rafael,RHOB,2445,20515,0502,(202) 225-5161,20221108,20230107
+CA03,K000401,"KILEY,KEVIN","Kiley, Kevin",Mr.,Kevin,,Kiley,,Kevin Kiley,Mr. Kiley,0,R,R,CA,California,3rd,Rocklin,LHOB,1032,20515,0503,(202) 225-2523,20221108,20230107
+CA04,T000460,"THOMPSON,MIKE","Thompson, Mike",Mr.,Mike,,Thompson,,Mike Thompson,Mr. Thompson of California,117,D,D,CA,California,4th,St. Helena,CHOB,268,20515,0504,(202) 225-3311,20221108,20230107
+CA05,M001177,"MCCLINTOCK,TOM","McClintock, Tom",Mr.,Tom,,McClintock,,Tom McClintock,Mr. McClintock,117,R,R,CA,California,5th,Elk Grove,RHOB,2256,20515,0505,(202) 225-2511,20221108,20230107
+CA06,B001287,"BERA,AMI","Bera, Ami",Mr.,Ami,,Bera,,Ami Bera,Mr. Bera,117,D,D,CA,California,6th,Elk Grove,CHOB,172,20515,0506,(202) 225-5716,20221108,20230107
+CA07,M001163,"MATSUI,DORIS","Matsui, Doris",Ms.,Doris,O.,Matsui,,Doris O. Matsui,Ms. Matsui,117,D,D,CA,California,7th,Sacramento,RHOB,2311,20515,0507,(202) 225-7163,20221108,20230107
+CA08,G000559,"GARAMENDI,JOHN","Garamendi, John",Mr.,John,,Garamendi,,John Garamendi,Mr. Garamendi,117,D,D,CA,California,8th,Walnut Grove,RHOB,2004,20515,0508,(202) 225-1880,20221108,20230107
+CA09,H001090,"HARDER,JOSH","Harder, Josh",Mr.,Josh,,Harder,,Josh Harder,Mr. Harder of California,117,D,D,CA,California,9th,Tracy,CHOB,209,20515,0509,(202) 225-4540,20221108,20230107
+CA10,D000623,"DESAULNIER,MARK","DeSaulnier, Mark",Mr.,Mark,,DeSaulnier,,Mark DeSaulnier,Mr. DeSaulnier,117,D,D,CA,California,10th,Concord,CHOB,503,20515,0510,(202) 225-2095,20221108,20230107
+CA11,P000197,"PELOSI,NANCY","Pelosi, Nancy",Ms.,Nancy,,Pelosi,,Nancy Pelosi,Ms. Pelosi,117,D,D,CA,California,11th,San Francisco,LHOB,1236,20515,0511,(202) 225-4965,20221108,20230107
+CA12,L000551,"LEE,BARBARA","Lee, Barbara",Ms.,Barbara,,Lee,,Barbara Lee,Ms. Lee of California,117,D,D,CA,California,12th,Oakland,RHOB,2470,20515,0512,(202) 225-2661,20221108,20230107
+CA13,D000633,"DUARTE,JOHN","Duarte, John",Mr.,John,S.,Duarte,,John S. Duarte,Mr. Duarte,0,R,R,CA,California,13th,Modesto,LHOB,1535,20515,0513,(202) 225-1947,20221108,20230107
+CA14,S001193,"SWALWELL,ERIC","Swalwell, Eric",Mr.,Eric,,Swalwell,,Eric Swalwell,Mr. Swalwell,117,D,D,CA,California,14th,Livermore,CHOB,174,20515,0514,(202) 225-5065,20221108,20230107
+CA15,M001225,"MULLIN,KEVIN","Mullin, Kevin",Mr.,Kevin,,Mullin,,Kevin Mullin,Mr. Mullin,0,D,D,CA,California,15th,South San Francisco,LHOB,1404,20515,0515,(202) 225-3531,20221108,20230107
+CA16,E000215,"ESHOO,ANNA","Eshoo, Anna",Ms.,Anna,G.,Eshoo,,Anna G. Eshoo,Ms. Eshoo,117,D,D,CA,California,16th,Atherton,CHOB,272,20515,0516,(202) 225-8104,20221108,20230107
+CA17,K000389,"KHANNA,RO","Khanna, Ro",Mr.,Ro,,Khanna,,Ro Khanna,Mr. Khanna,117,D,D,CA,California,17th,Fremont,CHOB,306,20515,0517,(202) 225-2631,20221108,20230107
+CA18,L000397,"LOFGREN,ZOE","Lofgren, Zoe",Ms.,Zoe,,Lofgren,,Zoe Lofgren,Ms. Lofgren,117,D,D,CA,California,18th,San José,LHOB,1401,20515,0518,(202) 225-3072,20221108,20230107
+CA19,P000613,"PANETTA,JIMMY","Panetta, Jimmy",Mr.,Jimmy,,Panetta,,Jimmy Panetta,Mr. Panetta,117,D,D,CA,California,19th,Carmel Valley,CHOB,304,20515,0519,(202) 225-2861,20221108,20230107
+CA20,M001165,"MCCARTHY,KEVIN","McCarthy, Kevin",Mr.,Kevin,,McCarthy,,Kevin McCarthy,Mr. McCarthy,117,R,R,CA,California,20th,Bakersfield,RHOB,2468,20515,0520,(202) 225-2915,20221108,20230107
+CA21,C001059,"COSTA,JIM","Costa, Jim",Mr.,Jim,,Costa,,Jim Costa,Mr. Costa,117,D,D,CA,California,21st,Fresno,RHOB,2081,20515,0521,(202) 225-3341,20221108,20230107
+CA22,V000129,"VALADAO,DAVID","Valadao, David",Mr.,David,G.,Valadao,,David G. Valadao,Mr. Valadao,117,R,R,CA,California,22nd,Hanford,RHOB,2465,20515,0522,(202) 225-4695,20221108,20230107
+CA23,O000019,"OBERNOLTE,JAY","Obernolte, Jay",Mr.,Jay,,Obernolte,,Jay Obernolte,Mr. Obernolte,117,R,R,CA,California,23rd,Big Bear Lake,LHOB,1029,20515,0523,(202) 225-5861,20221108,20230107
+CA24,C001112,"CARBAJAL,SALUD","Carbajal, Salud",Mr.,Salud,O.,Carbajal,,Salud O. Carbajal,Mr. Carbajal,117,D,D,CA,California,24th,Santa Barbara,RHOB,2331,20515,0524,(202) 225-3601,20221108,20230107
+CA25,R000599,"RUIZ,RAUL","Ruiz, Raul",Mr.,Raul,,Ruiz,,Raul Ruiz,Mr. Ruiz,117,D,D,CA,California,25th,Indio,RHOB,2342,20515,0525,(202) 225-5330,20221108,20230107
+CA26,B001285,"BROWNLEY,JULIA","Brownley, Julia",Ms.,Julia,,Brownley,,Julia Brownley,Ms. Brownley,117,D,D,CA,California,26th,Westlake Village,RHOB,2262,20515,0526,(202) 225-5811,20221108,20230107
+CA27,G000061,"GARCIA,MIKE","Garcia, Mike",Mr.,Mike,,Garcia,,Mike Garcia,Mr. Mike Garcia of California,117,R,R,CA,California,27th,Santa Clarita,CHOB,144,20515,0527,(202) 225-1956,20221108,20230107
+CA28,C001080,"CHU,JUDY","Chu, Judy",Ms.,Judy,,Chu,,Judy Chu,Ms. Chu,117,D,D,CA,California,28th,Monterey Park,RHOB,2423,20515,0528,(202) 225-5464,20221108,20230107
+CA29,C001097,"CARDENAS,TONY","Cárdenas, Tony",Mr.,Tony,,Cárdenas,,Tony Cárdenas,Mr. Cárdenas,117,D,D,CA,California,29th,Pacoima,RHOB,2181,20515,0529,(202) 225-6131,20221108,20230107
+CA30,S001150,"SCHIFF,ADAM","Schiff, Adam",Mr.,Adam,B.,Schiff,,Adam B. Schiff,Mr. Schiff,117,D,D,CA,California,30th,Burbank,RHOB,2309,20515,0530,(202) 225-4176,20221108,20230107
+CA31,N000179,"NAPOLITANO,GRACE","Napolitano, Grace",Mrs.,Grace,F.,Napolitano,,Grace F. Napolitano,Mrs. Napolitano,117,D,D,CA,California,31st,Norwalk,LHOB,1610,20515,0531,(202) 225-5256,20221108,20230107
+CA32,S000344,"SHERMAN,BRAD","Sherman, Brad",Mr.,Brad,,Sherman,,Brad Sherman,Mr. Sherman,117,D,D,CA,California,32nd,Sherman Oaks,RHOB,2365,20515,0532,(202) 225-5911,20221108,20230107
+CA33,A000371,"AGUILAR,PETE","Aguilar, Pete",Mr.,Pete,,Aguilar,,Pete Aguilar,Mr. Aguilar,117,D,D,CA,California,33rd,Redlands,CHOB,108,20515,0533,(202) 225-3201,20221108,20230107
+CA34,G000585,"GOMEZ,JIMMY","Gomez, Jimmy",Mr.,Jimmy,,Gomez,,Jimmy Gomez,Mr. Gomez,117,D,D,CA,California,34th,Los Angeles,CHOB,506,20515,0534,(202) 225-6235,20221108,20230107
+CA35,T000474,"TORRES,NORMA","Torres, Norma",Mrs.,Norma,J.,Torres,,Norma J. Torres,Mrs. Torres of California,117,D,D,CA,California,35th,Pomona,RHOB,2227,20515,0535,(202) 225-6161,20221108,20230107
+CA36,L000582,"LIEU,TED","Lieu, Ted",Mr.,Ted,,Lieu,,Ted Lieu,Mr. Lieu,117,D,D,CA,California,36th,Torrance,RHOB,2454,20515,0536,(202) 225-3976,20221108,20230107
+CA37,K000400,"KAMLAGERDOVE,SYDNEY","Kamlager-Dove, Sydney",Ms.,Sydney,,Kamlager-Dove,,Sydney Kamlager-Dove,Ms. Kamlager-Dove,0,D,D,CA,California,37th,Los Angeles,LHOB,1419,20515,0537,(202) 225-7084,20221108,20230107
+CA38,S001156,"SANCHEZ,LINDA","Sánchez, Linda",Ms.,Linda,T.,Sánchez,,Linda T. Sánchez,Ms. Sánchez,117,D,D,CA,California,38th,Whittier,RHOB,2428,20515,0538,(202) 225-6676,20221108,20230107
+CA39,T000472,"TAKANO,MARK","Takano, Mark",Mr.,Mark,,Takano,,Mark Takano,Mr. Takano,117,D,D,CA,California,39th,Riverside,RHOB,2078,20515,0539,(202) 225-2305,20221108,20230107
+CA40,K000397,"KIM,YOUNG","Kim, Young",Mrs.,Young,,Kim,,Young Kim,Mrs. Kim of California,117,R,R,CA,California,40th,La Habra,LHOB,1306,20515,0540,(202) 225-4111,20221108,20230107
+CA41,C000059,"CALVERT,KEN","Calvert, Ken",Mr.,Ken,,Calvert,,Ken Calvert,Mr. Calvert,117,R,R,CA,California,41st,Corona,RHOB,2205,20515,0541,(202) 225-1986,20221108,20230107
+CA42,G000598,"GARCIA,ROBERT","Garcia, Robert",Mr.,Robert,,Garcia,,Robert Garcia,Mr. Robert Garcia of California,0,D,D,CA,California,42nd,Long Beach,LHOB,1305,20515,0542,(202) 225-7924,20221108,20230107
+CA43,W000187,"WATERS,MAXINE","Waters, Maxine",Ms.,Maxine,,Waters,,Maxine Waters,Ms. Waters,117,D,D,CA,California,43rd,Los Angeles,RHOB,2221,20515,0543,(202) 225-2201,20221108,20230107
+CA44,B001300,"BARRAGAN,NANETTE","Barragán, Nanette",Ms.,Nanette,Diaz,Barragán,,Nanette Diaz Barragán,Ms. Barragán,117,D,D,CA,California,44th,Los Angeles,RHOB,2312,20515,0544,(202) 225-8220,20221108,20230107
+CA45,S001135,"STEEL,MICHELLE","Steel, Michelle",Mrs.,Michelle,,Steel,,Michelle Steel,Mrs. Steel,117,R,R,CA,California,45th,Orange County,LHOB,1127,20515,0545,(202) 225-2415,20221108,20230107
+CA46,C001110,"CORREA,J.","Correa, J.",Mr.,J.,Luis,Correa,,J. Luis Correa,Mr. Correa,117,D,D,CA,California,46th,Santa Ana,RHOB,2301,20515,0546,(202) 225-2965,20221108,20230107
+CA47,P000618,"PORTER,KATIE","Porter, Katie",Ms.,Katie,,Porter,,Katie Porter,Ms. Porter,117,D,D,CA,California,47th,Irvine,LHOB,1233,20515,0547,(202) 225-5611,20221108,20230107
+CA48,I000056,"ISSA,DARRELL","Issa, Darrell",Mr.,Darrell,,Issa,,Darrell Issa,Mr. Issa,117,R,R,CA,California,48th,San Diego,RHOB,2108,20515,0548,(202) 225-5672,20221108,20230107
+CA49,L000593,"LEVIN,MIKE","Levin, Mike",Mr.,Mike,,Levin,,Mike Levin,Mr. Levin,117,D,D,CA,California,49th,San Juan Capistrano,RHOB,2352,20515,0549,(202) 225-3906,20221108,20230107
+CA50,P000608,"PETERS,SCOTT","Peters, Scott",Mr.,Scott,H.,Peters,,Scott H. Peters,Mr. Peters,117,D,D,CA,California,50th,San Diego,LHOB,1201,20515,0550,(202) 225-0508,20221108,20230107
+CA51,J000305,"JACOBS,SARA","Jacobs, Sara",Ms.,Sara,,Jacobs,,Sara Jacobs,Ms. Jacobs,117,D,D,CA,California,51st,San Diego,LHOB,1314,20515,0551,(202) 225-2040,20221108,20230107
+CA52,V000130,"VARGAS,JUAN","Vargas, Juan",Mr.,Juan,,Vargas,,Juan Vargas,Mr. Vargas,117,D,D,CA,California,52nd,San Diego,RHOB,2334,20515,0552,(202) 225-8045,20221108,20230107
+CO01,D000197,"DEGETTE,DIANA","DeGette, Diana",Ms.,Diana,,DeGette,,Diana DeGette,Ms. DeGette,117,D,D,CO,Colorado,1st,Denver,RHOB,2111,20515,0601,(202) 225-4431,20221108,20230107
+CO02,N000191,"NEGUSE,JOE","Neguse, Joe",Mr.,Joe,,Neguse,,Joe Neguse,Mr. Neguse,117,D,D,CO,Colorado,2nd,Lafayette,RHOB,2400,20515,0602,(202) 225-2161,20221108,20230107
+CO03,B000825,"BOEBERT,LAUREN","Boebert, Lauren",Mrs.,Lauren,,Boebert,,Lauren Boebert,Mrs. Boebert,117,R,R,CO,Colorado,3rd,Silt,LHOB,1713,20515,0603,(202) 225-4761,20221108,20230107
+CO04,B001297,"BUCK,KEN","Buck, Ken",Mr.,Ken,,Buck,,Ken Buck,Mr. Buck,117,R,R,CO,Colorado,4th,Windsor,RHOB,2455,20515,0604,(202) 225-4676,20221108,20230107
+CO05,L000564,"LAMBORN,DOUG","Lamborn, Doug",Mr.,Doug,,Lamborn,,Doug Lamborn,Mr. Lamborn,117,R,R,CO,Colorado,5th,Colorado Springs,RHOB,2371,20515,0605,(202) 225-4422,20221108,20230107
+CO06,C001121,"CROW,JASON","Crow, Jason",Mr.,Jason,,Crow,,Jason Crow,Mr. Crow,117,D,D,CO,Colorado,6th,Aurora,LHOB,1323,20515,0606,(202) 225-7882,20221108,20230107
+CO07,P000620,"PETTERSEN,BRITTANY","Pettersen, Brittany",Ms.,Brittany,,Pettersen,,Brittany Pettersen,Ms. Pettersen,0,D,D,CO,Colorado,7th,Lakewood,LHOB,1230,20515,0607,(202) 225-2645,20221108,20230107
+CO08,C001134,"CARAVEO,YADIRA","Caraveo, Yadira",Ms.,Yadira,,Caraveo,,Yadira Caraveo,Ms. Caraveo,0,D,D,CO,Colorado,8th,Thornton,LHOB,1024,20515,0001,(202) 225-5625,20221108,20230107
+CT01,L000557,"LARSON,JOHN","Larson, John",Mr.,John,B.,Larson,,John B. Larson,Mr. Larson of Connecticut,117,D,D,CT,Connecticut,1st,East Hartford,LHOB,1501,20515,0701,(202) 225-2265,20221108,20230107
+CT02,C001069,"COURTNEY,JOE","Courtney, Joe",Mr.,Joe,,Courtney,,Joe Courtney,Mr. Courtney,117,D,D,CT,Connecticut,2nd,Vernon,RHOB,2449,20515,0702,(202) 225-2076,20221108,20230107
+CT03,D000216,"DELAURO,ROSA","DeLauro, Rosa",Ms.,Rosa,L.,DeLauro,,Rosa L. DeLauro,Ms. DeLauro,117,D,D,CT,Connecticut,3rd,New Haven,RHOB,2413,20515,0703,(202) 225-3661,20221108,20230107
+CT04,H001047,"HIMES,JAMES","Himes, James",Mr.,James,A.,Himes,,James A. Himes,Mr. Himes,117,D,D,CT,Connecticut,4th,Cos Cob,RHOB,2137,20515,0704,(202) 225-5541,20221108,20230107
+CT05,H001081,"HAYES,JAHANA","Hayes, Jahana",Mrs.,Jahana,,Hayes,,Jahana Hayes,Mrs. Hayes,117,D,D,CT,Connecticut,5th,Wolcott,RHOB,2458,20515,0705,(202) 225-4476,20221108,20230107
+DC00,N000147,"NORTON,ELEANOR","Norton, Eleanor",Ms.,Eleanor,Holmes,Norton,,Eleanor Holmes Norton,Ms. Norton,117,D,D,DC,District of Columbia,Delegate,District of Columbia,RHOB,2136,20515,5101,(202) 225-8050,20221108,20230107
+DE00,B001303,"BLUNTROCHESTER,LISA","Blunt Rochester, Lisa",Ms.,Lisa,,Blunt Rochester,,Lisa Blunt Rochester,Ms. Blunt Rochester,117,D,D,DE,Delaware,At Large,Wilmington,LHOB,1724,20515,0800,(202) 225-4165,20221108,20230107
+FL01,G000578,"GAETZ,MATT","Gaetz, Matt",Mr.,Matt,,Gaetz,,Matt Gaetz,Mr. Gaetz,117,R,R,FL,Florida,1st,Niceville,RHOB,2021,20515,0901,(202) 225-4136,20221108,20230107
+FL02,D000628,"DUNN,NEAL","Dunn, Neal",Mr.,Neal,P.,Dunn,,Neal P. Dunn,Mr. Dunn of Florida,117,R,R,FL,Florida,2nd,Panama City,CHOB,466,20515,0902,(202) 225-5235,20221108,20230107
+FL03,C001039,"CAMMACK,KAT","Cammack, Kat",Mrs.,Kat,,Cammack,,Kat Cammack,Mrs. Cammack,117,R,R,FL,Florida,3rd,Gainesville,RHOB,2421,20515,0903,(202) 225-5744,20221108,20230107
+FL04,B001314,"BEAN,AARON","Bean, Aaron",Mr.,Aaron,,Bean,,Aaron Bean,Mr. Bean of Florida,0,R,R,FL,Florida,4th,Fernandina Beach,LHOB,1239,20515,0904,(202) 225-0123,20221108,20230107
+FL05,R000609,"RUTHERFORD,JOHN","Rutherford, John",Mr.,John,H.,Rutherford,,John H. Rutherford,Mr. Rutherford,117,R,R,FL,Florida,5th,Jacksonville,LHOB,1711,20515,0905,(202) 225-2501,20221108,20230107
+FL06,W000823,"WALTZ,MICHAEL","Waltz, Michael",Mr.,Michael,,Waltz,,Michael Waltz,Mr. Waltz,117,R,R,FL,Florida,6th,St. Augustine Beach,CHOB,244,20515,0906,(202) 225-2706,20221108,20230107
+FL07,M001216,"MILLS,CORY","Mills, Cory",Mr.,Cory,,Mills,,Cory Mills,Mr. Mills,0,R,R,FL,Florida,7th,New Smyrna Beach,LHOB,1237,20515,0907,(202) 225-4035,20221108,20230107
+FL08,P000599,"POSEY,BILL","Posey, Bill",Mr.,Bill,,Posey,,Bill Posey,Mr. Posey,117,R,R,FL,Florida,8th,Rockledge,RHOB,2150,20515,0908,(202) 225-3671,20221108,20230107
+FL09,S001200,"SOTO,DARREN","Soto, Darren",Mr.,Darren,,Soto,,Darren Soto,Mr. Soto,117,D,D,FL,Florida,9th,Kissimmee,RHOB,2353,20515,0909,(202) 225-9889,20221108,20230107
+FL10,F000476,"FROST,MAXWELL","Frost, Maxwell",Mr.,Maxwell,,Frost,,Maxwell Frost,Mr. Frost,0,D,D,FL,Florida,10th,Orlando,LHOB,1224,20515,0910,(202) 225-2176,20221108,20230107
+FL11,W000806,"WEBSTER,DANIEL","Webster, Daniel",Mr.,Daniel,,Webster,,Daniel Webster,Mr. Webster of Florida,117,R,R,FL,Florida,11th,Clermont,RHOB,2184,20515,0911,(202) 225-1002,20221108,20230107
+FL12,B001257,"BILIRAKIS,GUS","Bilirakis, Gus",Mr.,Gus,M.,Bilirakis,,Gus M. Bilirakis,Mr. Bilirakis,117,R,R,FL,Florida,12th,Palm Harbor,RHOB,2306,20515,0912,(202) 225-5755,20221108,20230107
+FL13,L000596,"LUNA,ANNAPAULINA","Luna, Anna Paulina",Mrs.,Anna Paulina,,Luna,,Anna Paulina Luna,Mrs. Luna,0,R,R,FL,Florida,13th,St. Petersburg,LHOB,1017,20515,0913,(202) 225-5961,20221108,20230107
+FL14,C001066,"CASTOR,KATHY","Castor, Kathy",Ms.,Kathy,,Castor,,Kathy Castor,Ms. Castor of Florida,117,D,D,FL,Florida,14th,Tampa,RHOB,2052,20515,0914,(202) 225-3376,20221108,20230107
+FL15,L000597,"LEE,LAUREL","Lee, Laurel",Ms.,Laurel,M.,Lee,,Laurel M. Lee,Ms. Lee of Florida,0,R,R,FL,Florida,15th,Tampa,LHOB,1118,20515,0915,(202) 225-5626,20221108,20230107
+FL16,B001260,"BUCHANAN,VERN","Buchanan, Vern",Mr.,Vern,,Buchanan,,Vern Buchanan,Mr. Buchanan,117,R,R,FL,Florida,16th,Sarasota,RHOB,2110,20515,0916,(202) 225-5015,20221108,20230107
+FL17,S001214,"STEUBE,W.","Steube, W.",Mr.,W.,Gregory,Steube,,W. Gregory Steube,Mr. Steube,117,R,R,FL,Florida,17th,Sarasota,RHOB,2457,20515,0917,(202) 225-5792,20221108,20230107
+FL18,F000472,"FRANKLIN,C.","Franklin, C.",Mr.,C.,Scott,Franklin,,C. Scott Franklin,Mr. C. Scott Franklin of Florida,117,R,R,FL,Florida,18th,Lakeland,CHOB,249,20515,0918,(202) 225-1252,20221108,20230107
+FL19,D000032,"DONALDS,BYRON","Donalds, Byron",Mr.,Byron,,Donalds,,Byron Donalds,Mr. Donalds,117,R,R,FL,Florida,19th,Naples,LHOB,1719,20515,0919,(202) 225-2536,20221108,20230107
+FL20,C001127,"CHERFILUSMCCORMICK,SHEILA","Cherfilus-McCormick, Sheila",Mrs.,Sheila,,Cherfilus-McCormick,,Sheila Cherfilus-McCormick,Mrs. Cherfilus-McCormick,117,D,D,FL,Florida,20th,Miramar,CHOB,242,20515,0920,(202) 225-1313,20221108,20230107
+FL21,M001199,"MAST,BRIAN","Mast, Brian",Mr.,Brian,J.,Mast,,Brian J. Mast,Mr. Mast,117,R,R,FL,Florida,21st,Fort Pierce,RHOB,2182,20515,0921,(202) 225-3026,20221108,20230107
+FL22,F000462,"FRANKEL,LOIS","Frankel, Lois",Ms.,Lois,,Frankel,,Lois Frankel,Ms. Lois Frankel of Florida,117,D,D,FL,Florida,22nd,West Palm Beach,RHOB,2305,20515,0922,(202) 225-9890,20221108,20230107
+FL23,M001217,"MOSKOWITZ,JARED","Moskowitz, Jared",Mr.,Jared,,Moskowitz,,Jared Moskowitz,Mr. Moskowitz,0,D,D,FL,Florida,23rd,Parkland,LHOB,1130,20515,0923,(202) 225-3001,20221108,20230107
+FL24,W000808,"WILSON,FREDERICA","Wilson, Frederica",Ms.,Frederica,S.,Wilson,,Frederica S. Wilson,Ms. Wilson of Florida,117,D,D,FL,Florida,24th,Miami Gardens,RHOB,2080,20515,0924,(202) 225-4506,20221108,20230107
+FL25,W000797,"WASSERMANSCHULTZ,DEBBIE","Wasserman Schultz, Debbie",Ms.,Debbie,,Wasserman Schultz,,Debbie Wasserman Schultz,Ms. Wasserman Schultz,117,D,D,FL,Florida,25th,Weston,CHOB,270,20515,0925,(202) 225-7931,20221108,20230107
+FL26,D000600,"DIAZBALART,MARIO","Diaz-Balart, Mario",Mr.,Mario,,Diaz-Balart,,Mario Diaz-Balart,Mr. Diaz-Balart,117,R,R,FL,Florida,26th,Miami,CHOB,374,20515,0926,(202) 225-4211,20221108,20230107
+FL27,S000168,"SALAZAR,MARIA","Salazar, Maria",Ms.,Maria,Elvira,Salazar,,Maria Elvira Salazar,Ms. Salazar,117,R,R,FL,Florida,27th,Miami,RHOB,2162,20515,0927,(202) 225-3931,20221108,20230107
+FL28,G000593,"GIMENEZ,CARLOS","Gimenez, Carlos",Mr.,Carlos,A.,Gimenez,,Carlos A. Gimenez,Mr. Gimenez,117,R,R,FL,Florida,28th,Miami,CHOB,448,20515,0001,(202) 225-2778,20221108,20230107
+GA01,C001103,"CARTER,EARL","Carter, Earl",Mr.,Earl,"L. ""Buddy""",Carter,,"Earl L. ""Buddy"" Carter",Mr. Carter of Georgia,117,R,R,GA,Georgia,1st,Pooler,RHOB,2432,20515,1001,(202) 225-5831,20221108,20230107
+GA02,B000490,"BISHOP,SANFORD","Bishop, Sanford",Mr.,Sanford,D.,Bishop,Jr.,"Sanford D. Bishop, Jr.",Mr. Bishop of Georgia,117,D,D,GA,Georgia,2nd,Albany,RHOB,2407,20515,1002,(202) 225-3631,20221108,20230107
+GA03,F000465,"FERGUSON,A.","Ferguson, A.",Mr.,A.,Drew,Ferguson,IV,A. Drew Ferguson IV,Mr. Ferguson,117,R,R,GA,Georgia,3rd,The Rock,RHOB,2239,20515,1003,(202) 225-5901,20221108,20230107
+GA04,J000288,"JOHNSON,HENRY","Johnson, Henry",Mr.,Henry,"C. ""Hank""",Johnson,Jr.,"Henry C. ""Hank"" Johnson, Jr.",Mr. Johnson of Georgia,117,D,D,GA,Georgia,4th,Lithonia,RHOB,2240,20515,1004,(202) 225-1605,20221108,20230107
+GA05,W000788,"WILLIAMS,NIKEMA","Williams, Nikema",Ms.,Nikema,,Williams,,Nikema Williams,Ms. Williams of Georgia,117,D,D,GA,Georgia,5th,Atlanta,LHOB,1406,20515,1005,(202) 225-3801,20221108,20230107
+GA06,M001218,"MCCORMICK,RICHARD","McCormick, Richard",Mr.,Richard,,McCormick,,Richard McCormick,Mr. McCormick,0,R,R,GA,Georgia,6th,Suwanee,LHOB,1213,20515,1006,(202) 225-4272,20221108,20230107
+GA07,M001208,"MCBATH,LUCY","McBath, Lucy",Mrs.,Lucy,,McBath,,Lucy McBath,Mrs. McBath,117,D,D,GA,Georgia,7th,Marietta,RHOB,2246,20515,1007,(202) 225-4501,20221108,20230107
+GA08,S001189,"SCOTT,AUSTIN","Scott, Austin",Mr.,Austin,,Scott,,Austin Scott,Mr. Austin Scott of Georgia,117,R,R,GA,Georgia,8th,Tifton,RHOB,2185,20515,1008,(202) 225-6531,20221108,20230107
+GA09,C001116,"CLYDE,ANDREW","Clyde, Andrew",Mr.,Andrew,S.,Clyde,,Andrew S. Clyde,Mr. Clyde,117,R,R,GA,Georgia,9th,Athens,CHOB,445,20515,1009,(202) 225-9893,20221108,20230107
+GA10,C001129,"COLLINS,MIKE","Collins, Mike",Mr.,Mike,,Collins,,Mike Collins,Mr. Collins,0,R,R,GA,Georgia,10th,Jackson,LHOB,1223,20515,1010,(202) 225-4101,20221108,20230107
+GA11,L000583,"LOUDERMILK,BARRY","Loudermilk, Barry",Mr.,Barry,,Loudermilk,,Barry Loudermilk,Mr. Loudermilk,117,R,R,GA,Georgia,11th,Cassville,RHOB,2133,20515,1011,(202) 225-2931,20221108,20230107
+GA12,A000372,"ALLEN,RICK","Allen, Rick",Mr.,Rick,W.,Allen,,Rick W. Allen,Mr. Allen,117,R,R,GA,Georgia,12th,Augusta,CHOB,462,20515,1012,(202) 225-2823,20221108,20230107
+GA13,S001157,"SCOTT,DAVID","Scott, David",Mr.,David,,Scott,,David Scott,Mr. David Scott of Georgia,117,D,D,GA,Georgia,13th,Atlanta,CHOB,468,20515,1013,(202) 225-2939,20221108,20230107
+GA14,G000596,"GREENE,MARJORIE","Greene, Marjorie",Ms.,Marjorie,Taylor,Greene,,Marjorie Taylor Greene,Ms. Greene of Georgia,117,R,R,GA,Georgia,14th,Rome,CHOB,403,20515,1014,(202) 225-5211,20221108,20230107
+GU00,M001219,"MOYLAN,JAMES","Moylan, James",Mr.,James,C.,Moylan,,James C. Moylan,Mr. Moylan,0,R,R,GU,Guam,Delegate,Tumon,LHOB,1628,20515,5301,(202) 225-1188,20221108,20230107
+HI01,C001055,"CASE,ED","Case, Ed",Mr.,Ed,,Case,,Ed Case,Mr. Case,117,D,D,HI,Hawaii,1st,Kaneohe,RHOB,2210,20515,1101,(202) 225-2726,20221108,20230107
+HI02,T000487,"TOKUDA,JILL","Tokuda, Jill",Ms.,Jill,N.,Tokuda,,Jill N. Tokuda,Ms. Tokuda,0,D,D,HI,Hawaii,2nd,Kaneohe,LHOB,1005,20515,1102,(202) 225-4906,20221108,20230107
+IA01,M001215,"MILLERMEEKS,MARIANNETTE","Miller-Meeks, Mariannette",Mrs.,Mariannette,,Miller-Meeks,,Mariannette Miller-Meeks,Mrs. Miller-Meeks,117,R,R,IA,Iowa,1st,Le Claire,LHOB,1034,20515,1501,(202) 225-6576,20221108,20230107
+IA02,H001091,"HINSON,ASHLEY","Hinson, Ashley",Mrs.,Ashley,,Hinson,,Ashley Hinson,Mrs. Hinson,117,R,R,IA,Iowa,2nd,Marion,LHOB,1717,20515,1502,(202) 225-2911,20221108,20230107
+IA03,N000193,"NUNN,ZACHARY","Nunn, Zachary",Mr.,Zachary,,Nunn,,Zachary Nunn,Mr. Nunn of Iowa,0,R,R,IA,Iowa,3rd,Bondurant,LHOB,1232,20515,1503,(202) 225-5476,20221108,20230107
+IA04,F000446,"FEENSTRA,RANDY","Feenstra, Randy",Mr.,Randy,,Feenstra,,Randy Feenstra,Mr. Feenstra,117,R,R,IA,Iowa,4th,Hull,LHOB,1440,20515,1504,(202) 225-4426,20221108,20230107
+ID01,F000469,"FULCHER,RUSS","Fulcher, Russ",Mr.,Russ,,Fulcher,,Russ Fulcher,Mr. Fulcher,117,R,R,ID,Idaho,1st,Meridian,LHOB,1514,20515,1201,(202) 225-6611,20221108,20230107
+ID02,S001148,"SIMPSON,MICHAEL","Simpson, Michael",Mr.,Michael,K.,Simpson,,Michael K. Simpson,Mr. Simpson,117,R,R,ID,Idaho,2nd,Idaho Falls,RHOB,2084,20515,1202,(202) 225-5531,20221108,20230107
+IL01,J000309,"JACKSON,JONATHAN","Jackson, Jonathan",Mr.,Jonathan,L.,Jackson,,Jonathan L. Jackson,Mr. Jackson of Illinois,0,D,D,IL,Illinois,1st,Chicago,LHOB,1641,20515,1301,(202) 225-4372,20221108,20230107
+IL02,K000385,"KELLY,ROBIN","Kelly, Robin",Ms.,Robin,L.,Kelly,,Robin L. Kelly,Ms. Kelly of Illinois,117,D,D,IL,Illinois,2nd,Matteson,RHOB,2329,20515,1302,(202) 225-0773,20221108,20230107
+IL03,R000617,"RAMIREZ,DELIA","Ramirez, Delia",Mrs.,Delia,C.,Ramirez,,Delia C. Ramirez,Mrs. Ramirez,0,D,D,IL,Illinois,3rd,Chicago,LHOB,1523,20515,1303,(202) 225-5701,20221108,20230107
+IL04,G000586,"GARCIA,JESUS","García, Jesús",Mr.,Jesús,"G. ""Chuy""",García,,"Jesús G. ""Chuy"" García",Mr. García of Illinois,117,D,D,IL,Illinois,4th,Chicago,LHOB,1519,20515,1304,(202) 225-8203,20221108,20230107
+IL05,Q000023,"QUIGLEY,MIKE","Quigley, Mike",Mr.,Mike,,Quigley,,Mike Quigley,Mr. Quigley,117,D,D,IL,Illinois,5th,Chicago,RHOB,2083,20515,1305,(202) 225-4061,20221108,20230107
+IL06,C001117,"CASTEN,SEAN","Casten, Sean",Mr.,Sean,,Casten,,Sean Casten,Mr. Casten,117,D,D,IL,Illinois,6th,Downers Grove,RHOB,2440,20515,1306,(202) 225-4561,20221108,20230107
+IL07,D000096,"DAVIS,DANNY","Davis, Danny",Mr.,Danny,K.,Davis,,Danny K. Davis,Mr. Davis of Illinois,117,D,D,IL,Illinois,7th,Chicago,RHOB,2159,20515,1307,(202) 225-5006,20221108,20230107
+IL08,K000391,"KRISHNAMOORTHI,RAJA","Krishnamoorthi, Raja",Mr.,Raja,,Krishnamoorthi,,Raja Krishnamoorthi,Mr. Krishnamoorthi,117,D,D,IL,Illinois,8th,Schaumburg,RHOB,2367,20515,1308,(202) 225-3711,20221108,20230107
+IL09,S001145,"SCHAKOWSKY,JANICE","Schakowsky, Janice",Ms.,Janice,D.,Schakowsky,,Janice D. Schakowsky,Ms. Schakowsky,117,D,D,IL,Illinois,9th,Evanston,RHOB,2408,20515,1309,(202) 225-2111,20221108,20230107
+IL10,S001190,"SCHNEIDER,BRADLEY","Schneider, Bradley",Mr.,Bradley,Scott,Schneider,,Bradley Scott Schneider,Mr. Schneider,117,D,D,IL,Illinois,10th,Highland Park,CHOB,300,20515,1310,(202) 225-4835,20221108,20230107
+IL11,F000454,"FOSTER,BILL","Foster, Bill",Mr.,Bill,,Foster,,Bill Foster,Mr. Foster,117,D,D,IL,Illinois,11th,Naperville,RHOB,2366,20515,1311,(202) 225-3515,20221108,20230107
+IL12,B001295,"BOST,MIKE","Bost, Mike",Mr.,Mike,,Bost,,Mike Bost,Mr. Bost,117,R,R,IL,Illinois,12th,Murphysboro,CHOB,352,20515,1312,(202) 225-5661,20221108,20230107
+IL13,B001315,"BUDZINSKI,NIKKI","Budzinski, Nikki",Ms.,Nikki,,Budzinski,,Nikki Budzinski,Ms. Budzinski,0,D,D,IL,Illinois,13th,Springfield,LHOB,1009,20515,1313,(202) 225-2371,20221108,20230107
+IL14,U000040,"UNDERWOOD,LAUREN","Underwood, Lauren",Ms.,Lauren,,Underwood,,Lauren Underwood,Ms. Underwood,117,D,D,IL,Illinois,14th,Naperville,LHOB,1410,20515,1314,(202) 225-2976,20221108,20230107
+IL15,M001211,"MILLER,MARY","Miller, Mary",Mrs.,Mary,E.,Miller,,Mary E. Miller,Mrs. Miller of Illinois,117,R,R,IL,Illinois,15th,Oakland,LHOB,1740,20515,1315,(202) 225-5271,20221108,20230107
+IL16,L000585,"LAHOOD,DARIN","LaHood, Darin",Mr.,Darin,,LaHood,,Darin LaHood,Mr. LaHood,117,R,R,IL,Illinois,16th,Peoria,LHOB,1424,20515,1316,(202) 225-6201,20221108,20230107
+IL17,S001225,"SORENSEN,ERIC","Sorensen, Eric",Mr.,Eric,,Sorensen,,Eric Sorensen,Mr. Sorensen,0,D,D,IL,Illinois,17th,Moline,LHOB,1205,20515,1317,(202) 225-5905,20221108,20230107
+IN01,M001214,"MRVAN,FRANK","Mrvan, Frank",Mr.,Frank,J.,Mrvan,,Frank J. Mrvan,Mr. Mrvan,117,D,D,IN,Indiana,1st,Highland,LHOB,1607,20515,1401,(202) 225-2461,20221108,20230107
+IN02,Y000067,"YAKYM,RUDY","Yakym, Rudy",Mr.,Rudy,,Yakym,III,Rudy Yakym III,Mr. Yakym,117,R,R,IN,Indiana,2nd,Granger,CHOB,349,20515,1402,(202) 225-3915,20221108,20230107
+IN03,B001299,"BANKS,JIM","Banks, Jim",Mr.,Jim,,Banks,,Jim Banks,Mr. Banks,117,R,R,IN,Indiana,3rd,Columbia City,RHOB,2418,20515,1403,(202) 225-4436,20221108,20230107
+IN04,B001307,"BAIRD,JAMES","Baird, James",Mr.,James,R.,Baird,,James R. Baird,Mr. Baird,117,R,R,IN,Indiana,4th,Greencastle,RHOB,2303,20515,1404,(202) 225-5037,20221108,20230107
+IN05,S000929,"SPARTZ,VICTORIA","Spartz, Victoria",Mrs.,Victoria,,Spartz,,Victoria Spartz,Mrs. Spartz,117,R,R,IN,Indiana,5th,Noblesville,LHOB,1609,20515,1405,(202) 225-2276,20221108,20230107
+IN06,P000615,"PENCE,GREG","Pence, Greg",Mr.,Greg,,Pence,,Greg Pence,Mr. Pence,117,R,R,IN,Indiana,6th,Columbus,CHOB,404,20515,1406,(202) 225-3021,20221108,20230107
+IN07,C001072,"CARSON,ANDRE","Carson, André",Mr.,André,,Carson,,André Carson,Mr. Carson,117,D,D,IN,Indiana,7th,Indianapolis,RHOB,2135,20515,1407,(202) 225-4011,20221108,20230107
+IN08,B001275,"BUCSHON,LARRY","Bucshon, Larry",Mr.,Larry,,Bucshon,,Larry Bucshon,Mr. Bucshon,117,R,R,IN,Indiana,8th,Evansville,RHOB,2313,20515,1408,(202) 225-4636,20221108,20230107
+IN09,H001093,"HOUCHIN,ERIN","Houchin, Erin",Mrs.,Erin,,Houchin,,Erin Houchin,Mrs. Houchin,0,R,R,IN,Indiana,9th,Salem,LHOB,1632,20515,1409,(202) 225-5315,20221108,20230107
+KS01,M000871,"MANN,TRACEY","Mann, Tracey",Mr.,Tracey,,Mann,,Tracey Mann,Mr. Mann,117,R,R,KS,Kansas,1st,Salina,CHOB,344,20515,1601,(202) 225-2715,20221108,20230107
+KS02,L000266,"LATURNER,JAKE","LaTurner, Jake",Mr.,Jake,,LaTurner,,Jake LaTurner,Mr. LaTurner,117,R,R,KS,Kansas,2nd,Topeka,RHOB,2441,20515,1602,(202) 225-6601,20221108,20230107
+KS03,D000629,"DAVIDS,SHARICE","Davids, Sharice",Ms.,Sharice,,Davids,,Sharice Davids,Ms. Davids of Kansas,117,D,D,KS,Kansas,3rd,Roeland Park,RHOB,2435,20515,1603,(202) 225-2865,20221108,20230107
+KS04,E000298,"ESTES,RON","Estes, Ron",Mr.,Ron,,Estes,,Ron Estes,Mr. Estes,117,R,R,KS,Kansas,4th,Wichita,RHOB,2234,20515,1604,(202) 225-6216,20221108,20230107
+KY01,C001108,"COMER,JAMES","Comer, James",Mr.,James,,Comer,,James Comer,Mr. Comer,117,R,R,KY,Kentucky,1st,Tompkinsville,RHOB,2410,20515,1701,(202) 225-3115,20221108,20230107
+KY02,G000558,"GUTHRIE,BRETT","Guthrie, Brett",Mr.,Brett,,Guthrie,,Brett Guthrie,Mr. Guthrie,117,R,R,KY,Kentucky,2nd,Bowling Green,RHOB,2434,20515,1702,(202) 225-3501,20221108,20230107
+KY03,M001220,"MCGARVEY,MORGAN","McGarvey, Morgan",Mr.,Morgan,,McGarvey,,Morgan McGarvey,Mr. McGarvey,0,D,D,KY,Kentucky,3rd,Louisville,LHOB,1527,20515,1703,(202) 225-5401,20221108,20230107
+KY04,M001184,"MASSIE,THOMAS","Massie, Thomas",Mr.,Thomas,,Massie,,Thomas Massie,Mr. Massie,117,R,R,KY,Kentucky,4th,Garrison,RHOB,2453,20515,1704,(202) 225-3465,20221108,20230107
+KY05,R000395,"ROGERS,HAROLD","Rogers, Harold",Mr.,Harold,,Rogers,,Harold Rogers,Mr. Rogers of Kentucky,117,R,R,KY,Kentucky,5th,Somerset,RHOB,2406,20515,1705,(202) 225-4601,20221108,20230107
+KY06,B001282,"BARR,ANDY","Barr, Andy",Mr.,Andy,,Barr,,Andy Barr,Mr. Barr,117,R,R,KY,Kentucky,6th,Lexington,RHOB,2430,20515,1706,(202) 225-4706,20221108,20230107
+LA01,S001176,"SCALISE,STEVE","Scalise, Steve",Mr.,Steve,,Scalise,,Steve Scalise,Mr. Scalise,117,R,R,LA,Louisiana,1st,Jefferson,RHOB,2049,20515,1801,(202) 225-3015,20221108,20230107
+LA02,C001125,"CARTER,TROY","Carter, Troy",Mr.,Troy,A.,Carter,,Troy A. Carter,Mr. Carter of Louisiana,117,D,D,LA,Louisiana,2nd,New Orleans,CHOB,442,20515,1802,(202) 225-6636,20221108,20230107
+LA03,H001077,"HIGGINS,CLAY","Higgins, Clay",Mr.,Clay,,Higgins,,Clay Higgins,Mr. Higgins of Louisiana,117,R,R,LA,Louisiana,3rd,Lafayette,CHOB,572,20515,1803,(202) 225-2031,20221108,20230107
+LA04,J000299,"JOHNSON,MIKE","Johnson, Mike",Mr.,Mike,,Johnson,,Mike Johnson,Mr. Johnson of Louisiana,117,R,R,LA,Louisiana,4th,Benton,CHOB,568,20515,1804,(202) 225-2777,20221108,20230107
+LA05,L000595,"LETLOW,JULIA","Letlow, Julia",Ms.,Julia,,Letlow,,Julia Letlow,Ms. Letlow,117,R,R,LA,Louisiana,5th,Start,CHOB,142,20515,1805,(202) 225-8490,20221108,20230107
+LA06,G000577,"GRAVES,GARRET","Graves, Garret",Mr.,Garret,,Graves,,Garret Graves,Mr. Graves of Louisiana,117,R,R,LA,Louisiana,6th,Baton Rouge,RHOB,2402,20515,1806,(202) 225-3901,20221108,20230107
+MA01,N000015,"NEAL,RICHARD","Neal, Richard",Mr.,Richard,E.,Neal,,Richard E. Neal,Mr. Neal,117,D,D,MA,Massachusetts,1st,Springfield,CHOB,372,20515,2101,(202) 225-5601,20221108,20230107
+MA02,M000312,"MCGOVERN,JAMES","McGovern, James",Mr.,James,P.,McGovern,,James P. McGovern,Mr. McGovern,117,D,D,MA,Massachusetts,2nd,Worcester,CHOB,370,20515,2102,(202) 225-6101,20221108,20230107
+MA03,T000482,"TRAHAN,LORI","Trahan, Lori",Mrs.,Lori,,Trahan,,Lori Trahan,Mrs. Trahan,117,D,D,MA,Massachusetts,3rd,Westford,RHOB,2439,20515,2103,(202) 225-3411,20221108,20230107
+MA04,A000148,"AUCHINCLOSS,JAKE","Auchincloss, Jake",Mr.,Jake,,Auchincloss,,Jake Auchincloss,Mr. Auchincloss,117,D,D,MA,Massachusetts,4th,Newton,LHOB,1524,20515,2104,(202) 225-5931,20221108,20230107
+MA05,C001101,"CLARK,KATHERINE","Clark, Katherine",Ms.,Katherine,M.,Clark,,Katherine M. Clark,Ms. Clark of Massachusetts,117,D,D,MA,Massachusetts,5th,Revere,RHOB,2368,20515,2105,(202) 225-2836,20221108,20230107
+MA06,M001196,"MOULTON,SETH","Moulton, Seth",Mr.,Seth,,Moulton,,Seth Moulton,Mr. Moulton,117,D,D,MA,Massachusetts,6th,Ann Arbor,LHOB,1126,20515,2106,(202) 225-8020,20221108,20230107
+MA07,P000617,"PRESSLEY,AYANNA","Pressley, Ayanna",Ms.,Ayanna,,Pressley,,Ayanna Pressley,Ms. Pressley,117,D,D,MA,Massachusetts,7th,Boston,CHOB,402,20515,2107,(202) 225-5111,20221108,20230107
+MA08,L000562,"LYNCH,STEPHEN","Lynch, Stephen",Mr.,Stephen,F.,Lynch,,Stephen F. Lynch,Mr. Lynch,117,D,D,MA,Massachusetts,8th,Flint Township,RHOB,2109,20515,2108,(202) 225-8273,20221108,20230107
+MA09,K000375,"KEATING,WILLIAM","Keating, William",Mr.,William,R.,Keating,,William R. Keating,Mr. Keating,117,D,D,MA,Massachusetts,9th,Bourne,RHOB,2351,20515,2109,(202) 225-3111,20221108,20230107
+MD01,H001052,"HARRIS,ANDY","Harris, Andy",Mr.,Andy,,Harris,,Andy Harris,Mr. Harris,117,R,R,MD,Maryland,1st,Cambridge,LHOB,1536,20515,2001,(202) 225-5311,20221108,20230107
+MD02,R000576,"RUPPERSBERGER,C.","Ruppersberger, C.",Mr.,C.,A. Dutch,Ruppersberger,,C. A. Dutch Ruppersberger,Mr. Ruppersberger,117,D,D,MD,Maryland,2nd,Cockeysville,RHOB,2206,20515,2002,(202) 225-3061,20221108,20230107
+MD03,S001168,"SARBANES,JOHN","Sarbanes, John",Mr.,John,P.,Sarbanes,,John P. Sarbanes,Mr. Sarbanes,117,D,D,MD,Maryland,3rd,Baltimore,RHOB,2370,20515,2003,(202) 225-4016,20221108,20230107
+MD04,I000058,"IVEY,GLENN","Ivey, Glenn",Mr.,Glenn,,Ivey,,Glenn Ivey,Mr. Ivey,0,D,D,MD,Maryland,4th,Cheverly,LHOB,1529,20515,2004,(202) 225-8699,20221108,20230107
+MD05,H000874,"HOYER,STENY","Hoyer, Steny",Mr.,Steny,H.,Hoyer,,Steny H. Hoyer,Mr. Hoyer,117,D,D,MD,Maryland,5th,Mechanicsville,LHOB,1705,20515,2005,(202) 225-4131,20221108,20230107
+MD06,T000483,"TRONE,DAVID","Trone, David",Mr.,David,J.,Trone,,David J. Trone,Mr. Trone,117,D,D,MD,Maryland,6th,Potomac,RHOB,2404,20515,2006,(202) 225-2721,20221108,20230107
+MD07,M000687,"MFUME,KWEISI","Mfume, Kweisi",Mr.,Kweisi,,Mfume,,Kweisi Mfume,Mr. Mfume,117,D,D,MD,Maryland,7th,Baltimore,RHOB,2263,20515,2007,(202) 225-4741,20221108,20230107
+MD08,R000606,"RASKIN,JAMIE","Raskin, Jamie",Mr.,Jamie,,Raskin,,Jamie Raskin,Mr. Raskin,117,D,D,MD,Maryland,8th,Takoma Park,RHOB,2242,20515,2008,(202) 225-5341,20221108,20230107
+ME01,P000597,"PINGREE,CHELLIE","Pingree, Chellie",Ms.,Chellie,,Pingree,,Chellie Pingree,Ms. Pingree,117,D,D,ME,Maine,1st,North Haven,RHOB,2354,20515,1901,(202) 225-6116,20221108,20230107
+ME02,G000592,"GOLDEN,JARED","Golden, Jared",Mr.,Jared,F.,Golden,,Jared F. Golden,Mr. Golden of Maine,117,D,D,ME,Maine,2nd,Lewiston,LHOB,1710,20515,1902,(202) 225-6306,20221108,20230107
+MI01,B001301,"BERGMAN,JACK","Bergman, Jack",Mr.,Jack,,Bergman,,Jack Bergman,Mr. Bergman,117,R,R,MI,Michigan,1st,Watersmeet,CHOB,566,20515,2201,(202) 225-4735,20221108,20230107
+MI02,M001194,"MOOLENAAR,JOHN","Moolenaar, John",Mr.,John,R.,Moolenaar,,John R. Moolenaar,Mr. Moolenaar,117,R,R,MI,Michigan,2nd,Caledonia,CHOB,246,20515,2202,(202) 225-3561,20221108,20230107
+MI03,S001221,"SCHOLTEN,HILLARY","Scholten, Hillary",Ms.,Hillary,J.,Scholten,,Hillary J. Scholten,Ms. Scholten,0,D,D,MI,Michigan,3rd,Grand Rapids,LHOB,1317,20515,2203,(202) 225-3831,20221108,20230107
+MI04,H001058,"HUIZENGA,BILL","Huizenga, Bill",Mr.,Bill,,Huizenga,,Bill Huizenga,Mr. Huizenga,117,R,R,MI,Michigan,4th,Holland,RHOB,2232,20515,2204,(202) 225-4401,20221108,20230107
+MI05,W000798,"WALBERG,TIM","Walberg, Tim",Mr.,Tim,,Walberg,,Tim Walberg,Mr. Walberg,117,R,R,MI,Michigan,5th,Tipton,RHOB,2266,20515,2205,(202) 225-6276,20221108,20230107
+MI06,D000624,"DINGELL,DEBBIE","Dingell, Debbie",Mrs.,Debbie,,Dingell,,Debbie Dingell,Mrs. Dingell,117,D,D,MI,Michigan,6th,Ann Arbor,CHOB,102,20515,2206,(202) 225-4071,20221108,20230107
+MI07,S001208,"SLOTKIN,ELISSA","Slotkin, Elissa",Ms.,Elissa,,Slotkin,,Elissa Slotkin,Ms. Slotkin,117,D,D,MI,Michigan,7th,Lansing,RHOB,2245,20515,2207,(202) 225-4872,20221108,20230107
+MI08,K000380,"KILDEE,DANIEL","Kildee, Daniel",Mr.,Daniel,T.,Kildee,,Daniel T. Kildee,Mr. Kildee,117,D,D,MI,Michigan,8th,Flint Township,CHOB,200,20515,2208,(202) 225-3611,20221108,20230107
+MI09,M001136,"MCCLAIN,LISA","McClain, Lisa",Mrs.,Lisa,C.,McClain,,Lisa C. McClain,Mrs. McClain,117,R,R,MI,Michigan,9th,Bruce,CHOB,444,20515,2209,(202) 225-2106,20221108,20230107
+MI10,J000307,"JAMES,JOHN","James, John",Mr.,John,,James,,John James,Mr. James,0,R,R,MI,Michigan,10th,Farmington Hills,LHOB,1319,20515,2210,(202) 225-4961,20221108,20230107
+MI11,S001215,"STEVENS,HALEY","Stevens, Haley",Ms.,Haley,M.,Stevens,,Haley M. Stevens,Ms. Stevens,117,D,D,MI,Michigan,11th,Birmingham,RHOB,2411,20515,2211,(202) 225-8171,20221108,20230107
+MI12,T000481,"TLAIB,RASHIDA","Tlaib, Rashida",Ms.,Rashida,,Tlaib,,Rashida Tlaib,Ms. Tlaib,117,D,D,MI,Michigan,12th,Detroit,RHOB,2438,20515,2212,(202) 225-5126,20221108,20230107
+MI13,T000488,"THANEDAR,SHRI","Thanedar, Shri",Mr.,Shri,,Thanedar,,Shri Thanedar,Mr. Thanedar,0,D,D,MI,Michigan,13th,Detroit,LHOB,1039,20515,2213,(202) 225-5802,20221108,20230107
+MN01,F000475,"FINSTAD,BRAD","Finstad, Brad",Mr.,Brad,,Finstad,,Brad Finstad,Mr. Finstad,117,R,R,MN,Minnesota,1st,New Ulm,LHOB,1605,20515,2301,(202) 225-2472,20221108,20230107
+MN02,C001119,"CRAIG,ANGIE","Craig, Angie",Ms.,Angie,,Craig,,Angie Craig,Ms. Craig,117,D,D,MN,Minnesota,2nd,Prior Lake,RHOB,2442,20515,2302,(202) 225-2271,20221108,20230107
+MN03,P000616,"PHILLIPS,DEAN","Phillips, Dean",Mr.,Dean,,Phillips,,Dean Phillips,Mr. Phillips,117,D,D,MN,Minnesota,3rd,Plymouth,RHOB,2452,20515,2303,(202) 225-2871,20221108,20230107
+MN04,M001143,"MCCOLLUM,BETTY","McCollum, Betty",Ms.,Betty,,McCollum,,Betty McCollum,Ms. McCollum,117,D,D,MN,Minnesota,4th,St. Paul,RHOB,2426,20515,2304,(202) 225-6631,20221108,20230107
+MN05,O000173,"OMAR,ILHAN","Omar, Ilhan",Ms.,Ilhan,,Omar,,Ilhan Omar,Ms. Omar,117,D,D,MN,Minnesota,5th,Minneapolis,LHOB,1730,20515,2305,(202) 225-4755,20221108,20230107
+MN06,E000294,"EMMER,TOM","Emmer, Tom",Mr.,Tom,,Emmer,,Tom Emmer,Mr. Emmer,117,R,R,MN,Minnesota,6th,Delano,CHOB,464,20515,2306,(202) 225-2331,20221108,20230107
+MN07,F000470,"FISCHBACH,MICHELLE","Fischbach, Michelle",Mrs.,Michelle,,Fischbach,,Michelle Fischbach,Mrs. Fischbach,117,R,R,MN,Minnesota,7th,Regal,LHOB,1004,20515,2307,(202) 225-2165,20221108,20230107
+MN08,S001212,"STAUBER,PETE","Stauber, Pete",Mr.,Pete,,Stauber,,Pete Stauber,Mr. Stauber,117,R,R,MN,Minnesota,8th,Hermantown,CHOB,145,20515,2308,(202) 225-6211,20221108,20230107
+MO01,B001224,"BUSH,CORI","Bush, Cori",Ms.,Cori,,Bush,,Cori Bush,Ms. Bush,117,D,D,MO,Missouri,1st,St. Louis,RHOB,2463,20515,2501,(202) 225-2406,20221108,20230107
+MO02,W000812,"WAGNER,ANN","Wagner, Ann",Mrs.,Ann,,Wagner,,Ann Wagner,Mrs. Wagner,117,R,R,MO,Missouri,2nd,Ballwin,RHOB,2350,20515,2502,(202) 225-1621,20221108,20230107
+MO03,L000569,"LUETKEMEYER,BLAINE","Luetkemeyer, Blaine",Mr.,Blaine,,Luetkemeyer,,Blaine Luetkemeyer,Mr. Luetkemeyer,117,R,R,MO,Missouri,3rd,St. Elizabeth,RHOB,2230,20515,2503,(202) 225-2956,20221108,20230107
+MO04,A000379,"ALFORD,MARK","Alford, Mark",Mr.,Mark,,Alford,,Mark Alford,Mr. Alford,0,R,R,MO,Missouri,4th,Lake Winnebago,LHOB,1516,20515,2504,(202) 225-2876,20221108,20230107
+MO05,C001061,"CLEAVER,EMANUEL","Cleaver, Emanuel",Mr.,Emanuel,,Cleaver,,Emanuel Cleaver,Mr. Cleaver,117,D,D,MO,Missouri,5th,Kansas City,RHOB,2217,20515,2505,(202) 225-4535,20221108,20230107
+MO06,G000546,"GRAVES,SAM","Graves, Sam",Mr.,Sam,,Graves,,Sam Graves,Mr. Graves of Missouri,117,R,R,MO,Missouri,6th,Tarkio,LHOB,1135,20515,2506,(202) 225-7041,20221108,20230107
+MO07,B001316,"BURLISON,ERIC","Burlison, Eric",Mr.,Eric,,Burlison,,Eric Burlison,Mr. Burlison,0,R,R,MO,Missouri,7th,Ozark,LHOB,1108,20515,2507,(202) 225-6536,20221108,20230107
+MO08,S001195,"SMITH,JASON","Smith, Jason",Mr.,Jason,,Smith,,Jason Smith,Mr. Smith of Missouri,117,R,R,MO,Missouri,8th,Salem,LHOB,1011,20515,2508,(202) 225-4404,20221108,20230107
+MP00,S001177,"SABLAN,GREGORIO","Sablan, Gregorio",Mr.,Gregorio,Kilili Camacho,Sablan,,Gregorio Kilili Camacho Sablan,Mr. Sablan,117,D,D,MP,Northern Mariana Islands,Delegate,Saipan,RHOB,2267,20515,5201,(202) 225-2646,20221108,20230107
+MS01,K000388,"KELLY,TRENT","Kelly, Trent",Mr.,Trent,,Kelly,,Trent Kelly,Mr. Kelly of Mississippi,117,R,R,MS,Mississippi,1st,Saltillo,RHOB,2243,20515,2401,(202) 225-4306,20221108,20230107
+MS02,T000193,"THOMPSON,BENNIE","Thompson, Bennie",Mr.,Bennie,G.,Thompson,,Bennie G. Thompson,Mr. Thompson of Mississippi,117,D,D,MS,Mississippi,2nd,Bolton,RHOB,2466,20515,2402,(202) 225-5876,20221108,20230107
+MS03,G000591,"GUEST,MICHAEL","Guest, Michael",Mr.,Michael,,Guest,,Michael Guest,Mr. Guest,117,R,R,MS,Mississippi,3rd,Brandon,CHOB,450,20515,2403,(202) 225-5031,20221108,20230107
+MS04,E000235,"EZELL,MIKE","Ezell, Mike",Mr.,Mike,,Ezell,,Mike Ezell,Mr. Ezell,0,R,R,MS,Mississippi,4th,Pascagoula,CHOB,443,20515,2404,(202) 225-5772,20221108,20230107
+MT01,Z000018,"ZINKE,RYAN","Zinke, Ryan",Mr.,Ryan,K.,Zinke,,Ryan K. Zinke,Mr. Zinke,115,R,R,MT,Montana,1st,Whitefish,CHOB,512,20515,2600,(202) 225-5628,20221108,20230107
+MT02,R000103,"ROSENDALE,MATTHEW","Rosendale, Matthew",Mr.,Matthew,M.,Rosendale,Sr.,"Matthew M. Rosendale, Sr.",Mr. Rosendale,117,R,R,MT,Montana,2nd,Glendive,LHOB,1023,20515,0001,(202) 225-3211,20221108,20230107
+NC01,D000230,"DAVIS,DONALD","Davis, Donald",Mr.,Donald,G.,Davis,,Donald G. Davis,Mr. Davis of North Carolina,0,D,D,NC,North Carolina,1st,Snow Hill,LHOB,1123,20515,3301,(202) 225-3101,20221108,20230107
+NC02,R000305,"ROSS,DEBORAH","Ross, Deborah",Ms.,Deborah,K.,Ross,,Deborah K. Ross,Ms. Ross,117,D,D,NC,North Carolina,2nd,Raleigh,LHOB,1221,20515,3302,(202) 225-3032,20221108,20230107
+NC03,M001210,"MURPHY,GREGORY","Murphy, Gregory",Mr.,Gregory,F.,Murphy,,Gregory F. Murphy,Mr. Murphy,117,R,R,NC,North Carolina,3rd,Greenville,CHOB,407,20515,3303,(202) 225-3415,20221108,20230107
+NC04,F000477,"FOUSHEE,VALERIE","Foushee, Valerie",Mrs.,Valerie,P.,Foushee,,Valerie P. Foushee,Mrs. Foushee,0,D,D,NC,North Carolina,4th,Hillsborough,LHOB,1716,20515,3304,(202) 225-1784,20221108,20230107
+NC05,F000450,"FOXX,VIRGINIA","Foxx, Virginia",Ms.,Virginia,,Foxx,,Virginia Foxx,Ms. Foxx,117,R,R,NC,North Carolina,5th,Banner Elk,RHOB,2462,20515,3305,(202) 225-2071,20221108,20230107
+NC06,M001135,"MANNING,KATHY","Manning, Kathy",Ms.,Kathy,E.,Manning,,Kathy E. Manning,Ms. Manning,117,D,D,NC,North Carolina,6th,Greensboro,CHOB,307,20515,3306,(202) 225-3065,20221108,20230107
+NC07,R000603,"ROUZER,DAVID","Rouzer, David",Mr.,David,,Rouzer,,David Rouzer,Mr. Rouzer,117,R,R,NC,North Carolina,7th,Wilmington,RHOB,2333,20515,3307,(202) 225-2731,20221108,20230107
+NC08,B001311,"BISHOP,DAN","Bishop, Dan",Mr.,Dan,,Bishop,,Dan Bishop,Mr. Bishop of North Carolina,117,R,R,NC,North Carolina,8th,Charlotte,RHOB,2459,20515,3308,(202) 225-1976,20221108,20230107
+NC09,H001067,"HUDSON,RICHARD","Hudson, Richard",Mr.,Richard,,Hudson,,Richard Hudson,Mr. Hudson,117,R,R,NC,North Carolina,9th,Southern Pines,RHOB,2112,20515,3309,(202) 225-3715,20221108,20230107
+NC10,M001156,"MCHENRY,PATRICK","McHenry, Patrick",Mr.,Patrick,T.,McHenry,,Patrick T. McHenry,Mr. McHenry,117,R,R,NC,North Carolina,10th,Lake Norman,RHOB,2134,20515,3310,(202) 225-2576,20221108,20230107
+NC11,E000246,"EDWARDS,CHUCK","Edwards, Chuck",Mr.,Chuck,,Edwards,,Chuck Edwards,Mr. Edwards,0,R,R,NC,North Carolina,11th,Flat Rock,LHOB,1505,20515,3311,(202) 225-6401,20221108,20230107
+NC12,A000370,"ADAMS,ALMA","Adams, Alma",Ms.,Alma,S.,Adams,,Alma S. Adams,Ms. Adams,117,D,D,NC,North Carolina,12th,Charlotte,RHOB,2436,20515,3312,(202) 225-1510,20221108,20230107
+NC13,N000194,"NICKEL,WILEY","Nickel, Wiley",Mr.,Wiley,,Nickel,,Wiley Nickel,Mr. Nickel,0,D,D,NC,North Carolina,13th,Cary,LHOB,1133,20515,3313,(202) 225-4531,20221108,20230107
+NC14,J000308,"JACKSON,JEFF","Jackson, Jeff",Mr.,Jeff,,Jackson,,Jeff Jackson,Mr. Jackson of North Carolina,0,D,D,NC,North Carolina,14th,Charlotte,LHOB,1318,20515,0001,(202) 225-5634,20221108,20230107
+ND00,A000377,"ARMSTRONG,KELLY","Armstrong, Kelly",Mr.,Kelly,,Armstrong,,Kelly Armstrong,Mr. Armstrong,117,R,R,ND,North Dakota,At Large,Bismarck,RHOB,2235,20515,3400,(202) 225-2611,20221108,20230107
+NE01,F000474,"FLOOD,MIKE","Flood, Mike",Mr.,Mike,,Flood,,Mike Flood,Mr. Flood,117,R,R,NE,Nebraska,1st,Norfolk,CHOB,343,20515,2701,(202) 225-4806,20221108,20230107
+NE02,B001298,"BACON,DON","Bacon, Don",Mr.,Don,,Bacon,,Don Bacon,Mr. Bacon,117,R,R,NE,Nebraska,2nd,Papillion,RHOB,2104,20515,2702,(202) 225-4155,20221108,20230107
+NE03,S001172,"SMITH,ADRIAN","Smith, Adrian",Mr.,Adrian,,Smith,,Adrian Smith,Mr. Smith of Nebraska,117,R,R,NE,Nebraska,3rd,Gering,CHOB,502,20515,2703,(202) 225-6435,20221108,20230107
+NH01,P000614,"PAPPAS,CHRIS","Pappas, Chris",Mr.,Chris,,Pappas,,Chris Pappas,Mr. Pappas,117,D,D,NH,New Hampshire,1st,Manchester,CHOB,452,20515,2901,(202) 225-5456,20221108,20230107
+NH02,K000382,"KUSTER,ANN","Kuster, Ann",Ms.,Ann,M.,Kuster,,Ann M. Kuster,Ms. Kuster,117,D,D,NH,New Hampshire,2nd,Hopkinton,RHOB,2201,20515,2902,(202) 225-5206,20221108,20230107
+NJ01,N000188,"NORCROSS,DONALD","Norcross, Donald",Mr.,Donald,,Norcross,,Donald Norcross,Mr. Norcross,117,D,D,NJ,New Jersey,1st,Camden City,RHOB,2427,20515,3001,(202) 225-6501,20221108,20230107
+NJ02,V000133,"VANDREW,JEFFERSON","Van Drew, Jefferson",Mr.,Jefferson,,Van Drew,,Jefferson Van Drew,Mr. Van Drew,117,R,R,NJ,New Jersey,2nd,Dennis Township,RHOB,2447,20515,3002,(202) 225-6572,20221108,20230107
+NJ03,K000394,"KIM,ANDY","Kim, Andy",Mr.,Andy,,Kim,,Andy Kim,Mr. Kim of New Jersey,117,D,D,NJ,New Jersey,3rd,Moorestown,RHOB,2444,20515,3003,(202) 225-4765,20221108,20230107
+NJ04,S000522,"SMITH,CHRISTOPHER","Smith, Christopher",Mr.,Christopher,H.,Smith,,Christopher H. Smith,Mr. Smith of New Jersey,117,R,R,NJ,New Jersey,4th,Manchester,RHOB,2373,20515,3004,(202) 225-3765,20221108,20230107
+NJ05,G000583,"GOTTHEIMER,JOSH","Gottheimer, Josh",Mr.,Josh,,Gottheimer,,Josh Gottheimer,Mr. Gottheimer,117,D,D,NJ,New Jersey,5th,Wyckoff,CHOB,203,20515,3005,(202) 225-4465,20221108,20230107
+NJ06,P000034,"PALLONE,FRANK","Pallone, Frank",Mr.,Frank,,Pallone,Jr.,"Frank Pallone, Jr.",Mr. Pallone,117,D,D,NJ,New Jersey,6th,Long Branch,RHOB,2107,20515,3006,(202) 225-4671,20221108,20230107
+NJ07,K000398,"KEAN,THOMAS","Kean, Thomas",Mr.,Thomas,H.,Kean,Jr.,"Thomas H. Kean, Jr.",Mr. Kean of New Jersey,0,R,R,NJ,New Jersey,7th,Westfield,CHOB,251,20515,3007,(202) 225-5361,20221108,20230107
+NJ08,M001226,"MENENDEZ,ROBERT","Menendez, Robert",Mr.,Robert,,Menendez,,Robert Menendez,Mr. Menendez,0,D,D,NJ,New Jersey,8th,Jersey City,LHOB,1007,20515,3008,(202) 225-7919,20221108,20230107
+NJ09,P000096,"PASCRELL,BILL","Pascrell, Bill",Mr.,Bill,,Pascrell,Jr.,"Bill Pascrell, Jr.",Mr. Pascrell,117,D,D,NJ,New Jersey,9th,Paterson,RHOB,2409,20515,3009,(202) 225-5751,20221108,20230107
+NJ10,P000604,"PAYNE,DONALD","Payne, Donald",Mr.,Donald,M.,Payne,Jr.,"Donald M. Payne, Jr.",Mr. Payne,117,D,D,NJ,New Jersey,10th,Newark,CHOB,106,20515,3010,(202) 225-3436,20221108,20230107
+NJ11,S001207,"SHERRILL,MIKIE","Sherrill, Mikie",Ms.,Mikie,,Sherrill,,Mikie Sherrill,Ms. Sherrill,117,D,D,NJ,New Jersey,11th,Montclair,LHOB,1427,20515,3011,(202) 225-5034,20221108,20230107
+NJ12,W000822,"WATSONCOLEMAN,BONNIE","Watson Coleman, Bonnie",Mrs.,Bonnie,,Watson Coleman,,Bonnie Watson Coleman,Mrs. Watson Coleman,117,D,D,NJ,New Jersey,12th,Ewing Township,CHOB,168,20515,3012,(202) 225-5801,20221108,20230107
+NM01,S001218,"STANSBURY,MELANIE","Stansbury, Melanie",Ms.,Melanie,A.,Stansbury,,Melanie A. Stansbury,Ms. Stansbury,117,D,D,NM,New Mexico,1st,Albuquerque,LHOB,1421,20515,3101,(202) 225-6316,20221108,20230107
+NM02,V000136,"VASQUEZ,GABE","Vasquez, Gabe",Mr.,Gabe,,Vasquez,,Gabe Vasquez,Mr. Vasquez,0,D,D,NM,New Mexico,2nd,Las Cruces,LHOB,1517,20515,3102,(202) 225-2365,20221108,20230107
+NM03,L000273,"LEGERFERNANDEZ,TERESA","Leger Fernandez, Teresa",Ms.,Teresa,,Leger Fernandez,,Teresa Leger Fernandez,Ms. Leger Fernandez,117,D,D,NM,New Mexico,3rd,Santa Fe,LHOB,1510,20515,3103,(202) 225-6190,20221108,20230107
+NV01,T000468,"TITUS,DINA","Titus, Dina",Ms.,Dina,,Titus,,Dina Titus,Ms. Titus,117,D,D,NV,Nevada,1st,Las Vegas,RHOB,2464,20515,2801,(202) 225-5965,20221108,20230107
+NV02,A000369,"AMODEI,MARK","Amodei, Mark",Mr.,Mark,E.,Amodei,,Mark E. Amodei,Mr. Amodei,117,R,R,NV,Nevada,2nd,Carson City,CHOB,104,20515,2802,(202) 225-6155,20221108,20230107
+NV03,L000590,"LEE,SUSIE","Lee, Susie",Mrs.,Susie,,Lee,,Susie Lee,Mrs. Lee of Nevada,117,D,D,NV,Nevada,3rd,Las Vegas,CHOB,365,20515,2803,(202) 225-3252,20221108,20230107
+NV04,H001066,"HORSFORD,STEVEN","Horsford, Steven",Mr.,Steven,,Horsford,,Steven Horsford,Mr. Horsford,117,D,D,NV,Nevada,4th,Las Vegas,CHOB,406,20515,2804,(202) 225-9894,20221108,20230107
+NY01,L000598,"LALOTA,NICK","LaLota, Nick",Mr.,Nick,,LaLota,,Nick LaLota,Mr. LaLota,0,R,R,NY,New York,1st,Suffolk County,LHOB,1530,20515,3201,(202) 225-3826,20221108,20230107
+NY02,G000597,"GARBARINO,ANDREW","Garbarino, Andrew",Mr.,Andrew,R.,Garbarino,,Andrew R. Garbarino,Mr. Garbarino,117,R,R,NY,New York,2nd,Bayport,RHOB,2344,20515,3202,(202) 225-7896,20221108,20230107
+NY03,S001222,"SANTOS,GEORGE","Santos, George",Mr.,George,,Santos,,George Santos,Mr. Santos,0,R,R,NY,New York,3rd,New York City,LHOB,1117,20515,3203,(202) 225-3335,20221108,20230107
+NY04,D000632,"DESPOSITO,ANTHONY","D'Esposito, Anthony",Mr.,Anthony,,D'Esposito,,Anthony D'Esposito,Mr. D'Esposito,0,R,R,NY,New York,4th,Island Park,LHOB,1508,20515,3204,(202) 225-5516,20221108,20230107
+NY05,M001137,"MEEKS,GREGORY","Meeks, Gregory",Mr.,Gregory,W.,Meeks,,Gregory W. Meeks,Mr. Meeks,117,D,D,NY,New York,5th,Queens,RHOB,2310,20515,3205,(202) 225-3461,20221108,20230107
+NY06,M001188,"MENG,GRACE","Meng, Grace",Ms.,Grace,,Meng,,Grace Meng,Ms. Meng,117,D,D,NY,New York,6th,Queens,RHOB,2209,20515,3206,(202) 225-2601,20221108,20230107
+NY07,V000081,"VELAZQUEZ,NYDIA","Velázquez, Nydia",Ms.,Nydia,M.,Velázquez,,Nydia M. Velázquez,Ms. Velázquez,117,D,D,NY,New York,7th,Brooklyn,RHOB,2302,20515,3207,(202) 225-2361,20221108,20230107
+NY08,J000294,"JEFFRIES,HAKEEM","Jeffries, Hakeem",Mr.,Hakeem,S.,Jeffries,,Hakeem S. Jeffries,Mr. Jeffries,117,D,D,NY,New York,8th,Brooklyn,RHOB,2433,20515,3208,(202) 225-5936,20221108,20230107
+NY09,C001067,"CLARKE,YVETTE","Clarke, Yvette",Ms.,Yvette,D.,Clarke,,Yvette D. Clarke,Ms. Clarke of New York,117,D,D,NY,New York,9th,Brooklyn,RHOB,2058,20515,3209,(202) 225-6231,20221108,20230107
+NY10,G000599,"GOLDMAN,DANIEL","Goldman, Daniel",Mr.,Daniel,S.,Goldman,,Daniel S. Goldman,Mr. Goldman of New York,0,D,D,NY,New York,10th,New York,CHOB,245,20515,3210,(202) 225-7944,20221108,20230107
+NY11,M000317,"MALLIOTAKIS,NICOLE","Malliotakis, Nicole",Ms.,Nicole,,Malliotakis,,Nicole Malliotakis,Ms. Malliotakis,117,R,R,NY,New York,11th,Staten Island,CHOB,351,20515,3211,(202) 225-3371,20221108,20230107
+NY12,N000002,"NADLER,JERROLD","Nadler, Jerrold",Mr.,Jerrold,,Nadler,,Jerrold Nadler,Mr. Nadler,117,D,D,NY,New York,12th,New York,RHOB,2132,20515,3212,(202) 225-5635,20221108,20230107
+NY13,E000297,"ESPAILLAT,ADRIANO","Espaillat, Adriano",Mr.,Adriano,,Espaillat,,Adriano Espaillat,Mr. Espaillat,117,D,D,NY,New York,13th,New York,RHOB,2332,20515,3213,(202) 225-4365,20221108,20230107
+NY14,O000172,"OCASIOCORTEZ,ALEXANDRIA","Ocasio-Cortez, Alexandria",Ms.,Alexandria,,Ocasio-Cortez,,Alexandria Ocasio-Cortez,Ms. Ocasio-Cortez,117,D,D,NY,New York,14th,East Elmhurst,CHOB,250,20515,3214,(202) 225-3965,20221108,20230107
+NY15,T000486,"TORRES,RITCHIE","Torres, Ritchie",Mr.,Ritchie,,Torres,,Ritchie Torres,Mr. Torres of New York,117,D,D,NY,New York,15th,Bronx,LHOB,1414,20515,3215,(202) 225-4361,20221108,20230107
+NY16,B001223,"BOWMAN,JAMAAL","Bowman, Jamaal",Mr.,Jamaal,,Bowman,,Jamaal Bowman,Mr. Bowman,117,D,D,NY,New York,16th,Yonkers,CHOB,345,20515,3216,(202) 225-2464,20221108,20230107
+NY17,L000599,"LAWLER,MICHAEL","Lawler, Michael",Mr.,Michael,,Lawler,,Michael Lawler,Mr. Lawler,0,R,R,NY,New York,17th,Pearl River,LHOB,1013,20515,3217,(202) 225-6506,20221108,20230107
+NY18,R000579,"RYAN,PATRICK","Ryan, Patrick",Mr.,Patrick,,Ryan,,Patrick Ryan,Mr. Ryan,117,D,D,NY,New York,18th,Gardiner,LHOB,1030,20515,3218,(202) 225-5614,20221108,20230107
+NY19,M001221,"MOLINARO,MARCUS","Molinaro, Marcus",Mr.,Marcus,J.,Molinaro,,Marcus J. Molinaro,Mr. Molinaro,0,R,R,NY,New York,19th,Red Hook,LHOB,1207,20515,3219,(202) 225-5441,20221108,20230107
+NY20,T000469,"TONKO,PAUL","Tonko, Paul",Mr.,Paul,,Tonko,,Paul Tonko,Mr. Tonko,117,D,D,NY,New York,20th,Amsterdam,RHOB,2369,20515,3220,(202) 225-5076,20221108,20230107
+NY21,S001196,"STEFANIK,ELISE","Stefanik, Elise",Ms.,Elise,M.,Stefanik,,Elise M. Stefanik,Ms. Stefanik,117,R,R,NY,New York,21st,Schuylerville,RHOB,2211,20515,3221,(202) 225-4611,20221108,20230107
+NY22,W000828,"WILLIAMS,BRANDON","Williams, Brandon",Mr.,Brandon,,Williams,,Brandon Williams,Mr. Williams of New York,0,R,R,NY,New York,22nd,Syracuse,LHOB,1022,20515,3222,(202) 225-3701,20221108,20230107
+NY23,L000600,"LANGWORTHY,NICHOLAS","Langworthy, Nicholas",Mr.,Nicholas,A.,Langworthy,,Nicholas A. Langworthy,Mr. Langworthy,0,R,R,NY,New York,23rd,Pendleton,LHOB,1630,20515,3223,(202) 225-3161,20221108,20230107
+NY24,T000478,"TENNEY,CLAUDIA","Tenney, Claudia",Ms.,Claudia,,Tenney,,Claudia Tenney,Ms. Tenney,117,R,R,NY,New York,24th,Canandaigua,RHOB,2349,20515,3224,(202) 225-3665,20221108,20230107
+NY25,M001206,"MORELLE,JOSEPH","Morelle, Joseph",Mr.,Joseph,D.,Morelle,,Joseph D. Morelle,Mr. Morelle,117,D,D,NY,New York,25th,Irondequoit,CHOB,570,20515,3225,(202) 225-3615,20221108,20230107
+NY26,H001038,"HIGGINS,BRIAN","Higgins, Brian",Mr.,Brian,,Higgins,,Brian Higgins,Mr. Higgins of New York,117,D,D,NY,New York,26th,Buffalo,RHOB,2269,20515,3226,(202) 225-3306,20221108,20230107
+OH01,L000601,"LANDSMAN,GREG","Landsman, Greg",Mr.,Greg,,Landsman,,Greg Landsman,Mr. Landsman,0,D,D,OH,Ohio,1st,Cincinnati,LHOB,1432,20515,3501,(202) 225-2216,20221108,20230107
+OH02,W000815,"WENSTRUP,BRAD","Wenstrup, Brad",Mr.,Brad,R.,Wenstrup,,Brad R. Wenstrup,Mr. Wenstrup,117,R,R,OH,Ohio,2nd,Hillsboro,RHOB,2335,20515,3502,(202) 225-3164,20221108,20230107
+OH03,B001281,"BEATTY,JOYCE","Beatty, Joyce",Mrs.,Joyce,,Beatty,,Joyce Beatty,Mrs. Beatty,117,D,D,OH,Ohio,3rd,Columbus,RHOB,2079,20515,3503,(202) 225-4324,20221108,20230107
+OH04,J000289,"JORDAN,JIM","Jordan, Jim",Mr.,Jim,,Jordan,,Jim Jordan,Mr. Jordan,117,R,R,OH,Ohio,4th,Urbana,RHOB,2056,20515,3504,(202) 225-2676,20221108,20230107
+OH05,L000566,"LATTA,ROBERT","Latta, Robert",Mr.,Robert,E.,Latta,,Robert E. Latta,Mr. Latta,117,R,R,OH,Ohio,5th,Bowling Green,RHOB,2467,20515,3505,(202) 225-6405,20221108,20230107
+OH06,J000292,"JOHNSON,BILL","Johnson, Bill",Mr.,Bill,,Johnson,,Bill Johnson,Mr. Johnson of Ohio,117,R,R,OH,Ohio,6th,Marietta,RHOB,2082,20515,3506,(202) 225-5705,20221108,20230107
+OH07,M001222,"MILLER,MAX","Miller, Max",Mr.,Max,L.,Miller,,Max L. Miller,Mr. Miller of Ohio,0,R,R,OH,Ohio,7th,Rocky River,CHOB,143,20515,3507,(202) 225-3876,20221108,20230107
+OH08,D000626,"DAVIDSON,WARREN","Davidson, Warren",Mr.,Warren,,Davidson,,Warren Davidson,Mr. Davidson,117,R,R,OH,Ohio,8th,Troy,RHOB,2113,20515,3508,(202) 225-6205,20221108,20230107
+OH09,K000009,"KAPTUR,MARCY","Kaptur, Marcy",Ms.,Marcy,,Kaptur,,Marcy Kaptur,Ms. Kaptur,117,D,D,OH,Ohio,9th,Toledo,RHOB,2186,20515,3509,(202) 225-4146,20221108,20230107
+OH10,T000463,"TURNER,MICHAEL","Turner, Michael",Mr.,Michael,R.,Turner,,Michael R. Turner,Mr. Turner,117,R,R,OH,Ohio,10th,Dayton,RHOB,2183,20515,3510,(202) 225-6465,20221108,20230107
+OH11,B001313,"BROWN,SHONTEL","Brown, Shontel",Ms.,Shontel,M.,Brown,,Shontel M. Brown,Ms. Brown,117,D,D,OH,Ohio,11th,Warrensville Heights,CHOB,449,20515,3511,(202) 225-7032,20221108,20230107
+OH12,B001306,"BALDERSON,TROY","Balderson, Troy",Mr.,Troy,,Balderson,,Troy Balderson,Mr. Balderson,117,R,R,OH,Ohio,12th,Zanesville,RHOB,2429,20515,3512,(202) 225-5355,20221108,20230107
+OH13,S001223,"SYKES,EMILIA","Sykes, Emilia",Mrs.,Emilia,Strong,Sykes,,Emilia Strong Sykes,Mrs. Sykes,0,D,D,OH,Ohio,13th,Akron,LHOB,1217,20515,3513,(202) 225-6265,20221108,20230107
+OH14,J000295,"JOYCE,DAVID","Joyce, David",Mr.,David,P.,Joyce,,David P. Joyce,Mr. Joyce of Ohio,117,R,R,OH,Ohio,14th,South Russell Village,RHOB,2065,20515,3514,(202) 225-5731,20221108,20230107
+OH15,C001126,"CAREY,MIKE","Carey, Mike",Mr.,Mike,,Carey,,Mike Carey,Mr. Carey,117,R,R,OH,Ohio,15th,Columbus,LHOB,1433,20515,3515,(202) 225-2015,20221108,20230107
+OK01,H001082,"HERN,KEVIN","Hern, Kevin",Mr.,Kevin,,Hern,,Kevin Hern,Mr. Hern,117,R,R,OK,Oklahoma,1st,Tulsa,LHOB,1019,20515,3601,(202) 225-2211,20221108,20230107
+OK02,B001317,"BRECHEEN,JOSH","Brecheen, Josh",Mr.,Josh,,Brecheen,,Josh Brecheen,Mr. Brecheen,0,R,R,OK,Oklahoma,2nd,Coalgate,LHOB,1208,20515,3602,(202) 225-2701,20221108,20230107
+OK03,L000491,"LUCAS,FRANK","Lucas, Frank",Mr.,Frank,D.,Lucas,,Frank D. Lucas,Mr. Lucas,117,R,R,OK,Oklahoma,3rd,Cheyenne,RHOB,2405,20515,3603,(202) 225-5565,20221108,20230107
+OK04,C001053,"COLE,TOM","Cole, Tom",Mr.,Tom,,Cole,,Tom Cole,Mr. Cole,117,R,R,OK,Oklahoma,4th,Moore,RHOB,2207,20515,3604,(202) 225-6165,20221108,20230107
+OK05,B000740,"BICE,STEPHANIE","Bice, Stephanie",Mrs.,Stephanie,I.,Bice,,Stephanie I. Bice,Mrs. Bice,117,R,R,OK,Oklahoma,5th,Oklahoma City,RHOB,2437,20515,3605,(202) 225-2132,20221108,20230107
+OR01,B001278,"BONAMICI,SUZANNE","Bonamici, Suzanne",Ms.,Suzanne,,Bonamici,,Suzanne Bonamici,Ms. Bonamici,117,D,D,OR,Oregon,1st,Washington County,RHOB,2231,20515,3701,(202) 225-0855,20221108,20230107
+OR02,B000668,"BENTZ,CLIFF","Bentz, Cliff",Mr.,Cliff,,Bentz,,Cliff Bentz,Mr. Bentz,117,R,R,OR,Oregon,2nd,Ontario,CHOB,409,20515,3702,(202) 225-6730,20221108,20230107
+OR03,B000574,"BLUMENAUER,EARL","Blumenauer, Earl",Mr.,Earl,,Blumenauer,,Earl Blumenauer,Mr. Blumenauer,117,D,D,OR,Oregon,3rd,Portland,LHOB,1111,20515,3703,(202) 225-4811,20221108,20230107
+OR04,H001094,"HOYLE,VAL","Hoyle, Val",Ms.,Val,T.,Hoyle,,Val T. Hoyle,Ms. Hoyle of Oregon,0,D,D,OR,Oregon,4th,Springfield,LHOB,1620,20515,3704,(202) 225-6416,20221108,20230107
+OR05,C001135,"CHAVEZDEREMER,LORI","Chavez-DeRemer, Lori",Mrs.,Lori,,Chavez-DeRemer,,Lori Chavez-DeRemer,Mrs. Chavez-DeRemer,0,R,R,OR,Oregon,5th,Happy Valley,LHOB,1722,20515,3705,(202) 225-5711,20221108,20230107
+OR06,S001226,"SALINAS,ANDREA","Salinas, Andrea",Ms.,Andrea,,Salinas,,Andrea Salinas,Ms. Salinas,0,D,D,OR,Oregon,6th,Tigard,CHOB,109,20515,0001,(202) 225-5643,20221108,20230107
+PA01,F000466,"FITZPATRICK,BRIAN","Fitzpatrick, Brian",Mr.,Brian,K.,Fitzpatrick,,Brian K. Fitzpatrick,Mr. Fitzpatrick,117,R,R,PA,Pennsylvania,1st,Levittown,CHOB,271,20515,3801,(202) 225-4276,20221108,20230107
+PA02,B001296,"BOYLE,BRENDAN","Boyle, Brendan",Mr.,Brendan,F.,Boyle,,Brendan F. Boyle,Mr. Boyle of Pennsylvania,117,D,D,PA,Pennsylvania,2nd,Philadelphia,LHOB,1502,20515,3802,(202) 225-6111,20221108,20230107
+PA03,E000296,"EVANS,DWIGHT","Evans, Dwight",Mr.,Dwight,,Evans,,Dwight Evans,Mr. Evans,117,D,D,PA,Pennsylvania,3rd,Philadelphia,LHOB,1105,20515,3803,(202) 225-4001,20221108,20230107
+PA04,D000631,"DEAN,MADELEINE","Dean, Madeleine",Ms.,Madeleine,,Dean,,Madeleine Dean,Ms. Dean of Pennsylvania,117,D,D,PA,Pennsylvania,4th,Bala Cynwyd,CHOB,150,20515,3804,(202) 225-4731,20221108,20230107
+PA05,S001205,"SCANLON,MARY","Scanlon, Mary",Ms.,Mary,Gay,Scanlon,,Mary Gay Scanlon,Ms. Scanlon,117,D,D,PA,Pennsylvania,5th,Swarthmore,LHOB,1227,20515,3805,(202) 225-2011,20221108,20230107
+PA06,H001085,"HOULAHAN,CHRISSY","Houlahan, Chrissy",Ms.,Chrissy,,Houlahan,,Chrissy Houlahan,Ms. Houlahan,117,D,D,PA,Pennsylvania,6th,Devon,LHOB,1727,20515,3806,(202) 225-4315,20221108,20230107
+PA07,W000826,"WILD,SUSAN","Wild, Susan",Ms.,Susan,,Wild,,Susan Wild,Ms. Wild,117,D,D,PA,Pennsylvania,7th,Allentown,LHOB,1027,20515,3807,(202) 225-6411,20221108,20230107
+PA08,C001090,"CARTWRIGHT,MATT","Cartwright, Matt",Mr.,Matt,,Cartwright,,Matt Cartwright,Mr. Cartwright,117,D,D,PA,Pennsylvania,8th,Moosic,RHOB,2102,20515,3808,(202) 225-5546,20221108,20230107
+PA09,M001204,"MEUSER,DANIEL","Meuser, Daniel",Mr.,Daniel,,Meuser,,Daniel Meuser,Mr. Meuser,117,R,R,PA,Pennsylvania,9th,Dallas,CHOB,350,20515,3809,(202) 225-6511,20221108,20230107
+PA10,P000605,"PERRY,SCOTT","Perry, Scott",Mr.,Scott,,Perry,,Scott Perry,Mr. Perry,117,R,R,PA,Pennsylvania,10th,Dillsburg,RHOB,2160,20515,3810,(202) 225-5836,20221108,20230107
+PA11,S001199,"SMUCKER,LLOYD","Smucker, Lloyd",Mr.,Lloyd,,Smucker,,Lloyd Smucker,Mr. Smucker,117,R,R,PA,Pennsylvania,11th,Lancaster,CHOB,302,20515,3811,(202) 225-2411,20221108,20230107
+PA12,L000602,"LEE,SUMMER","Lee, Summer",Ms.,Summer,L.,Lee,,Summer L. Lee,Ms. Lee of Pennsylvania,0,D,D,PA,Pennsylvania,12th,Swissvale,CHOB,243,20515,3812,(202) 225-2135,20221108,20230107
+PA13,J000302,"JOYCE,JOHN","Joyce, John",Mr.,John,,Joyce,,John Joyce,Mr. Joyce of Pennsylvania,117,R,R,PA,Pennsylvania,13th,Hollidaysburg,CHOB,152,20515,3813,(202) 225-2431,20221108,20230107
+PA14,R000610,"RESCHENTHALER,GUY","Reschenthaler, Guy",Mr.,Guy,,Reschenthaler,,Guy Reschenthaler,Mr. Reschenthaler,117,R,R,PA,Pennsylvania,14th,Peters Township,CHOB,342,20515,3814,(202) 225-2065,20221108,20230107
+PA15,T000467,"THOMPSON,GLENN","Thompson, Glenn",Mr.,Glenn,,Thompson,,Glenn Thompson,Mr. Thompson of Pennsylvania,117,R,R,PA,Pennsylvania,15th,Howard,CHOB,400,20515,3815,(202) 225-5121,20221108,20230107
+PA16,K000376,"KELLY,MIKE","Kelly, Mike",Mr.,Mike,,Kelly,,Mike Kelly,Mr. Kelly of Pennsylvania,117,R,R,PA,Pennsylvania,16th,Butler,LHOB,1707,20515,3816,(202) 225-5406,20221108,20230107
+PA17,D000530,"DELUZIO,CHRISTOPHER","Deluzio, Christopher",Mr.,Christopher,R.,Deluzio,,Christopher R. Deluzio,Mr. Deluzio,0,D,D,PA,Pennsylvania,17th,Aspinwall,LHOB,1222,20515,3817,(202) 225-2301,20221108,20230107
+PR00,G000582,"GONZALEZCOLON,JENNIFFER","González-Colón, Jenniffer",Mrs.,Jenniffer,,González-Colón,,Jenniffer González-Colón,Mrs. González-Colón,117,R,R,PR,Puerto Rico,Resident Commissioner,Carolina,RHOB,2338,20515,5401,(202) 225-2615,20221108,20230110
+RI01,C001084,"CICILLINE,DAVID","Cicilline, David",Mr.,David,N.,Cicilline,,David N. Cicilline,Mr. Cicilline,117,D,D,RI,Rhode Island,1st,Providence,RHOB,2233,20515,3901,(202) 225-4911,20221108,20230107
+RI02,M001223,"MAGAZINER,SETH","Magaziner, Seth",Mr.,Seth,,Magaziner,,Seth Magaziner,Mr. Magaziner,0,D,D,RI,Rhode Island,2nd,Cranston,LHOB,1218,20515,3902,(202) 225-2735,20221108,20230107
+SC01,M000194,"MACE,NANCY","Mace, Nancy",Ms.,Nancy,,Mace,,Nancy Mace,Ms. Mace,117,R,R,SC,South Carolina,1st,Charleston,LHOB,1728,20515,4001,(202) 225-3176,20221108,20230107
+SC02,W000795,"WILSON,JOE","Wilson, Joe",Mr.,Joe,,Wilson,,Joe Wilson,Mr. Wilson of South Carolina,117,R,R,SC,South Carolina,2nd,Springdale,LHOB,1436,20515,4002,(202) 225-2452,20221108,20230107
+SC03,D000615,"DUNCAN,JEFF","Duncan, Jeff",Mr.,Jeff,,Duncan,,Jeff Duncan,Mr. Duncan,117,R,R,SC,South Carolina,3rd,Laurens,RHOB,2229,20515,4003,(202) 225-5301,20221108,20230107
+SC04,T000480,"TIMMONS,WILLIAM","Timmons, William",Mr.,William,R.,Timmons,IV,William R. Timmons IV,Mr. Timmons,117,R,R,SC,South Carolina,4th,Greenville,CHOB,267,20515,4004,(202) 225-6030,20221108,20230107
+SC05,N000190,"NORMAN,RALPH","Norman, Ralph",Mr.,Ralph,,Norman,,Ralph Norman,Mr. Norman,117,R,R,SC,South Carolina,5th,Rock Hill,CHOB,569,20515,4005,(202) 225-5501,20221108,20230107
+SC06,C000537,"CLYBURN,JAMES","Clyburn, James",Mr.,James,E.,Clyburn,,James E. Clyburn,Mr. Clyburn,117,D,D,SC,South Carolina,6th,Columbia,CHOB,274,20515,4006,(202) 225-3315,20221108,20230107
+SC07,F000478,"FRY,RUSSELL","Fry, Russell",Mr.,Russell,,Fry,,Russell Fry,Mr. Fry,0,R,R,SC,South Carolina,7th,Murrells Inlet,LHOB,1626,20515,4007,(202) 225-9895,20221108,20230107
+SD00,J000301,"JOHNSON,DUSTY","Johnson, Dusty",Mr.,Dusty,,Johnson,,Dusty Johnson,Mr. Johnson of South Dakota,117,R,R,SD,South Dakota,At Large,Mitchell,LHOB,1714,20515,4100,(202) 225-2801,20221108,20230107
+TN01,H001086,"HARSHBARGER,DIANA","Harshbarger, Diana",Mrs.,Diana,,Harshbarger,,Diana Harshbarger,Mrs. Harshbarger,117,R,R,TN,Tennessee,1st,Kingsport,CHOB,167,20515,4201,(202) 225-6356,20221108,20230107
+TN02,B001309,"BURCHETT,TIM","Burchett, Tim",Mr.,Tim,,Burchett,,Tim Burchett,Mr. Burchett,117,R,R,TN,Tennessee,2nd,Knoxville,LHOB,1122,20515,4202,(202) 225-5435,20221108,20230107
+TN03,F000459,"FLEISCHMANN,CHARLES","Fleischmann, Charles",Mr.,Charles,"J. ""Chuck""",Fleischmann,,"Charles J. ""Chuck"" Fleischmann",Mr. Fleischmann,117,R,R,TN,Tennessee,3rd,Chattanooga,RHOB,2187,20515,4203,(202) 225-3271,20221108,20230107
+TN04,D000616,"DESJARLAIS,SCOTT","DesJarlais, Scott",Mr.,Scott,,DesJarlais,,Scott DesJarlais,Mr. DesJarlais,117,R,R,TN,Tennessee,4th,Sherwood,RHOB,2304,20515,4204,(202) 225-6831,20221108,20230107
+TN05,O000175,"OGLES,ANDREW","Ogles, Andrew",Mr.,Andrew,,Ogles,,Andrew Ogles,Mr. Ogles,0,R,R,TN,Tennessee,5th,Columbia,CHOB,151,20515,4205,(202) 225-4311,20221108,20230107
+TN06,R000612,"ROSE,JOHN","Rose, John",Mr.,John,W.,Rose,,John W. Rose,Mr. Rose,117,R,R,TN,Tennessee,6th,Cookeville,RHOB,2238,20515,4206,(202) 225-4231,20221108,20230107
+TN07,G000590,"GREEN,MARK","Green, Mark",Mr.,Mark,E.,Green,,Mark E. Green,Mr. Green of Tennessee,117,R,R,TN,Tennessee,7th,Clarksville,RHOB,2446,20515,4207,(202) 225-2811,20221108,20230107
+TN08,K000392,"KUSTOFF,DAVID","Kustoff, David",Mr.,David,,Kustoff,,David Kustoff,Mr. Kustoff,117,R,R,TN,Tennessee,8th,Germantown,CHOB,560,20515,4208,(202) 225-4714,20221108,20230107
+TN09,C001068,"COHEN,STEVE","Cohen, Steve",Mr.,Steve,,Cohen,,Steve Cohen,Mr. Cohen,117,D,D,TN,Tennessee,9th,Memphis,RHOB,2268,20515,4209,(202) 225-3265,20221108,20230107
+TX01,M001224,"MORAN,NATHANIEL","Moran, Nathaniel",Mr.,Nathaniel,,Moran,,Nathaniel Moran,Mr. Moran,0,R,R,TX,Texas,1st,Whitehouse,LHOB,1541,20515,4301,(202) 225-3035,20221108,20230107
+TX02,C001120,"CRENSHAW,DAN","Crenshaw, Dan",Mr.,Dan,,Crenshaw,,Dan Crenshaw,Mr. Crenshaw,117,R,R,TX,Texas,2nd,Humble,CHOB,248,20515,4302,(202) 225-6565,20221108,20230107
+TX03,S001224,"SELF,KEITH","Self, Keith",Mr.,Keith,,Self,,Keith Self,Mr. Self,0,R,R,TX,Texas,3rd,McKinney,LHOB,1113,20515,4303,(202) 225-4201,20221108,20230107
+TX04,F000246,"FALLON,PAT","Fallon, Pat",Mr.,Pat,,Fallon,,Pat Fallon,Mr. Fallon,117,R,R,TX,Texas,4th,Frisco,RHOB,2416,20515,4304,(202) 225-6673,20221108,20230107
+TX05,G000589,"GOODEN,LANCE","Gooden, Lance",Mr.,Lance,,Gooden,,Lance Gooden,Mr. Gooden of Texas,117,R,R,TX,Texas,5th,Terrell,RHOB,2431,20515,4305,(202) 225-3484,20221108,20230107
+TX06,E000071,"ELLZEY,JAKE","Ellzey, Jake",Mr.,Jake,,Ellzey,,Jake Ellzey,Mr. Ellzey,117,R,R,TX,Texas,6th,Midlothian,LHOB,1721,20515,4306,(202) 225-2002,20221108,20230107
+TX07,F000468,"FLETCHER,LIZZIE","Fletcher, Lizzie",Mrs.,Lizzie,,Fletcher,,Lizzie Fletcher,Mrs. Fletcher,117,D,D,TX,Texas,7th,Houston,CHOB,346,20515,4307,(202) 225-2571,20221108,20230107
+TX08,L000603,"LUTTRELL,MORGAN","Luttrell, Morgan",Mr.,Morgan,,Luttrell,,Morgan Luttrell,Mr. Luttrell,0,R,R,TX,Texas,8th,Magnolia,LHOB,1320,20515,4308,(202) 225-4901,20221108,20230107
+TX09,G000553,"GREEN,AL","Green, Al",Mr.,Al,,Green,,Al Green,Mr. Green of Texas,117,D,D,TX,Texas,9th,Houston,RHOB,2347,20515,4309,(202) 225-7508,20221108,20230107
+TX10,M001157,"MCCAUL,MICHAEL","McCaul, Michael",Mr.,Michael,T.,McCaul,,Michael T. McCaul,Mr. McCaul,117,R,R,TX,Texas,10th,Austin,RHOB,2300,20515,4310,(202) 225-2401,20221108,20230107
+TX11,P000048,"PFLUGER,AUGUST","Pfluger, August",Mr.,August,,Pfluger,,August Pfluger,Mr. Pfluger,117,R,R,TX,Texas,11th,San Angelo,LHOB,1124,20515,4311,(202) 225-3605,20221108,20230107
+TX12,G000377,"GRANGER,KAY","Granger, Kay",Ms.,Kay,,Granger,,Kay Granger,Ms. Granger,117,R,R,TX,Texas,12th,Fort Worth,RHOB,2308,20515,4312,(202) 225-5071,20221108,20230107
+TX13,J000304,"JACKSON,RONNY","Jackson, Ronny",Mr.,Ronny,,Jackson,,Ronny Jackson,Mr. Jackson of Texas,117,R,R,TX,Texas,13th,Amarillo,CHOB,446,20515,4313,(202) 225-3706,20221108,20230107
+TX14,W000814,"WEBER,RANDY","Weber, Randy",Mr.,Randy,K.,Weber,Sr.,"Randy K. Weber, Sr.",Mr. Weber of Texas,117,R,R,TX,Texas,14th,Friendswood,CHOB,107,20515,4314,(202) 225-2831,20221108,20230107
+TX15,D000594,"DELACRUZ,MONICA","De La Cruz, Monica",Ms.,Monica,,De La Cruz,,Monica De La Cruz,Ms. De La Cruz,0,R,R,TX,Texas,15th,McAllen,LHOB,1415,20515,4315,(202) 225-9901,20221108,20230107
+TX16,E000299,"ESCOBAR,VERONICA","Escobar, Veronica",Ms.,Veronica,,Escobar,,Veronica Escobar,Ms. Escobar,117,D,D,TX,Texas,16th,El Paso,RHOB,2448,20515,4316,(202) 225-4831,20221108,20230107
+TX17,S000250,"SESSIONS,PETE","Sessions, Pete",Mr.,Pete,,Sessions,,Pete Sessions,Mr. Sessions,117,R,R,TX,Texas,17th,Waco,RHOB,2204,20515,4317,(202) 225-6105,20221108,20230107
+TX18,J000032,"JACKSONLEE,SHEILA","Jackson Lee, Sheila",Ms.,Sheila,,Jackson Lee,,Sheila Jackson Lee,Ms. Jackson Lee,117,D,D,TX,Texas,18th,Houston,RHOB,2314,20515,4318,(202) 225-3816,20221108,20230107
+TX19,A000375,"ARRINGTON,JODEY","Arrington, Jodey",Mr.,Jodey,C.,Arrington,,Jodey C. Arrington,Mr. Arrington,117,R,R,TX,Texas,19th,Lubbock,LHOB,1107,20515,4319,(202) 225-4005,20221108,20230107
+TX20,C001091,"CASTRO,JOAQUIN","Castro, Joaquin",Mr.,Joaquin,,Castro,,Joaquin Castro,Mr. Castro of Texas,117,D,D,TX,Texas,20th,San Antonio,RHOB,2241,20515,4320,(202) 225-3236,20221108,20230107
+TX21,R000614,"ROY,CHIP","Roy, Chip",Mr.,Chip,,Roy,,Chip Roy,Mr. Roy,117,R,R,TX,Texas,21st,Austin,CHOB,103,20515,4321,(202) 225-4236,20221108,20230107
+TX22,N000026,"NEHLS,TROY","Nehls, Troy",Mr.,Troy,E.,Nehls,,Troy E. Nehls,Mr. Nehls,117,R,R,TX,Texas,22nd,Richmond,LHOB,1104,20515,4322,(202) 225-5951,20221108,20230107
+TX23,G000594,"GONZALES,TONY","Gonzales, Tony",Mr.,Tony,,Gonzales,,Tony Gonzales,Mr. Tony Gonzales of Texas,117,R,R,TX,Texas,23rd,San Antonio,RHOB,2244,20515,4323,(202) 225-4511,20221108,20230107
+TX24,V000134,"VANDUYNE,BETH","Van Duyne, Beth",Ms.,Beth,,Van Duyne,,Beth Van Duyne,Ms. Van Duyne,117,R,R,TX,Texas,24th,Irving,LHOB,1725,20515,4324,(202) 225-6605,20221108,20230107
+TX25,W000816,"WILLIAMS,ROGER","Williams, Roger",Mr.,Roger,,Williams,,Roger Williams,Mr. Williams of Texas,117,R,R,TX,Texas,25th,Weatherford,RHOB,2336,20515,4325,(202) 225-9896,20221108,20230107
+TX26,B001248,"BURGESS,MICHAEL","Burgess, Michael",Mr.,Michael,C.,Burgess,,Michael C. Burgess,Mr. Burgess,117,R,R,TX,Texas,26th,Pilot Point,RHOB,2161,20515,4326,(202) 225-7772,20221108,20230107
+TX27,C001115,"CLOUD,MICHAEL","Cloud, Michael",Mr.,Michael,,Cloud,,Michael Cloud,Mr. Cloud,117,R,R,TX,Texas,27th,Victoria,CHOB,171,20515,4327,(202) 225-7742,20221108,20230107
+TX28,C001063,"CUELLAR,HENRY","Cuellar, Henry",Mr.,Henry,,Cuellar,,Henry Cuellar,Mr. Cuellar,117,D,D,TX,Texas,28th,Laredo,RHOB,2372,20515,4328,(202) 225-1640,20221108,20230107
+TX29,G000587,"GARCIA,SYLVIA","Garcia, Sylvia",Ms.,Sylvia,R.,Garcia,,Sylvia R. Garcia,Ms. Garcia of Texas,117,D,D,TX,Texas,29th,Houston,RHOB,2419,20515,4329,(202) 225-1688,20221108,20230107
+TX30,C001130,"CROCKETT,JASMINE","Crockett, Jasmine",Ms.,Jasmine,,Crockett,,Jasmine Crockett,Ms. Crockett,0,D,D,TX,Texas,30th,Dallas,LHOB,1616,20515,4330,(202) 225-8885,20221108,20230107
+TX31,C001051,"CARTER,JOHN","Carter, John",Mr.,John,R.,Carter,,John R. Carter,Mr. Carter of Texas,117,R,R,TX,Texas,31st,Round Rock,RHOB,2208,20515,4331,(202) 225-3864,20221108,20230107
+TX32,A000376,"ALLRED,COLIN","Allred, Colin",Mr.,Colin,Z.,Allred,,Colin Z. Allred,Mr. Allred,117,D,D,TX,Texas,32nd,Dallas,CHOB,348,20515,4332,(202) 225-2231,20221108,20230107
+TX33,V000131,"VEASEY,MARC","Veasey, Marc",Mr.,Marc,A.,Veasey,,Marc A. Veasey,Mr. Veasey,117,D,D,TX,Texas,33rd,Fort Worth,RHOB,2348,20515,4333,(202) 225-9897,20221108,20230107
+TX34,G000581,"GONZALEZ,VICENTE","Gonzalez, Vicente",Mr.,Vicente,,Gonzalez,,Vicente Gonzalez,Mr. Vicente Gonzalez of Texas,117,D,D,TX,Texas,34th,McAllen,CHOB,154,20515,4334,(202) 225-2531,20221108,20230107
+TX35,C001131,"CASAR,GREG","Casar, Greg",Mr.,Greg,,Casar,,Greg Casar,Mr. Casar,0,D,D,TX,Texas,35th,Austin,LHOB,1339,20515,4335,(202) 225-5645,20221108,20230107
+TX36,B001291,"BABIN,BRIAN","Babin, Brian",Mr.,Brian,,Babin,,Brian Babin,Mr. Babin,117,R,R,TX,Texas,36th,Woodville,RHOB,2236,20515,4336,(202) 225-1555,20221108,20230107
+TX37,D000399,"DOGGETT,LLOYD","Doggett, Lloyd",Mr.,Lloyd,,Doggett,,Lloyd Doggett,Mr. Doggett,117,D,D,TX,Texas,37th,Austin,RHOB,2307,20515,0001,(202) 225-4865,20221108,20230107
+TX38,H001095,"HUNT,WESLEY","Hunt, Wesley",Mr.,Wesley,,Hunt,,Wesley Hunt,Mr. Hunt,0,R,R,TX,Texas,38th,Houston,LHOB,1520,20515,0001,(202) 225-5646,20221108,20230107
+UT01,M001213,"MOORE,BLAKE","Moore, Blake",Mr.,Blake,D.,Moore,,Blake D. Moore,Mr. Moore of Utah,117,R,R,UT,Utah,1st,Salt Lake City,LHOB,1131,20515,4401,(202) 225-0453,20221108,20230107
+UT02,S001192,"STEWART,CHRIS","Stewart, Chris",Mr.,Chris,,Stewart,,Chris Stewart,Mr. Stewart,117,R,R,UT,Utah,2nd,Farmington,CHOB,166,20515,4402,(202) 225-9730,20221108,20230107
+UT03,C001114,"CURTIS,JOHN","Curtis, John",Mr.,John,R.,Curtis,,John R. Curtis,Mr. Curtis,117,R,R,UT,Utah,3rd,Provo,RHOB,2323,20515,4403,(202) 225-7751,20221108,20230107
+UT04,O000086,"OWENS,BURGESS","Owens, Burgess",Mr.,Burgess,,Owens,,Burgess Owens,Mr. Owens,117,R,R,UT,Utah,4th,Salt Lake City,CHOB,309,20515,4404,(202) 225-3011,20221108,20230107
+VA01,W000804,"WITTMAN,ROBERT","Wittman, Robert",Mr.,Robert,J.,Wittman,,Robert J. Wittman,Mr. Wittman,117,R,R,VA,Virginia,1st,Montross,RHOB,2055,20515,4601,(202) 225-4261,20221108,20230107
+VA02,K000399,"KIGGANS,JENNIFER","Kiggans, Jennifer",Mrs.,Jennifer,A.,Kiggans,,Jennifer Kiggans,Mrs. Kiggans of Virginia,0,R,R,VA,Virginia,2nd,Virginia Beach,LHOB,1037,20515,4602,(202) 225-4215,20221108,20230107
+VA03,S000185,"SCOTT,ROBERT","Scott, Robert",Mr.,Robert,"C. ""Bobby""",Scott,,"Robert C. ""Bobby"" Scott",Mr. Scott of Virginia,117,D,D,VA,Virginia,3rd,Newport News,RHOB,2328,20515,4603,(202) 225-8351,20221108,20230107
+VA04,,,,,,,,,,,0,,,VA,Virginia,4th,,RHOB,2417,20515,4604,(202) 225-6365,20221108,20230107
+VA05,G000595,"GOOD,BOB","Good, Bob",Mr.,Bob,,Good,,Bob Good,Mr. Good of Virginia,117,R,R,VA,Virginia,5th,Lynchburg,CHOB,461,20515,4605,(202) 225-4711,20221108,20230107
+VA06,C001118,"CLINE,BEN","Cline, Ben",Mr.,Ben,,Cline,,Ben Cline,Mr. Cline,117,R,R,VA,Virginia,6th,Botetourt,RHOB,2443,20515,4606,(202) 225-5431,20221108,20230107
+VA07,S001209,"SPANBERGER,ABIGAIL","Spanberger, Abigail",Ms.,Abigail,Davis,Spanberger,,Abigail Davis Spanberger,Ms. Spanberger,117,D,D,VA,Virginia,7th,Glen Allen,CHOB,562,20515,4607,(202) 225-2815,20221108,20230107
+VA08,B001292,"BEYER,DONALD","Beyer, Donald",Mr.,Donald,S.,Beyer,Jr.,"Donald S. Beyer, Jr.",Mr. Beyer,117,D,D,VA,Virginia,8th,Alexandria,LHOB,1119,20515,4608,(202) 225-4376,20221108,20230107
+VA09,G000568,"GRIFFITH,H.","Griffith, H.",Mr.,H.,Morgan,Griffith,,H. Morgan Griffith,Mr. Griffith,117,R,R,VA,Virginia,9th,Salem,RHOB,2202,20515,4609,(202) 225-3861,20221108,20230107
+VA10,W000825,"WEXTON,JENNIFER","Wexton, Jennifer",Ms.,Jennifer,,Wexton,,Jennifer Wexton,Ms. Wexton,117,D,D,VA,Virginia,10th,Leesburg,LHOB,1210,20515,4610,(202) 225-5136,20221108,20230107
+VA11,C001078,"CONNOLLY,GERALD","Connolly, Gerald",Mr.,Gerald,E.,Connolly,,Gerald E. Connolly,Mr. Connolly,117,D,D,VA,Virginia,11th,Fairfax,RHOB,2265,20515,4611,(202) 225-1492,20221108,20230107
+VI00,P000610,"PLASKETT,STACEY","Plaskett, Stacey",Ms.,Stacey,E.,Plaskett,,Stacey E. Plaskett,Ms. Plaskett,117,D,D,VI,Virgin Islands,Delegate,St. Croix,RHOB,2059,20515,5500,(202) 225-1790,20221108,20230107
+VT00,B001318,"BALINT,BECCA","Balint, Becca",Ms.,Becca,,Balint,,Becca Balint,Ms. Balint,0,D,D,VT,Vermont,At Large,Brattleboro,LHOB,1408,20515,4500,(202) 225-4115,20221108,20230107
+WA01,D000617,"DELBENE,SUZAN","DelBene, Suzan",Ms.,Suzan,K.,DelBene,,Suzan K. DelBene,Ms. DelBene,117,D,D,WA,Washington,1st,Medina,RHOB,2330,20515,4701,(202) 225-6311,20221108,20230107
+WA02,L000560,"LARSEN,RICK","Larsen, Rick",Mr.,Rick,,Larsen,,Rick Larsen,Mr. Larsen of Washington,117,D,D,WA,Washington,2nd,Everett,RHOB,2163,20515,4702,(202) 225-2605,20221108,20230107
+WA03,G000600,"PEREZ,MARIE","Perez, Marie",Ms.,Marie,Gluesenkamp,Perez,,Marie Gluesenkamp Perez,Ms. Perez,0,D,D,WA,Washington,3rd,Skamania County,LHOB,1431,20515,4703,(202) 225-3536,20221108,20230107
+WA04,N000189,"NEWHOUSE,DAN","Newhouse, Dan",Mr.,Dan,,Newhouse,,Dan Newhouse,Mr. Newhouse,117,R,R,WA,Washington,4th,Sunnyside,CHOB,504,20515,4704,(202) 225-5816,20221108,20230107
+WA05,M001159,"RODGERS,CATHY","Rodgers, Cathy",Mrs.,Cathy,McMorris,Rodgers,,Cathy McMorris Rodgers,Mrs. Rodgers of Washington,117,R,R,WA,Washington,5th,Spokane,RHOB,2188,20515,4705,(202) 225-2006,20221108,20230107
+WA06,K000381,"KILMER,DEREK","Kilmer, Derek",Mr.,Derek,,Kilmer,,Derek Kilmer,Mr. Kilmer,117,D,D,WA,Washington,6th,Gig Harbor,LHOB,1226,20515,4706,(202) 225-5916,20221108,20230107
+WA07,J000298,"JAYAPAL,PRAMILA","Jayapal, Pramila",Ms.,Pramila,,Jayapal,,Pramila Jayapal,Ms. Jayapal,117,D,D,WA,Washington,7th,Seattle,RHOB,2346,20515,4707,(202) 225-3106,20221108,20230107
+WA08,S001216,"SCHRIER,KIM","Schrier, Kim",Ms.,Kim,,Schrier,,Kim Schrier,Ms. Schrier,117,D,D,WA,Washington,8th,Sammamish,LHOB,1110,20515,4708,(202) 225-7761,20221108,20230107
+WA09,S000510,"SMITH,ADAM","Smith, Adam",Mr.,Adam,,Smith,,Adam Smith,Mr. Smith of Washington,117,D,D,WA,Washington,9th,Bellevue,RHOB,2264,20515,4709,(202) 225-8901,20221108,20230107
+WA10,S001159,"STRICKLAND,MARILYN","Strickland, Marilyn",Ms.,Marilyn,,Strickland,,Marilyn Strickland,Ms. Strickland,117,D,D,WA,Washington,10th,Tacoma,LHOB,1708,20515,4710,(202) 225-9740,20221108,20230107
+WI01,S001213,"STEIL,BRYAN","Steil, Bryan",Mr.,Bryan,,Steil,,Bryan Steil,Mr. Steil,117,R,R,WI,Wisconsin,1st,Janesville,LHOB,1526,20515,4901,(202) 225-3031,20221108,20230107
+WI02,P000607,"POCAN,MARK","Pocan, Mark",Mr.,Mark,,Pocan,,Mark Pocan,Mr. Pocan,117,D,D,WI,Wisconsin,2nd,Town of Vermont,LHOB,1026,20515,4902,(202) 225-2906,20221108,20230107
+WI03,V000135,"VANORDEN,DERRICK","Van Orden, Derrick",Mr.,Derrick,,Van Orden,,Derrick Van Orden,Mr. Van Orden,0,R,R,WI,Wisconsin,3rd,Prairie du Chien,LHOB,1513,20515,4903,(202) 225-5506,20221108,20230107
+WI04,M001160,"MOORE,GWEN","Moore, Gwen",Ms.,Gwen,,Moore,,Gwen Moore,Ms. Moore of Wisconsin,117,D,D,WI,Wisconsin,4th,Milwaukee,RHOB,2252,20515,4904,(202) 225-4572,20221108,20230107
+WI05,F000471,"FITZGERALD,SCOTT","Fitzgerald, Scott",Mr.,Scott,,Fitzgerald,,Scott Fitzgerald,Mr. Fitzgerald,117,R,R,WI,Wisconsin,5th,Clyman,LHOB,1507,20515,4905,(202) 225-5101,20221108,20230107
+WI06,G000576,"GROTHMAN,GLENN","Grothman, Glenn",Mr.,Glenn,,Grothman,,Glenn Grothman,Mr. Grothman,117,R,R,WI,Wisconsin,6th,Glenbeulah,LHOB,1511,20515,4906,(202) 225-2476,20221108,20230107
+WI07,T000165,"TIFFANY,THOMAS","Tiffany, Thomas",Mr.,Thomas,P.,Tiffany,,Thomas P. Tiffany,Mr. Tiffany,117,R,R,WI,Wisconsin,7th,Minocqua,CHOB,451,20515,4907,(202) 225-3365,20221108,20230107
+WI08,G000579,"GALLAGHER,MIKE","Gallagher, Mike",Mr.,Mike,,Gallagher,,Mike Gallagher,Mr. Gallagher,117,R,R,WI,Wisconsin,8th,Green Bay,LHOB,1211,20515,4908,(202) 225-5665,20221108,20230107
+WV01,M001205,"MILLER,CAROL","Miller, Carol",Mrs.,Carol,D.,Miller,,Carol D. Miller,Mrs. Miller of West Virginia,117,R,R,WV,West Virginia,1st,Huntington,CHOB,465,20515,4801,(202) 225-3452,20221108,20230107
+WV02,M001195,"MOONEY,ALEXANDER","Mooney, Alexander",Mr.,Alexander,X.,Mooney,,Alexander X. Mooney,Mr. Mooney,117,R,R,WV,West Virginia,2nd,Charles Town,RHOB,2228,20515,4802,(202) 225-2711,20221108,20230107
+WY00,H001096,"HAGEMAN,HARRIET","Hageman, Harriet",Ms.,Harriet,M.,Hageman,,Harriet M. Hageman,Ms. Hageman,0,R,R,WY,Wyoming,At Large,Cheyenne,LHOB,1531,20515,5000,(202) 225-2311,20221108,20230107
