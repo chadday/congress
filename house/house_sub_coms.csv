@@ -21,8 +21,8 @@ AS02,Military Personnel,Committee on Armed Services,AS00,RHOB,2216,225-4151,9,8
 AS03,Readiness,Committee on Armed Services,AS00,RHOB,2216,225-4151,9,8
 AS25,Tactical Air and Land Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,10,8
 AS26,Intelligence and Special Operations,Committee on Armed Services,AS00,RHOB,2216,225-4151,8,7
-AS28,Seapower and Projection Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,10,7
-AS29,Strategic Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,9,7
+AS28,Seapower and Projection Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,10,8
+AS29,Strategic Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,9,8
 AS35,"Cyber, Information Technologies, and  Innovation",Committee on Armed Services,AS00,RHOB,2216,225-4151,9,8
 BA01,"National Security, Illicit Finance, and  International Financial Institutions",Committee on Financial Services,BA00,RHOB,2129,225-7502,9,7
 BA04,Housing and Insurance,Committee on Financial Services,BA00,RHOB,2129,225-7502,10,9
@@ -61,16 +61,16 @@ IF14,Health,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,16,12
 IF16,Communications and Technology,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,15,11
 IF17,"Innovation, Data, and Commerce",Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,12,8
 IF18,"Environment, Manufacturing, and Critical Materials",Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,12,8
-II06,Energy and Mineral Resources,Committee on Natural Resources,II00,LHOB,1333,225-2761,14,12
-II10,Federal Lands,Committee on Natural Resources,II00,LHOB,1329,225-2761,9,7
-II13,"Water, Wildlife and Fisheries",Committee on Natural Resources,II00,LHOB,1522,225-2761,14,12
+II06,Energy and Mineral Resources,Committee on Natural Resources,II00,LHOB,1333,225-9297,14,12
+II10,Federal Lands,Committee on Natural Resources,II00,LHOB,1329,226-7736,9,7
+II13,"Water, Wildlife and Fisheries",Committee on Natural Resources,II00,LHOB,1522,225-8331,14,12
 II15,Oversight and Investigations,Committee on Natural Resources,II00,OHOB,4170,225-2761,5,4
-II24,Indian and Insular Affairs,Committee on Natural Resources,II00,LHOB,1328,225-2761,6,5
+II24,Indian and Insular Affairs,Committee on Natural Resources,II00,LHOB,1328,226-9725,6,5
 JU01,"Immigration Integrity, Security, and Enforcement",Committee on the Judiciary,JU00,RHOB,2138,225-6906,10,8
 JU03,"Courts, Intellectual Property, and the Internet",Committee on the Judiciary,JU00,RHOB,2138,225-6906,10,8
-JU05,"Administrative State, Regulatory Reform, and Antitrust",Committee on the Judiciary,JU00,RHOB,2138,225-6906,14,12
+JU05,"The Administrative State, Regulatory Reform, and Antitrust",Committee on the Judiciary,JU00,RHOB,2138,225-6906,14,12
 JU08,Crime and Federal Government Surveillance,Committee on the Judiciary,JU00,RHOB,2138,225-6906,8,6
-JU10,Constitution and Limited Government,Committee on the Judiciary,JU00,RHOB,2138,225-6906,8,6
+JU10,The Constitution and Limited Government,Committee on the Judiciary,JU00,RHOB,2138,225-6906,8,6
 JU13,Responsiveness and Accountability to Oversight,Committee on the Judiciary,JU00,RHOB,2138,225-6906,4,2
 PW02,Water Resources and Environment,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,18,15
 PW05,Aviation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,21,18
