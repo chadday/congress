@@ -1,10 +1,10 @@
 subcode,subcomname,parent_com,parent_com_code,building,room,phone,majority,minority
-AG03,"Nutrition, Foreign Agriculture, and Horticulture",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,7
-AG14,"Conservation, Research, and Biotechnology",Committee on Agriculture,AG00,LHOB,1301,225-2171,4,7
-AG15,Forestry,Committee on Agriculture,AG00,LHOB,1301,225-2171,4,3
-AG16,"General Farm Commodities, Risk Management, and Credit",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,9
-AG22,"Commodity Markets, Digital Assets, and Rural Development",Committee on Agriculture,AG00,LHOB,1301,225-2171,9,10
-AG29,"Livestock, Dairy, and Poultry",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,8
+AG03,"Nutrition, Foreign Agriculture, and Horticulture",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,10
+AG14,"Conservation, Research, and Biotechnology",Committee on Agriculture,AG00,LHOB,1301,225-2171,8,7
+AG15,Forestry,Committee on Agriculture,AG00,LHOB,1301,225-2171,5,4
+AG16,"General Farm Commodities, Risk Management, and Credit",Committee on Agriculture,AG00,LHOB,1301,225-2171,14,11
+AG22,"Commodity Markets, Digital Assets, and Rural Development",Committee on Agriculture,AG00,LHOB,1301,225-2171,12,11
+AG29,"Livestock, Dairy, and Poultry",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,10
 AP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",Committee on Appropriations,AP00,RHOB,2362A,225-2638,9,6
 AP02,Defense,Committee on Appropriations,AP00,C,H405,225-2847,10,7
 AP04,"State, Foreign Operations, and Related Programs",Committee on Appropriations,AP00,C,HT2,225-2041,7,4
@@ -95,14 +95,14 @@ VR08,Oversight and Investigations,Committee on Veterans' Affairs,VR00,CHOB,364,2
 VR09,Disability Assistance and Memorial Affairs,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,5,4
 VR10,Economic Opportunity,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,5,4
 VR11,Technology Modernization,Committee on Veterans' Affairs,VR00,CHOB,364,225-3527,3,2
-WM01,Social Security,Committee on Ways and Means,WM00,RHOB,2018,225-9263,8,5
-WM02,Health,Committee on Ways and Means,WM00,LHOB,1102,225-3943,11,8
-WM03,Work and Welfare,Committee on Ways and Means,WM00,LHOB,1129,225-9263,8,5
-WM04,Trade,Committee on Ways and Means,WM00,LHOB,1103,225-6649,11,8
-WM05,Tax,Committee on Ways and Means,WM00,LHOB,1136,225-5522,11,8
-WM06,Oversight,Committee on Ways and Means,WM00,RHOB,2018,225-3625,8,5
+WM01,Social Security,Committee on Ways and Means,WM00,LHOB,1139,225-9263,8,5
+WM02,Health,Committee on Ways and Means,WM00,LHOB,1139,225-3943,11,8
+WM03,Work and Welfare,Committee on Ways and Means,WM00,LHOB,1139,225-9263,8,5
+WM04,Trade,Committee on Ways and Means,WM00,LHOB,1139,225-6649,11,8
+WM05,Tax,Committee on Ways and Means,WM00,LHOB,1139,225-5522,11,8
+WM06,Oversight,Committee on Ways and Means,WM00,LHOB,1139,225-3625,8,5
 IG01,Central Intelligence Agency,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
-IG02,National Security Agency and Cyber,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,5,4
+IG02,National Security Agency and Cyber,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
 IG04,Defense Intelligence and Overhead Architecture,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
 IG06,National Intelligence Enterprise,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
 IG09,Oversight and Investigations,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,1,1
