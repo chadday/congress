@@ -273,7 +273,7 @@ NM02,V000136,"VASQUEZ,GABE","Vasquez, Gabe",Mr.,Gabe,,Vasquez,,Gabe Vasquez,Mr. 
 NM03,L000273,"LEGERFERNANDEZ,TERESA","Leger Fernandez, Teresa",Ms.,Teresa,,Leger Fernandez,,Teresa Leger Fernandez,Ms. Leger Fernandez,117,D,D,NM,New Mexico,3rd,Santa Fe,LHOB,1510,20515,3103,(202) 225-6190,20221108,20230107
 NV01,T000468,"TITUS,DINA","Titus, Dina",Ms.,Dina,,Titus,,Dina Titus,Ms. Titus,117,D,D,NV,Nevada,1st,Las Vegas,RHOB,2464,20515,2801,(202) 225-5965,20221108,20230107
 NV02,A000369,"AMODEI,MARK","Amodei, Mark",Mr.,Mark,E.,Amodei,,Mark E. Amodei,Mr. Amodei,117,R,R,NV,Nevada,2nd,Carson City,CHOB,104,20515,2802,(202) 225-6155,20221108,20230107
-NV03,L000590,"LEE,SUSIE","Lee, Susie",Mrs.,Susie,,Lee,,Susie Lee,Mrs. Lee of Nevada,117,D,D,NV,Nevada,3rd,Las Vegas,CHOB,365,20515,2803,(202) 225-3252,20221108,20230107
+NV03,L000590,"LEE,SUSIE","Lee, Susie",Ms.,Susie,,Lee,,Susie Lee,Ms. Lee of Nevada,117,D,D,NV,Nevada,3rd,Las Vegas,CHOB,365,20515,2803,(202) 225-3252,20221108,20230107
 NV04,H001066,"HORSFORD,STEVEN","Horsford, Steven",Mr.,Steven,,Horsford,,Steven Horsford,Mr. Horsford,117,D,D,NV,Nevada,4th,Las Vegas,CHOB,406,20515,2804,(202) 225-9894,20221108,20230107
 NY01,L000598,"LALOTA,NICK","LaLota, Nick",Mr.,Nick,,LaLota,,Nick LaLota,Mr. LaLota,0,R,R,NY,New York,1st,Suffolk County,LHOB,1530,20515,3201,(202) 225-3826,20221108,20230107
 NY02,G000597,"GARBARINO,ANDREW","Garbarino, Andrew",Mr.,Andrew,R.,Garbarino,,Andrew R. Garbarino,Mr. Garbarino,117,R,R,NY,New York,2nd,Bayport,RHOB,2344,20515,3202,(202) 225-7896,20221108,20230107
@@ -345,7 +345,7 @@ PA15,T000467,"THOMPSON,GLENN","Thompson, Glenn",Mr.,Glenn,,Thompson,,Glenn Thomp
 PA16,K000376,"KELLY,MIKE","Kelly, Mike",Mr.,Mike,,Kelly,,Mike Kelly,Mr. Kelly of Pennsylvania,117,R,R,PA,Pennsylvania,16th,Butler,LHOB,1707,20515,3816,(202) 225-5406,20221108,20230107
 PA17,D000530,"DELUZIO,CHRISTOPHER","Deluzio, Christopher",Mr.,Christopher,R.,Deluzio,,Christopher R. Deluzio,Mr. Deluzio,0,D,D,PA,Pennsylvania,17th,Aspinwall,LHOB,1222,20515,3817,(202) 225-2301,20221108,20230107
 PR00,G000582,"GONZALEZCOLON,JENNIFFER","González-Colón, Jenniffer",Mrs.,Jenniffer,,González-Colón,,Jenniffer González-Colón,Mrs. González-Colón,117,R,R,PR,Puerto Rico,Resident Commissioner,Carolina,RHOB,2338,20515,5401,(202) 225-2615,20221108,20230110
-RI01,C001084,"CICILLINE,DAVID","Cicilline, David",Mr.,David,N.,Cicilline,,David N. Cicilline,Mr. Cicilline,117,D,D,RI,Rhode Island,1st,Providence,RHOB,2233,20515,3901,(202) 225-4911,20221108,20230107
+RI01,,,,,,,,,,,0,,,RI,Rhode Island,1st,,RHOB,2233,20515,3901,(202) 225-4911,,
 RI02,M001223,"MAGAZINER,SETH","Magaziner, Seth",Mr.,Seth,,Magaziner,,Seth Magaziner,Mr. Magaziner,0,D,D,RI,Rhode Island,2nd,Cranston,LHOB,1218,20515,3902,(202) 225-2735,20221108,20230107
 SC01,M000194,"MACE,NANCY","Mace, Nancy",Ms.,Nancy,,Mace,,Nancy Mace,Ms. Mace,117,R,R,SC,South Carolina,1st,Charleston,LHOB,1728,20515,4001,(202) 225-3176,20221108,20230107
 SC02,W000795,"WILSON,JOE","Wilson, Joe",Mr.,Joe,,Wilson,,Joe Wilson,Mr. Wilson of South Carolina,117,R,R,SC,South Carolina,2nd,Springdale,LHOB,1436,20515,4002,(202) 225-2452,20221108,20230107
