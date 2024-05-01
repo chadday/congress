@@ -265,7 +265,7 @@ NJ06,P000034,"PALLONE,FRANK","Pallone, Frank",Mr.,Frank,,Pallone,Jr.,"Frank Pall
 NJ07,K000398,"KEAN,THOMAS","Kean, Thomas",Mr.,Thomas,H.,Kean,Jr.,"Thomas H. Kean, Jr.",Mr. Kean of New Jersey,0,R,R,NJ,New Jersey,7th,Westfield,CHOB,251,20515,3007,(202) 225-5361,20221108,20230107
 NJ08,M001226,"MENENDEZ,ROBERT","Menendez, Robert",Mr.,Robert,,Menendez,,Robert Menendez,Mr. Menendez,0,D,D,NJ,New Jersey,8th,Jersey City,LHOB,1007,20515,3008,(202) 225-7919,20221108,20230107
 NJ09,P000096,"PASCRELL,BILL","Pascrell, Bill",Mr.,Bill,,Pascrell,Jr.,"Bill Pascrell, Jr.",Mr. Pascrell,117,D,D,NJ,New Jersey,9th,Paterson,RHOB,2409,20515,3009,(202) 225-5751,20221108,20230107
-NJ10,P000604,"PAYNE,DONALD","Payne, Donald",Mr.,Donald,M.,Payne,Jr.,"Donald M. Payne, Jr.",Mr. Payne,117,D,D,NJ,New Jersey,10th,Newark,CHOB,106,20515,3010,(202) 225-3436,20221108,20230107
+NJ10,,,,,,,,,,,0,,,NJ,New Jersey,10th,,CHOB,106,20515,3010,(202) 225-3436,,
 NJ11,S001207,"SHERRILL,MIKIE","Sherrill, Mikie",Ms.,Mikie,,Sherrill,,Mikie Sherrill,Ms. Sherrill,117,D,D,NJ,New Jersey,11th,Montclair,LHOB,1427,20515,3011,(202) 225-5034,20221108,20230107
 NJ12,W000822,"WATSONCOLEMAN,BONNIE","Watson Coleman, Bonnie",Mrs.,Bonnie,,Watson Coleman,,Bonnie Watson Coleman,Mrs. Watson Coleman,117,D,D,NJ,New Jersey,12th,Ewing Township,CHOB,168,20515,3012,(202) 225-5801,20221108,20230107
 NM01,S001218,"STANSBURY,MELANIE","Stansbury, Melanie",Ms.,Melanie,A.,Stansbury,,Melanie A. Stansbury,Ms. Stansbury,117,D,D,NM,New Mexico,1st,Albuquerque,LHOB,1421,20515,3101,(202) 225-6316,20221108,20230107
@@ -436,7 +436,7 @@ WI04,M001160,"MOORE,GWEN","Moore, Gwen",Ms.,Gwen,,Moore,,Gwen Moore,Ms. Moore of
 WI05,F000471,"FITZGERALD,SCOTT","Fitzgerald, Scott",Mr.,Scott,,Fitzgerald,,Scott Fitzgerald,Mr. Fitzgerald,117,R,R,WI,Wisconsin,5th,Clyman,LHOB,1507,20515,4905,(202) 225-5101,20221108,20230107
 WI06,G000576,"GROTHMAN,GLENN","Grothman, Glenn",Mr.,Glenn,,Grothman,,Glenn Grothman,Mr. Grothman,117,R,R,WI,Wisconsin,6th,Glenbeulah,LHOB,1511,20515,4906,(202) 225-2476,20221108,20230107
 WI07,T000165,"TIFFANY,THOMAS","Tiffany, Thomas",Mr.,Thomas,P.,Tiffany,,Thomas P. Tiffany,Mr. Tiffany,117,R,R,WI,Wisconsin,7th,Minocqua,CHOB,451,20515,4907,(202) 225-3365,20221108,20230107
-WI08,G000579,"GALLAGHER,MIKE","Gallagher, Mike",Mr.,Mike,,Gallagher,,Mike Gallagher,Mr. Gallagher,117,R,R,WI,Wisconsin,8th,Green Bay,LHOB,1211,20515,4908,(202) 225-5665,20221108,20230107
+WI08,,,,,,,,,,,0,,,WI,Wisconsin,8th,,LHOB,1211,20515,4908,(202) 225-5665,,
 WV01,M001205,"MILLER,CAROL","Miller, Carol",Mrs.,Carol,D.,Miller,,Carol D. Miller,Mrs. Miller of West Virginia,117,R,R,WV,West Virginia,1st,Huntington,CHOB,465,20515,4801,(202) 225-3452,20221108,20230107
 WV02,M001195,"MOONEY,ALEXANDER","Mooney, Alexander",Mr.,Alexander,X.,Mooney,,Alexander X. Mooney,Mr. Mooney,117,R,R,WV,West Virginia,2nd,Charles Town,RHOB,2228,20515,4802,(202) 225-2711,20221108,20230107
 WY00,H001096,"HAGEMAN,HARRIET","Hageman, Harriet",Ms.,Harriet,M.,Hageman,,Harriet M. Hageman,Ms. Hageman,0,R,R,WY,Wyoming,At Large,Cheyenne,LHOB,1531,20515,5000,(202) 225-2311,20221108,20230107
