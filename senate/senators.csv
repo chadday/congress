@@ -4,7 +4,7 @@ WY,B001261,S317,John,Barrasso,,R,Casper,307 Dirksen,1
 CO,B001267,S330,Michael F.,Bennet,,D,Denver,261 Russell,1
 TN,B001243,S396,Marsha,Blackburn,,R,Brentwood,357 Dirksen,1
 CT,B001277,S341,Richard,Blumenthal,,D,Greenwich,706 Hart,1
-NJ,B001288,S370,Cory A.,Booker,,D,Newark,717 Hart,2
+NJ,B001288,S370,Cory A.,Booker,,D,Newark,717 Hart,1
 AR,B001236,S343,John,Boozman,,R,Rogers,555 Dirksen,1
 IN,B001310,S397,Mike,Braun,,R,Jasper,404 Russell,2
 AL,B001319,S416,Katie Boyd,Britt,,R,Montgomery,502 Hart,2
@@ -56,7 +56,6 @@ WV,M001183,S338,Joe,Manchin,III,I,Charleston,306 Hart,1
 MA,M000133,S369,Edward J.,Markey,,D,Malden,255 Dirksen,2
 KS,M001198,S411,Roger,Marshall,,R,Great Bend,479A Russell,2
 KY,M000355,S174,Mitch,McConnell,,R,Louisville,317 Russell,1
-NJ,M000639,S306,Robert,Menendez,,D,Englewood Cliffs,528 Hart,1
 OR,M001176,S322,Jeff,Merkley,,D,Portland,531 Hart,2
 KS,M000934,S347,Jerry,Moran,,R,Manhattan,521 Dirksen,1
 OK,M001190,S419,Markwayne,Mullin,,R,Westville,330 Hart,2
