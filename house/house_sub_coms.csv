@@ -2,9 +2,9 @@ subcode,subcomname,parent_com,parent_com_code,building,room,phone,majority,minor
 AG03,"Nutrition, Foreign Agriculture, and Horticulture",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,10
 AG14,"Conservation, Research, and Biotechnology",Committee on Agriculture,AG00,LHOB,1301,225-2171,8,7
 AG15,Forestry,Committee on Agriculture,AG00,LHOB,1301,225-2171,5,4
-AG16,"General Farm Commodities, Risk Management, and Credit",Committee on Agriculture,AG00,LHOB,1301,225-2171,14,11
-AG22,"Commodity Markets, Digital Assets, and Rural Development",Committee on Agriculture,AG00,LHOB,1301,225-2171,12,11
-AG29,"Livestock, Dairy, and Poultry",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,10
+AG16,"General Farm Commodities, Risk Management, and Credit",Committee on Agriculture,AG00,LHOB,1301,225-2171,14,10
+AG22,"Commodity Markets, Digital Assets, and Rural Development",Committee on Agriculture,AG00,LHOB,1301,225-2171,12,10
+AG29,"Livestock, Dairy, and Poultry",Committee on Agriculture,AG00,LHOB,1301,225-2171,11,8
 AP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",Committee on Appropriations,AP00,RHOB,2362A,225-2638,9,6
 AP02,Defense,Committee on Appropriations,AP00,C,H405,225-2847,10,7
 AP04,"State, Foreign Operations, and Related Programs",Committee on Appropriations,AP00,C,HT2,225-2041,7,4
