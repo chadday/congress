@@ -10,7 +10,6 @@ IN,B001310,S397,Mike,Braun,,R,Jasper,404 Russell,2
 AL,B001319,S416,Katie Boyd,Britt,,R,Montgomery,502 Hart,2
 OH,B000944,S307,Sherrod,Brown,,D,Cleveland,503 Hart,1
 NC,B001305,S417,Ted,Budd,,R,Advance,304 Russell,2
-CA,B001320,S424,Laphonza R.,Butler,,D,Los Angeles,112 Hart,2
 WA,C000127,S275,Maria,Cantwell,,D,Edmonds,511 Hart,2
 WV,C001047,S372,Shelley Moore,Capito,,R,Charleston,170 Russell,2
 MD,C000141,S308,Benjamin L.,Cardin,,D,Baltimore,509 Hart,1
@@ -38,7 +37,6 @@ TN,H000601,S407,Bill,Hagerty,,R,Nashville,251 Russell,2
 NH,H001076,S388,Margaret Wood,Hassan,,D,Newfields,324 Hart,2
 MO,H001089,S399,Josh,Hawley,,R,Springfield,115 Russell,1
 NM,H001046,S359,Martin,Heinrich,,D,Albuquerque,709 Hart,1
-NJ,H001097,S425,George S.,Helmy,,D,Mountain Lakes,528 Hart,2
 CO,H000273,S408,John W.,Hickenlooper,,D,Denver,374 Russell,2
 HI,H001042,S361,Mazie K.,Hirono,,D,Honolulu,109 Hart,2
 ND,H001061,S344,John,Hoeven,,R,Bismarck,338 Russell,1
@@ -47,6 +45,7 @@ WI,J000293,S345,Ron,Johnson,,R,Oshkosh,328 Hart,1
 VA,K000384,S362,Tim,Kaine,,D,Richmond,231 Russell,2
 AZ,K000377,S406,Mark,Kelly,,D,Tucson,516 Hart,2
 LA,K000393,S389,John,Kennedy,,R,Madisonville,437 Russell,2
+NJ,K000394,S426,Andy,Kim,,D,Moorestown,B40D Dirksen,2
 ME,K000383,S363,Angus S.,King,Jr.,I,Brunswick,133 Hart,2
 MN,K000367,S311,Amy,Klobuchar,,D,Minneapolis,425 Dirksen,1
 OK,L000575,S378,James,Lankford,,R,Oklahoma City,316 Hart,1
@@ -76,6 +75,7 @@ SD,R000605,S381,Mike,Rounds,,R,Fort Pierre,716 Hart,2
 FL,R000595,S350,Marco,Rubio,,R,Miami,284 Russell,1
 VT,S000033,S313,Bernard,Sanders,,I,Burlington,332 Dirksen,1
 HI,S001194,S353,Brian,Schatz,,D,Honolulu,722 Hart,1
+CA,S001150,S427,Adam B.,Schiff,,D,Burbank,B40B Dirksen,2
 MO,S001227,S420,Eric,Schmitt,,R,Glendale,387 Russell,2
 NY,S000148,S270,Charles E.,Schumer,,D,Brooklyn,322 Hart,1
 FL,S001217,S404,Rick,Scott,,R,Naples,110 Hart,2
