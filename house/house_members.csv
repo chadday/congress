@@ -50,7 +50,7 @@ CA26,B001285,"BROWNLEY,JULIA","Brownley, Julia",Ms.,Julia,,Brownley,,Julia Brown
 CA27,G000061,"GARCIA,MIKE","Garcia, Mike",Mr.,Mike,,Garcia,,Mike Garcia,Mr. Mike Garcia of California,117,R,R,CA,California,27th,Santa Clarita,CHOB,144,20515,0527,(202) 225-1956,20221108,20230107
 CA28,C001080,"CHU,JUDY","Chu, Judy",Ms.,Judy,,Chu,,Judy Chu,Ms. Chu,117,D,D,CA,California,28th,Monterey Park,RHOB,2423,20515,0528,(202) 225-5464,20221108,20230107
 CA29,C001097,"CARDENAS,TONY","Cárdenas, Tony",Mr.,Tony,,Cárdenas,,Tony Cárdenas,Mr. Cárdenas,117,D,D,CA,California,29th,Pacoima,RHOB,2181,20515,0529,(202) 225-6131,20221108,20230107
-CA30,S001150,"SCHIFF,ADAM","Schiff, Adam",Mr.,Adam,B.,Schiff,,Adam B. Schiff,Mr. Schiff,117,D,D,CA,California,30th,Burbank,RHOB,2309,20515,0530,(202) 225-4176,20221108,20230107
+CA30,,,,,,,,,,,0,,,CA,California,30th,,RHOB,2309,20515,0530,(202) 225-4176,,
 CA31,N000179,"NAPOLITANO,GRACE","Napolitano, Grace",Mrs.,Grace,F.,Napolitano,,Grace F. Napolitano,Mrs. Napolitano,117,D,D,CA,California,31st,Norwalk,LHOB,1610,20515,0531,(202) 225-5256,20221108,20230107
 CA32,S000344,"SHERMAN,BRAD","Sherman, Brad",Mr.,Brad,,Sherman,,Brad Sherman,Mr. Sherman,117,D,D,CA,California,32nd,Sherman Oaks,RHOB,2365,20515,0532,(202) 225-5911,20221108,20230107
 CA33,A000371,"AGUILAR,PETE","Aguilar, Pete",Mr.,Pete,,Aguilar,,Pete Aguilar,Mr. Aguilar,117,D,D,CA,California,33rd,Redlands,CHOB,108,20515,0533,(202) 225-3201,20221108,20230107
@@ -250,7 +250,7 @@ NC11,E000246,"EDWARDS,CHUCK","Edwards, Chuck",Mr.,Chuck,,Edwards,,Chuck Edwards,
 NC12,A000370,"ADAMS,ALMA","Adams, Alma",Ms.,Alma,S.,Adams,,Alma S. Adams,Ms. Adams,117,D,D,NC,North Carolina,12th,Charlotte,RHOB,2436,20515,3312,(202) 225-1510,20221108,20230107
 NC13,N000194,"NICKEL,WILEY","Nickel, Wiley",Mr.,Wiley,,Nickel,,Wiley Nickel,Mr. Nickel,0,D,D,NC,North Carolina,13th,Cary,LHOB,1133,20515,3313,(202) 225-4531,20221108,20230107
 NC14,J000308,"JACKSON,JEFF","Jackson, Jeff",Mr.,Jeff,,Jackson,,Jeff Jackson,Mr. Jackson of North Carolina,0,D,D,NC,North Carolina,14th,Charlotte,LHOB,1318,20515,0001,(202) 225-5634,20221108,20230107
-ND00,A000377,"ARMSTRONG,KELLY","Armstrong, Kelly",Mr.,Kelly,,Armstrong,,Kelly Armstrong,Mr. Armstrong,117,R,R,ND,North Dakota,At Large,Bismarck,RHOB,2235,20515,3400,(202) 225-2611,20221108,20230107
+ND00,,,,,,,,,,,0,,,ND,North Dakota,At Large,,RHOB,2235,20515,3400,(202) 225-2611,,
 NE01,F000474,"FLOOD,MIKE","Flood, Mike",Mr.,Mike,,Flood,,Mike Flood,Mr. Flood,117,R,R,NE,Nebraska,1st,Norfolk,CHOB,343,20515,2701,(202) 225-4806,20221108,20230107
 NE02,B001298,"BACON,DON","Bacon, Don",Mr.,Don,,Bacon,,Don Bacon,Mr. Bacon,117,R,R,NE,Nebraska,2nd,Papillion,RHOB,2104,20515,2702,(202) 225-4155,20221108,20230107
 NE03,S001172,"SMITH,ADRIAN","Smith, Adrian",Mr.,Adrian,,Smith,,Adrian Smith,Mr. Smith of Nebraska,117,R,R,NE,Nebraska,3rd,Gering,CHOB,502,20515,2703,(202) 225-6435,20221108,20230107
@@ -258,7 +258,7 @@ NH01,P000614,"PAPPAS,CHRIS","Pappas, Chris",Mr.,Chris,,Pappas,,Chris Pappas,Mr. 
 NH02,K000382,"KUSTER,ANN","Kuster, Ann",Ms.,Ann,M.,Kuster,,Ann M. Kuster,Ms. Kuster,117,D,D,NH,New Hampshire,2nd,Hopkinton,RHOB,2201,20515,2902,(202) 225-5206,20221108,20230107
 NJ01,N000188,"NORCROSS,DONALD","Norcross, Donald",Mr.,Donald,,Norcross,,Donald Norcross,Mr. Norcross,117,D,D,NJ,New Jersey,1st,Camden City,RHOB,2427,20515,3001,(202) 225-6501,20221108,20230107
 NJ02,V000133,"VANDREW,JEFFERSON","Van Drew, Jefferson",Mr.,Jefferson,,Van Drew,,Jefferson Van Drew,Mr. Van Drew,117,R,R,NJ,New Jersey,2nd,Dennis Township,RHOB,2447,20515,3002,(202) 225-6572,20221108,20230107
-NJ03,K000394,"KIM,ANDY","Kim, Andy",Mr.,Andy,,Kim,,Andy Kim,Mr. Kim of New Jersey,117,D,D,NJ,New Jersey,3rd,Moorestown,RHOB,2444,20515,3003,(202) 225-4765,20221108,20230107
+NJ03,,,,,,,,,,,0,,,NJ,New Jersey,3rd,,RHOB,2444,20515,3003,(202) 225-4765,,
 NJ04,S000522,"SMITH,CHRISTOPHER","Smith, Christopher",Mr.,Christopher,H.,Smith,,Christopher H. Smith,Mr. Smith of New Jersey,117,R,R,NJ,New Jersey,4th,Manchester,RHOB,2373,20515,3004,(202) 225-3765,20221108,20230107
 NJ05,G000583,"GOTTHEIMER,JOSH","Gottheimer, Josh",Mr.,Josh,,Gottheimer,,Josh Gottheimer,Mr. Gottheimer,117,D,D,NJ,New Jersey,5th,Wyckoff,CHOB,203,20515,3005,(202) 225-4465,20221108,20230107
 NJ06,P000034,"PALLONE,FRANK","Pallone, Frank",Mr.,Frank,,Pallone,Jr.,"Frank Pallone, Jr.",Mr. Pallone,117,D,D,NJ,New Jersey,6th,Long Branch,RHOB,2107,20515,3006,(202) 225-4671,20221108,20230107
