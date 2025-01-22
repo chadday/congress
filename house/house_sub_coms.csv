@@ -30,10 +30,10 @@ BA10,"National Security, Illicit Finance, and  International Financial Instituti
 BA16,Capital Markets,Committee on Financial Services,BA00,RHOB,2129,225-7502,13,10
 BA20,Financial Institutions and Monetary Policy,Committee on Financial Services,BA00,RHOB,2129,225-7502,13,10
 BA21,"Digital Assets, Financial Technology and Inclusion",Committee on Financial Services,BA00,RHOB,2129,225-7502,10,8
-ED02,"Health, Employment, Labor, and Pensions",Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,12,10
-ED10,Workforce Protections,Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,6,4
-ED13,Higher Education and Workforce Development,Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,13,11
-ED14,"Early Childhood, Elementary, and Secondary Education",Committee on Education and the Workforce,ED00,RHOB,2176,225-4527,10,8
+ED02,"Health, Employment, Labor, and Pensions",Committee on Education and Workforce,ED00,RHOB,2176,225-4527,12,10
+ED10,Workforce Protections,Committee on Education and Workforce,ED00,RHOB,2176,225-4527,6,4
+ED13,Higher Education and Workforce Development,Committee on Education and Workforce,ED00,RHOB,2176,225-4527,13,11
+ED14,"Early Childhood, Elementary, and Secondary Education",Committee on Education and Workforce,ED00,RHOB,2176,225-4527,10,8
 FA05,Indo-Pacific,Committee on Foreign Affairs,FA00,RHOB,2170,000-0000,8,6
 FA06,"Global Health, Global Human Rights, and International Organizations",Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,6,4
 FA07,Western Hemisphere,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,6,4
@@ -41,11 +41,11 @@ FA13,"Middle East, North Africa, and Central Asia",Committee on Foreign Affairs,
 FA14,Europe,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,8,6
 FA16,Africa,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,6,4
 FA17,Oversight and Accountability,Committee on Foreign Affairs,FA00,RHOB,2170,226-8467,8,6
-GO05,"Economic Growth, Energy Policy, and Regulatory Affairs",Committee on Oversight and Accountability,GO00,RHOB,2157,225-5074,9,7
-GO06,"National Security, the Border, and Foreign Affairs",Committee on Oversight and Accountability,GO00,RHOB,2157,225-5074,11,9
-GO12,"Cybersecurity, Information Technology, and Government Innovation",Committee on Oversight and Accountability,GO00,RHOB,2157,225-5074,9,7
-GO24,Government Operations and the Federal Workforce,Committee on Oversight and Accountability,GO00,RHOB,2157,225-5074,12,10
-GO27,Health Care and Financial Services,Committee on Oversight and Accountability,GO00,RHOB,2157,225-5074,9,7
+GO05,"Economic Growth, Energy Policy, and Regulatory Affairs",Committee on Oversight and Government Reform,GO00,RHOB,2157,225-5074,9,7
+GO06,"National Security, the Border, and Foreign Affairs",Committee on Oversight and Government Reform,GO00,RHOB,2157,225-5074,11,9
+GO12,"Cybersecurity, Information Technology, and Government Innovation",Committee on Oversight and Government Reform,GO00,RHOB,2157,225-5074,9,7
+GO24,Government Operations and the Federal Workforce,Committee on Oversight and Government Reform,GO00,RHOB,2157,225-5074,12,10
+GO27,Health Care and Financial Services,Committee on Oversight and Government Reform,GO00,RHOB,2157,225-5074,9,7
 HA06,Oversight,Committee on House Administration,HA00,LHOB,1309,225-8281,4,2
 HA08,Elections,Committee on House Administration,HA00,LHOB,1309,225-8281,4,2
 HA27,Modernization,Committee on House Administration,HA00,LHOB,1309,225-8281,2,2

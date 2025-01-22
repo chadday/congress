@@ -1,28 +1,25 @@
 comcode,comtype,comname,majority,minority,building,room,phone
 AG00,standing,Committee on Agriculture,29,25,LHOB,1301,225-2171
-AP00,standing,Committee on Appropriations,34,27,C,H307,225-2771
-AS00,standing,Committee on Armed Services,31,28,RHOB,2216,225-4151
-BA00,standing,Committee on Financial Services,29,23,RHOB,2129,225-7502
+AP00,standing,Committee on Appropriations,35,28,C,H307,225-2771
+AS00,standing,Committee on Armed Services,30,27,RHOB,2216,225-4151
+BA00,standing,Committee on Financial Services,30,24,RHOB,2129,225-7502
 BU00,standing,Committee on the Budget,21,16,CHOB,204,226-7270
-ED00,standing,Committee on Education and the Workforce,25,20,RHOB,2176,225-4527
+ED00,standing,Committee on Education and Workforce,21,16,RHOB,2176,225-4527
 FA00,standing,Committee on Foreign Affairs,28,25,RHOB,2170,226-8467
-GO00,standing,Committee on Oversight and Accountability,26,21,RHOB,2157,225-5074
+GO00,standing,Committee on Oversight and Government Reform,26,21,RHOB,2157,225-5074
 HA00,standing,Committee on House Administration,8,4,LHOB,1309,225-8281
 HM00,standing,Committee on Homeland Security,18,15,FHOB,176,226-8417
-IF00,standing,Committee on Energy and Commerce,29,23,RHOB,2125,225-3641
+IF00,standing,Committee on Energy and Commerce,30,24,RHOB,2125,225-3641
 II00,standing,Committee on Natural Resources,25,20,LHOB,1324A,225-2761
 JU00,standing,Committee on the Judiciary,25,19,RHOB,2138,225-6906
-PW00,standing,Committee on Transportation and Infrastructure,35,30,RHOB,2165,225-9446
+PW00,standing,Committee on Transportation and Infrastructure,36,31,RHOB,2165,225-9446
 RU00,standing,Committee on Rules,9,4,C,H312,225-9191
 SM00,standing,Committee on Small Business,15,12,RHOB,2361,225-5821
 SO00,standing,Committee on Ethics,5,5,LHOB,1015,225-7103
 SY00,standing,"Committee on Science, Space, and Technology",22,18,RHOB,2321,225-6371
 VR00,standing,Committee on Veterans' Affairs,14,11,CHOB,364,225-3527
-WM00,standing,Committee on Ways and Means,25,18,LHOB,1139,225-3625
-ZT00,standing,Task Force on the Attempted Assassination of Donald J. Trump,7,6,OHOB,4440,(771) 245-4408
+WM00,standing,Committee on Ways and Means,26,19,LHOB,1139,225-3625
 IG00,select,Permanent Select Committee on Intelligence,14,11,C,HVC304,225-4121
-FD00,select,Select Subcommittee on the Weaponization of the Federal Government,12,9,RHOB,2138,225-6906
-VC00,select,Select Subcommittee on the Coronavirus Pandemic,9,7,RHOB,2157,225-5074
 ZS00,select,Select Committee on the  Strategic Competition Between the United States and the Chinese Communist Party,13,11,CHOB,548,226-9678
 EC00,joint,Joint Economic Committee,0,0,DSOB,SD-G01,224-5171
 IT00,joint,Joint Committee on Taxation,0,0,FHOB,502,225-3621
