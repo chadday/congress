@@ -5,7 +5,7 @@ IN,B001299,S429,Jim,Banks,,R,Columbia City,B85 Russell,2
 WY,B001261,S317,John,Barrasso,,R,Casper,307 Dirksen,1
 CO,B001267,S330,Michael F.,Bennet,,D,Denver,261 Russell,1
 TN,B001243,S396,Marsha,Blackburn,,R,Brentwood,357 Dirksen,1
-CT,B001277,S341,Richard,Blumenthal,,D,Greenwich,706 Hart,1
+CT,B001277,S341,Richard,Blumenthal,,D,Greenwich,503 Hart,1
 DE,B001303,S430,Lisa,Blunt Rochester,,D,Wilmington,B40A Dirksen,2
 NJ,B001288,S370,Cory A.,Booker,,D,Newark,717 Hart,1
 AR,B001236,S343,John,Boozman,,R,Rogers,555 Dirksen,1
@@ -40,6 +40,7 @@ NM,H001046,S359,Martin,Heinrich,,D,Albuquerque,709 Hart,1
 CO,H000273,S408,John W.,Hickenlooper,,D,Denver,374 Russell,2
 HI,H001042,S361,Mazie K.,Hirono,,D,Honolulu,109 Hart,2
 ND,H001061,S344,John,Hoeven,,R,Bismarck,338 Russell,1
+OH,H001104,S438,Jon,Husted,,R,Upper Arlington,198 Russell,2
 MS,H001079,S395,Cindy,Hyde-Smith,,R,Brookhaven,702 Hart,2
 WI,J000293,S345,Ron,Johnson,,R,Oshkosh,328 Hart,1
 WV,J000312,S437,James C.,Justice,,R,Lewisburg,G12 Dirksen,2
@@ -58,6 +59,7 @@ KS,M001198,S411,Roger,Marshall,,R,Great Bend,479A Russell,2
 KY,M000355,S174,Mitch,McConnell,,R,Louisville,317 Russell,1
 PA,M001243,S433,David,McCormick,,R,Pittsburgh,B40C Dirksen,2
 OR,M001176,S322,Jeff,Merkley,,D,Portland,531 Hart,2
+FL,M001244,S439,Ashley,Moody,,R,Tampa,B40B Dirksen,2
 KS,M000934,S347,Jerry,Moran,,R,Manhattan,521 Dirksen,1
 OH,M001242,S434,Bernie,Moreno,,R,Westlake,B33 Russell,1
 OK,M001190,S419,Markwayne,Mullin,,R,Westville,330 Hart,2
@@ -91,7 +93,7 @@ AL,T000278,S412,Tommy,Tuberville,,R,Auburn,455 Russell,1
 MD,V000128,S390,Chris,Van Hollen,,D,Kensington,730 Hart,1
 VA,W000805,S327,Mark R.,Warner,,D,Alexandria,703 Hart,1
 GA,W000790,S415,Raphael G.,Warnock,,D,Atlanta,416 Russell,2
-MA,W000817,S366,Elizabeth,Warren,,D,Cambridge,309 Hart,1
+MA,W000817,S366,Elizabeth,Warren,,D,Cambridge,311 Hart,1
 VT,W000800,S422,Peter,Welch,,D,Norwich,124 Russell,2
 RI,W000802,S316,Sheldon,Whitehouse,,D,Newport,530 Hart,2
 MS,W000437,S318,Roger F.,Wicker,,R,Tupelo,425 Russell,1
