@@ -19,11 +19,11 @@ AP23,Financial Services and General Government,Committee on Appropriations,AP00,
 AP24,Legislative Branch,Committee on Appropriations,AP00,C,HT2,226-7252,5,3
 AS02,Military Personnel,Committee on Armed Services,AS00,RHOB,2216,225-4151,8,6
 AS03,Readiness,Committee on Armed Services,AS00,RHOB,2216,225-4151,10,9
-AS25,Tactical Air and Land Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,10,7
+AS25,Tactical Air and Land Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,11,8
 AS26,Intelligence and Special Operations,Committee on Armed Services,AS00,RHOB,2216,225-4151,9,7
 AS28,Seapower and Projection Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,10,8
-AS29,Strategic Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,8,6
-AS35,"Cyber, Information Technologies, and  Innovation",Committee on Armed Services,AS00,RHOB,2216,225-4151,10,8
+AS29,Strategic Forces,Committee on Armed Services,AS00,RHOB,2216,225-4151,9,6
+AS35,"Cyber, Information Technologies, and  Innovation",Committee on Armed Services,AS00,RHOB,2216,225-4151,10,9
 BA04,Housing and Insurance,Committee on Financial Services,BA00,RHOB,2129,225-7502,10,9
 BA09,Oversight and Investigations,Committee on Financial Services,BA00,RHOB,2129,225-7502,7,5
 BA10,"National Security, Illicit Finance, and  International Financial Institutions",Committee on Financial Services,BA00,RHOB,2129,225-7502,10,8
@@ -56,12 +56,12 @@ HM08,Cybersecurity and Infrastructure Protection,Committee on Homeland Security,
 HM09,"Oversight, Investigations, and Accountability",Committee on Homeland Security,HM00,FHOB,176,226-8417,5,2
 HM11,Border Security and Enforcement,Committee on Homeland Security,HM00,FHOB,176,226-8417,6,3
 HM12,Emergency Management and Technology,Committee on Homeland Security,HM00,FHOB,176,226-8417,4,3
-IF02,Oversight and Investigations,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,10,8
-IF03,Energy,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,18,14
-IF14,Health,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,18,14
-IF16,Communications and Technology,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,17,14
-IF17,"Commerce, Manufacturing, and Trade",Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,14,11
-IF18,Environment,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,14,11
+IF02,Oversight and Investigations,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,9,7
+IF03,Energy,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,17,13
+IF14,Health,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,17,13
+IF16,Communications and Technology,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,16,13
+IF17,"Commerce, Manufacturing, and Trade",Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,13,10
+IF18,Environment,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,13,10
 II06,Energy and Mineral Resources,Committee on Natural Resources,II00,LHOB,1333,225-9297,14,12
 II10,Federal Lands,Committee on Natural Resources,II00,LHOB,1329,226-7736,9,7
 II13,"Water, Wildlife and Fisheries",Committee on Natural Resources,II00,LHOB,1522,225-8331,14,12
@@ -73,8 +73,8 @@ JU05,"The Administrative State, Regulatory Reform, and Antitrust",Committee on t
 JU08,Crime and Federal Government Surveillance,Committee on the Judiciary,JU00,RHOB,2138,225-6906,7,5
 JU10,The Constitution and Limited Government,Committee on the Judiciary,JU00,RHOB,2138,225-6906,9,7
 JU13,Oversight,Committee on the Judiciary,JU00,RHOB,2138,225-6906,5,3
-PW02,Water Resources and Environment,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,19,15
-PW05,Aviation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,22,19
+PW02,Water Resources and Environment,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,18,15
+PW05,Aviation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,21,18
 PW07,Coast Guard and Maritime Transportation,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,7,6
 PW12,Highways and Transit,Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,28,25
 PW13,"Economic Development, Public Buildings, and Emergency Management",Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,8,7
