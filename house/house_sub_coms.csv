@@ -53,7 +53,7 @@ HA27,Modernization and Innovation,Committee on House Administration,HA00,LHOB,13
 HM05,Counterterrorism and Intelligence,Committee on Homeland Security,HM00,FHOB,176,226-8417,6,5
 HM07,Transportation and Maritime Security,Committee on Homeland Security,HM00,FHOB,176,226-8417,4,3
 HM08,Cybersecurity and Infrastructure Protection,Committee on Homeland Security,HM00,FHOB,176,226-8417,5,4
-HM09,"Oversight, Investigations, and Accountability",Committee on Homeland Security,HM00,FHOB,176,226-8417,5,2
+HM09,"Oversight, Investigations, and Accountability",Committee on Homeland Security,HM00,FHOB,176,226-8417,5,4
 HM11,Border Security and Enforcement,Committee on Homeland Security,HM00,FHOB,176,226-8417,6,3
 HM12,Emergency Management and Technology,Committee on Homeland Security,HM00,FHOB,176,226-8417,4,3
 IF02,Oversight and Investigations,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,9,7
@@ -102,9 +102,9 @@ WM03,Work and Welfare,Committee on Ways and Means,WM00,LHOB,1139,225-9263,8,5
 WM04,Trade,Committee on Ways and Means,WM00,LHOB,1139,225-6649,12,9
 WM05,Tax,Committee on Ways and Means,WM00,LHOB,1139,225-5522,11,8
 WM06,Oversight,Committee on Ways and Means,WM00,LHOB,1139,225-3625,8,5
-IG01,Central Intelligence Agency,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,2,1
-IG02,National Security Agency and Cyber,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,1,1
-IG04,Defense Intelligence and Overhead Architecture,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,1,1
-IG06,National Intelligence Enterprise,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,1,1
+IG01,Central Intelligence Agency,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
+IG02,National Security Agency and Cyber,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
+IG04,Defense Intelligence and Overhead Architecture,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
+IG06,National Intelligence Enterprise,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,6,4
 IG09,Oversight and Investigations,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,1,1
-IG11,Open Source Intelligence,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,1,1
+IG11,Open Source Intelligence,Permanent Select Committee on Intelligence,IG00,C,HVC304,225-4121,5,4
