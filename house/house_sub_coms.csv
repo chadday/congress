@@ -54,7 +54,7 @@ HM05,Counterterrorism and Intelligence,Committee on Homeland Security,HM00,FHOB,
 HM07,Transportation and Maritime Security,Committee on Homeland Security,HM00,FHOB,176,226-8417,4,3
 HM08,Cybersecurity and Infrastructure Protection,Committee on Homeland Security,HM00,FHOB,176,226-8417,5,4
 HM09,"Oversight, Investigations, and Accountability",Committee on Homeland Security,HM00,FHOB,176,226-8417,5,4
-HM11,Border Security and Enforcement,Committee on Homeland Security,HM00,FHOB,176,226-8417,6,3
+HM11,Border Security and Enforcement,Committee on Homeland Security,HM00,FHOB,176,226-8417,6,5
 HM12,Emergency Management and Technology,Committee on Homeland Security,HM00,FHOB,176,226-8417,4,3
 IF02,Oversight and Investigations,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,9,7
 IF03,Energy,Committee on Energy and Commerce,IF00,RHOB,2125,225-3641,17,13
@@ -81,8 +81,8 @@ PW13,"Economic Development, Public Buildings, and Emergency Management",Committe
 PW14,"Railroads, Pipelines, and Hazardous Materials",Committee on Transportation and Infrastructure,PW00,RHOB,2165,225-9446,17,14
 RU02,Legislative and Budget Process,Committee on Rules,RU00,C,H312,225-9191,4,2
 RU04,Rules and Organization of the House,Committee on Rules,RU00,C,H312,225-9191,4,2
-SM21,"Rural Development, Energy, and Supply Chains",Committee on Small Business,SM00,RHOB,2361,225-5821,5,5
-SM22,"Innovation, Entrepreneurship, and Workforce Development",Committee on Small Business,SM00,RHOB,2361,225-5821,5,5
+SM21,"Rural Development, Energy, and Supply Chains",Committee on Small Business,SM00,RHOB,2361,225-5821,6,5
+SM22,"Innovation, Entrepreneurship, and Workforce Development",Committee on Small Business,SM00,RHOB,2361,225-5821,6,5
 SM23,Contracting and Infrastructure,Committee on Small Business,SM00,RHOB,2361,225-5821,5,5
 SM24,"Oversight, Investigations, and Regulations",Committee on Small Business,SM00,RHOB,2361,225-5821,5,5
 SM27,"Economic Growth, Tax, and Capital Access",Committee on Small Business,SM00,RHOB,2361,225-5821,5,5
