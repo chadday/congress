@@ -209,7 +209,7 @@ MI06,D000624,"DINGELL,DEBBIE","Dingell, Debbie",Mrs.,Debbie,,Dingell,,Debbie Din
 MI07,B001321,"BARRETT,TOM","Barrett, Tom",Mr.,Tom,,Barrett,,Tom Barrett,Mr. Barrett,0,R,R,MI,Michigan,7th,Charlotte,LHOB,1232,20515,2207,(202) 225-4872,20241105,20250103
 MI08,M001237,"MCDONALDRIVET,KRISTEN","McDonald Rivet, Kristen",Ms.,Kristen,,McDonald Rivet,,Kristen McDonald Rivet,Ms. McDonald Rivet,0,D,D,MI,Michigan,8th,Bay City,LHOB,1408,20515,2208,(202) 225-3611,20241105,20250103
 MI09,M001136,"MCCLAIN,LISA","McClain, Lisa",Mrs.,Lisa,C.,McClain,,Lisa C. McClain,Mrs. McClain,118,R,R,MI,Michigan,9th,Bruce,CHOB,562,20515,2209,(202) 225-2106,20241105,20250103
-MI10,J000307,"JAMES,JOHN","James, John",Mr.,John,,James,,John James,Mr. James,118,R,R,MI,Michigan,10th,Farmington Hills,LHOB,1519,20515,2210,(202) 225-4961,20241105,20250103
+MI10,J000307,"JAMES,JOHN","James, John",Mr.,John,,James,,John James,Mr. James,118,R,R,MI,Michigan,10th,Shelby Township,LHOB,1519,20515,2210,(202) 225-4961,20241105,20250103
 MI11,S001215,"STEVENS,HALEY","Stevens, Haley",Ms.,Haley,M.,Stevens,,Haley M. Stevens,Ms. Stevens,118,D,D,MI,Michigan,11th,Birmingham,RHOB,2411,20515,2211,(202) 225-8171,20241105,20250103
 MI12,T000481,"TLAIB,RASHIDA","Tlaib, Rashida",Ms.,Rashida,,Tlaib,,Rashida Tlaib,Ms. Tlaib,118,D,D,MI,Michigan,12th,Detroit,RHOB,2438,20515,2212,(202) 225-5126,20241105,20250103
 MI13,T000488,"THANEDAR,SHRI","Thanedar, Shri",Mr.,Shri,,Thanedar,,Shri Thanedar,Mr. Thanedar,118,D,D,MI,Michigan,13th,Detroit,CHOB,154,20515,2213,(202) 225-5802,20241105,20250103
@@ -361,7 +361,7 @@ TN03,F000459,"FLEISCHMANN,CHARLES","Fleischmann, Charles",Mr.,Charles,"J. ""Chuc
 TN04,D000616,"DESJARLAIS,SCOTT","DesJarlais, Scott",Mr.,Scott,,DesJarlais,,Scott DesJarlais,Mr. DesJarlais,118,R,R,TN,Tennessee,4th,Sherwood,RHOB,2304,20515,4204,(202) 225-6831,20241105,20250103
 TN05,O000175,"OGLES,ANDREW","Ogles, Andrew",Mr.,Andrew,,Ogles,,Andrew Ogles,Mr. Ogles,118,R,R,TN,Tennessee,5th,Columbia,CHOB,151,20515,4205,(202) 225-4311,20241105,20250103
 TN06,R000612,"ROSE,JOHN","Rose, John",Mr.,John,W.,Rose,,John W. Rose,Mr. Rose,118,R,R,TN,Tennessee,6th,Cookeville,RHOB,2238,20515,4206,(202) 225-4231,20241105,20250103
-TN07,G000590,"GREEN,MARK","Green, Mark",Mr.,Mark,E.,Green,,Mark E. Green,Mr. Green of Tennessee,118,R,R,TN,Tennessee,7th,Clarksville,RHOB,2446,20515,4207,(202) 225-2811,20241105,20250103
+TN07,,,,,,,,,,,0,,,TN,Tennessee,7th,,RHOB,2446,20515,4207,(202) 225-2811,,
 TN08,K000392,"KUSTOFF,DAVID","Kustoff, David",Mr.,David,,Kustoff,,David Kustoff,Mr. Kustoff,118,R,R,TN,Tennessee,8th,Germantown,CHOB,560,20515,4208,(202) 225-4714,20241105,20250103
 TN09,C001068,"COHEN,STEVE","Cohen, Steve",Mr.,Steve,,Cohen,,Steve Cohen,Mr. Cohen,118,D,D,TN,Tennessee,9th,Memphis,RHOB,2268,20515,4209,(202) 225-3265,20241105,20250103
 TX01,M001224,"MORAN,NATHANIEL","Moran, Nathaniel",Mr.,Nathaniel,,Moran,,Nathaniel Moran,Mr. Moran,118,R,R,TX,Texas,1st,Whitehouse,LHOB,1605,20515,4301,(202) 225-3035,20241105,20250103
