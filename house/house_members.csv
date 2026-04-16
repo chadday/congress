@@ -34,7 +34,7 @@ CA10,D000623,"DESAULNIER,MARK","DeSaulnier, Mark",Mr.,Mark,,DeSaulnier,,Mark DeS
 CA11,P000197,"PELOSI,NANCY","Pelosi, Nancy",Ms.,Nancy,,Pelosi,,Nancy Pelosi,Ms. Pelosi,118,D,D,CA,California,11th,San Francisco,LHOB,1236,20515,0511,(202) 225-4965,20241105,20250103
 CA12,S001231,"SIMON,LATEEFAH","Simon, Lateefah",Ms.,Lateefah,,Simon,,Lateefah Simon,Ms. Simon,0,D,D,CA,California,12th,Oakland,LHOB,1023,20515,0512,(202) 225-2661,20241105,20250103
 CA13,G000605,"GRAY,ADAM","Gray, Adam",Mr.,Adam,,Gray,,Adam Gray,Mr. Gray,0,D,D,CA,California,13th,Merced,LHOB,1230,20515,0513,(202) 225-1947,20241105,20250103
-CA14,S001193,"SWALWELL,ERIC","Swalwell, Eric",Mr.,Eric,,Swalwell,,Eric Swalwell,Mr. Swalwell,118,D,D,CA,California,14th,Livermore,CHOB,174,20515,0514,(202) 225-5065,20241105,20250103
+CA14,,,,,,,,,,,0,,,CA,California,14th,,CHOB,174,20515,0514,(202) 225-5065,,
 CA15,M001225,"MULLIN,KEVIN","Mullin, Kevin",Mr.,Kevin,,Mullin,,Kevin Mullin,Mr. Mullin,118,D,D,CA,California,15th,South San Francisco,LHOB,1404,20515,0515,(202) 225-3531,20241105,20250103
 CA16,L000607,"LICCARDO,SAM","Liccardo, Sam",Mr.,Sam,T.,Liccardo,,Sam T. Liccardo,Mr. Liccardo,0,D,D,CA,California,16th,San José,LHOB,1117,20515,0516,(202) 225-8104,20241105,20250103
 CA17,K000389,"KHANNA,RO","Khanna, Ro",Mr.,Ro,,Khanna,,Ro Khanna,Mr. Khanna,118,D,D,CA,California,17th,Fremont,CHOB,306,20515,0517,(202) 225-2631,20241105,20250103
@@ -129,7 +129,7 @@ GA10,C001129,"COLLINS,MIKE","Collins, Mike",Mr.,Mike,,Collins,,Mike Collins,Mr. 
 GA11,L000583,"LOUDERMILK,BARRY","Loudermilk, Barry",Mr.,Barry,,Loudermilk,,Barry Loudermilk,Mr. Loudermilk,118,R,R,GA,Georgia,11th,Cassville,RHOB,2133,20515,1011,(202) 225-2931,20241105,20250103
 GA12,A000372,"ALLEN,RICK","Allen, Rick",Mr.,Rick,W.,Allen,,Rick W. Allen,Mr. Allen,118,R,R,GA,Georgia,12th,Augusta,CHOB,462,20515,1012,(202) 225-2823,20241105,20250103
 GA13,S001157,"SCOTT,DAVID","Scott, David",Mr.,David,,Scott,,David Scott,Mr. David Scott of Georgia,118,D,D,GA,Georgia,13th,Atlanta,CHOB,468,20515,1013,(202) 225-2939,20241105,20250103
-GA14,,,,,,,,,,,0,,,GA,Georgia,14th,,RHOB,2201,20515,1014,(202) 225-5211,,
+GA14,F000485,"FULLER,CLAY","Fuller, Clay",Mr.,Clay,,Fuller,,Clay Fuller,Mr. Fuller,0,R,R,GA,Georgia,14th,Lookout Mountain,RHOB,2201,20515,1014,(202) 225-5211,20260407,20260414
 GU00,M001219,"MOYLAN,JAMES","Moylan, James",Mr.,James,C.,Moylan,,James C. Moylan,Mr. Moylan,118,R,R,GU,Guam,Delegate,Tumon,CHOB,228,20515,5301,(202) 225-1188,20241105,20250103
 HI01,C001055,"CASE,ED","Case, Ed",Mr.,Ed,,Case,,Ed Case,Mr. Case,118,D,D,HI,Hawaii,1st,Kaneohe,RHOB,2210,20515,1101,(202) 225-2726,20241105,20250103
 HI02,T000487,"TOKUDA,JILL","Tokuda, Jill",Ms.,Jill,N.,Tokuda,,Jill N. Tokuda,Ms. Tokuda,118,D,D,HI,Hawaii,2nd,Kaneohe,LHOB,1027,20515,1102,(202) 225-4906,20241105,20250103
@@ -386,7 +386,7 @@ TX19,A000375,"ARRINGTON,JODEY","Arrington, Jodey",Mr.,Jodey,C.,Arrington,,Jodey 
 TX20,C001091,"CASTRO,JOAQUIN","Castro, Joaquin",Mr.,Joaquin,,Castro,,Joaquin Castro,Mr. Castro of Texas,118,D,D,TX,Texas,20th,San Antonio,RHOB,2241,20515,4320,(202) 225-3236,20241105,20250103
 TX21,R000614,"ROY,CHIP","Roy, Chip",Mr.,Chip,,Roy,,Chip Roy,Mr. Roy,118,R,R,TX,Texas,21st,Austin,CHOB,103,20515,4321,(202) 225-4236,20241105,20250103
 TX22,N000026,"NEHLS,TROY","Nehls, Troy",Mr.,Troy,E.,Nehls,,Troy E. Nehls,Mr. Nehls,118,R,R,TX,Texas,22nd,Richmond,LHOB,1104,20515,4322,(202) 225-5951,20241105,20250103
-TX23,G000594,"GONZALES,TONY","Gonzales, Tony",Mr.,Tony,,Gonzales,,Tony Gonzales,Mr. Tony Gonzales of Texas,118,R,R,TX,Texas,23rd,San Antonio,RHOB,2239,20515,4323,(202) 225-4511,20241105,20250103
+TX23,,,,,,,,,,,0,,,TX,Texas,23rd,,RHOB,2239,20515,4323,(202) 225-4511,,
 TX24,V000134,"VANDUYNE,BETH","Van Duyne, Beth",Ms.,Beth,,Van Duyne,,Beth Van Duyne,Ms. Van Duyne,118,R,R,TX,Texas,24th,Irving,LHOB,1725,20515,4324,(202) 225-6605,20241105,20250103
 TX25,W000816,"WILLIAMS,ROGER","Williams, Roger",Mr.,Roger,,Williams,,Roger Williams,Mr. Williams of Texas,118,R,R,TX,Texas,25th,Weatherford,RHOB,2336,20515,4325,(202) 225-9896,20241105,20250103
 TX26,G000603,"GILL,BRANDON","Gill, Brandon",Mr.,Brandon,,Gill,,Brandon Gill,Mr. Gill of Texas,0,R,R,TX,Texas,26th,Flower Mound,LHOB,1305,20515,4326,(202) 225-7772,20241105,20250103
