@@ -107,7 +107,7 @@ FL16,B001260,"BUCHANAN,VERN","Buchanan, Vern",Mr.,Vern,,Buchanan,,Vern Buchanan,
 FL17,S001214,"STEUBE,W.","Steube, W.",Mr.,W.,Gregory,Steube,,W. Gregory Steube,Mr. Steube,118,R,R,FL,Florida,17th,Sarasota,RHOB,2457,20515,0917,(202) 225-5792,20241105,20250103
 FL18,F000472,"FRANKLIN,SCOTT","Franklin, Scott",Mr.,Scott,,Franklin,,Scott Franklin,Mr. Scott Franklin of Florida,118,R,R,FL,Florida,18th,Lakeland,RHOB,2301,20515,0918,(202) 225-1252,20241105,20250103
 FL19,D000032,"DONALDS,BYRON","Donalds, Byron",Mr.,Byron,,Donalds,,Byron Donalds,Mr. Donalds,118,R,R,FL,Florida,19th,Naples,LHOB,1710,20515,0919,(202) 225-2536,20241105,20250103
-FL20,C001127,"CHERFILUSMCCORMICK,SHEILA","Cherfilus-McCormick, Sheila",Mrs.,Sheila,,Cherfilus-McCormick,,Sheila Cherfilus-McCormick,Mrs. Cherfilus-McCormick,118,D,D,FL,Florida,20th,Miramar,RHOB,2442,20515,0920,(202) 225-1313,20241105,20250103
+FL20,,,,,,,,,,,0,,,FL,Florida,20th,,RHOB,2442,20515,0920,(202) 225-1313,,
 FL21,M001199,"MAST,BRIAN","Mast, Brian",Mr.,Brian,J.,Mast,,Brian J. Mast,Mr. Mast,118,R,R,FL,Florida,21st,Fort Pierce,RHOB,2182,20515,0921,(202) 225-3026,20241105,20250103
 FL22,F000462,"FRANKEL,LOIS","Frankel, Lois",Ms.,Lois,,Frankel,,Lois Frankel,Ms. Lois Frankel of Florida,118,D,D,FL,Florida,22nd,West Palm Beach,RHOB,2305,20515,0922,(202) 225-9890,20241105,20250103
 FL23,M001217,"MOSKOWITZ,JARED","Moskowitz, Jared",Mr.,Jared,,Moskowitz,,Jared Moskowitz,Mr. Moskowitz,118,D,D,FL,Florida,23rd,Parkland,CHOB,242,20515,0923,(202) 225-3001,20241105,20250103
@@ -128,7 +128,7 @@ GA09,C001116,"CLYDE,ANDREW","Clyde, Andrew",Mr.,Andrew,S.,Clyde,,Andrew S. Clyde
 GA10,C001129,"COLLINS,MIKE","Collins, Mike",Mr.,Mike,,Collins,,Mike Collins,Mr. Collins,118,R,R,GA,Georgia,10th,Jackson,RHOB,2351,20515,1010,(202) 225-4101,20241105,20250103
 GA11,L000583,"LOUDERMILK,BARRY","Loudermilk, Barry",Mr.,Barry,,Loudermilk,,Barry Loudermilk,Mr. Loudermilk,118,R,R,GA,Georgia,11th,Cassville,RHOB,2133,20515,1011,(202) 225-2931,20241105,20250103
 GA12,A000372,"ALLEN,RICK","Allen, Rick",Mr.,Rick,W.,Allen,,Rick W. Allen,Mr. Allen,118,R,R,GA,Georgia,12th,Augusta,CHOB,462,20515,1012,(202) 225-2823,20241105,20250103
-GA13,S001157,"SCOTT,DAVID","Scott, David",Mr.,David,,Scott,,David Scott,Mr. David Scott of Georgia,118,D,D,GA,Georgia,13th,Atlanta,CHOB,468,20515,1013,(202) 225-2939,20241105,20250103
+GA13,,,,,,,,,,,0,,,GA,Georgia,13th,,CHOB,468,20515,1013,(202) 225-2939,,
 GA14,F000485,"FULLER,CLAY","Fuller, Clay",Mr.,Clay,,Fuller,,Clay Fuller,Mr. Fuller,0,R,R,GA,Georgia,14th,Lookout Mountain,RHOB,2201,20515,1014,(202) 225-5211,20260407,20260414
 GU00,M001219,"MOYLAN,JAMES","Moylan, James",Mr.,James,C.,Moylan,,James C. Moylan,Mr. Moylan,118,R,R,GU,Guam,Delegate,Tumon,CHOB,228,20515,5301,(202) 225-1188,20241105,20250103
 HI01,C001055,"CASE,ED","Case, Ed",Mr.,Ed,,Case,,Ed Case,Mr. Case,118,D,D,HI,Hawaii,1st,Kaneohe,RHOB,2210,20515,1101,(202) 225-2726,20241105,20250103
@@ -266,7 +266,7 @@ NJ07,K000398,"KEAN,THOMAS","Kean, Thomas",Mr.,Thomas,H.,Kean,Jr.,"Thomas H. Kean
 NJ08,M001226,"MENENDEZ,ROBERT","Menendez, Robert",Mr.,Robert,,Menendez,,Robert Menendez,Mr. Menendez,118,D,D,NJ,New Jersey,8th,Jersey City,RHOB,2453,20515,3008,(202) 225-7919,20241105,20250103
 NJ09,P000621,"POU,NELLIE","Pou, Nellie",Ms.,Nellie,,Pou,,Nellie Pou,Ms. Pou,0,D,D,NJ,New Jersey,9th,Borough of North Haledon,LHOB,1007,20515,3009,(202) 225-5751,20241105,20250103
 NJ10,M001229,"MCIVER,LAMONICA","McIver, LaMonica",Mrs.,LaMonica,,McIver,,LaMonica McIver,Mrs. McIver,118,D,D,NJ,New Jersey,10th,Newark,CHOB,426,20515,3010,(202) 225-3436,20241105,20250103
-NJ11,,,,,,,,,,,0,,,NJ,New Jersey,11th,,LHOB,1427,20515,3011,(202) 225-5034,,
+NJ11,M001246,"MEJIA,ANALILIA","Mejia, Analilia",Ms.,Analilia,,Mejia,,Analilia Mejia,Ms. Mejia,0,D,D,NJ,New Jersey,11th,Glen Ridge,LHOB,1427,20515,3011,(202) 225-5034,20260416,20260420
 NJ12,W000822,"WATSONCOLEMAN,BONNIE","Watson Coleman, Bonnie",Mrs.,Bonnie,,Watson Coleman,,Bonnie Watson Coleman,Mrs. Watson Coleman,118,D,D,NJ,New Jersey,12th,Ewing Township,CHOB,168,20515,3012,(202) 225-5801,20241105,20250103
 NM01,S001218,"STANSBURY,MELANIE","Stansbury, Melanie",Ms.,Melanie,A.,Stansbury,,Melanie A. Stansbury,Ms. Stansbury,118,D,D,NM,New Mexico,1st,Albuquerque,LHOB,1421,20515,3101,(202) 225-6316,20241105,20250103
 NM02,V000136,"VASQUEZ,GABE","Vasquez, Gabe",Mr.,Gabe,,Vasquez,,Gabe Vasquez,Mr. Vasquez,118,D,D,NM,New Mexico,2nd,Las Cruces,CHOB,322,20515,3102,(202) 225-2365,20241105,20250103
