@@ -1,6 +1,6 @@
 state,bioguideid,member_id,first_name,last_name,suffix,party,town,office,state_rank
 MD,A000382,S428,Angela D.,Alsobrooks,,D,Upper Marlboro,374 Russell,2
-OK,A000383,S440,Alan,Armstrong,,R,Tulsa,G12 Dirksen,2
+OK,A000383,S440,Alan,Armstrong,,R,Tulsa,330 Hart,2
 WI,B001230,S354,Tammy,Baldwin,,D,Madison,141 Hart,2
 IN,B001299,S429,Jim,Banks,,R,Columbia City,303 Hart,2
 WY,B001261,S317,John,Barrasso,,R,Casper,307 Dirksen,1
@@ -77,7 +77,7 @@ NV,R000608,S402,Jacky,Rosen,,D,Henderson,713 Hart,2
 SD,R000605,S381,Mike,Rounds,,R,Fort Pierre,716 Hart,2
 VT,S000033,S313,Bernard,Sanders,,I,Burlington,332 Dirksen,1
 HI,S001194,S353,Brian,Schatz,,D,Honolulu,722 Hart,1
-CA,S001150,S427,Adam B.,Schiff,,D,Burbank,112 Hart,2
+CA,S001150,S427,Adam B.,Schiff,,D,Burbank,B40C Dirksen,2
 MO,S001227,S420,Eric,Schmitt,,R,Glendale,404 Russell,2
 NY,S000148,S270,Charles E.,Schumer,,D,Brooklyn,322 Hart,1
 SC,S001184,S365,Tim,Scott,,R,Charleston,104 Hart,2
